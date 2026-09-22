@@ -1,0 +1,49 @@
+{
+  "resource": "/RUN/SP/M11/READERM.ZAR",
+  "resource_sha256": "5ce3a40741387e24d1c9b505e4590fd8a33ac5384123f94a342749420d081c5d",
+  "section": "actions.rdr",
+  "section_sha256": "7173794597ef099446d4f987695ab976c95aca8fabae0e7a53eee6e58d61799b",
+  "tree": [
+    [
+      "actions",
+      [
+        [
+          "node",
+          [
+            "breach1"
+          ],
+          "valve",
+          [
+            "door_breach1"
+          ],
+          "type",
+          [
+            "ACT_BREACH"
+          ],
+          "range",
+          [
+            30
+          ]
+        ],
+        [
+          "node",
+          [
+            "breach2"
+          ],
+          "valve",
+          [
+            "door_breach2"
+          ],
+          "type",
+          [
+            "ACT_BREACH"
+          ],
+          "range",
+          [
+            30
+          ]
+        ]
+      ]
+    ]
+  ]
+}

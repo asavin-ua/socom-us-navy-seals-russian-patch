@@ -1,0 +1,33 @@
+{
+  "resource": "/RUN/SP/M11/READERM.ZAR",
+  "resource_sha256": "5ce3a40741387e24d1c9b505e4590fd8a33ac5384123f94a342749420d081c5d",
+  "section": "missioncams.rdr",
+  "section_sha256": "bea8946f2086a5400a71430614f7345b92fee21729da953b37039b8deeeaf53a",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m11bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11bs"
+        ]
+      ]
+    ]
+  ]
+}

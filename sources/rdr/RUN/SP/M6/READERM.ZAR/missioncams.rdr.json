@@ -1,0 +1,169 @@
+{
+  "resource": "/RUN/SP/M6/READERM.ZAR",
+  "resource_sha256": "1376bff9d64761381615706aa81ae8b56bf548ad895f65a50f859cf201808b80",
+  "section": "missioncams.rdr",
+  "section_sha256": "147febaaaf44632a09b9cc3b6086c3f61a741f58179c403baa2ad2e28293c58f",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m6bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut1"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00dc\u00c1EP\u00c8TE \u00c2B\u00dcX 4ACOB\u00c0X"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c8C\u00caO\u00c9b3\u00dc\u00cfTE \u00dcKP\u00c0T\u00c8\u00db 4TO\u00c1 HE B\u00c0\u00c2ATb CE\u00c1\u00db"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut1"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut2"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*4ACOBO\u00cf HA4\u00c8HAET \u00caATP\u00dc\u00c9b \u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*HE PACKPO\u00cfTECb "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut2"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut3"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00dc\u00c1EP\u00c8TE \u00c2B\u00dcX 4ACOB\u00c0X"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c8C\u00caO\u00c9b3\u00dc\u00cfTE \u00dcKP\u00c0T\u00c8\u00db 4TO\u00c1 HE B\u00c0\u00c2ATb CE\u00c1\u00db"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut3"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut4"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*CHA\u00cf\u00caEP\u00c0 PA3ME\u00d3EH\u00c0 \u00caO MECTAM \u00e4\u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c8C\u00caO\u00c9b3\u00dc\u00cfTE \u00dcKP\u00c0T\u00c8\u00db 4TO\u00c1 HE B\u00c0\u00c2ATb CE\u00c1\u00db"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut4"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut5"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00dc\u00c1EP\u00c8TE \u00c2BO\u00c8X \u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c1\u00c8TBA B 3AKP\u00c0T\u00c0X \u00caOME\u00d3EH\u00c8\u00dbX T\u00db\u00c4E\u00c9A \u00e4\u00e4"
+        ],
+        "DESCRIPTION3",
+        [
+          "*HE \u00caP\u00c8B\u00c9EKA\u00cfTE BH\u00c8MAH\u00c8\u00db \u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut5"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m6tut6"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00dc\u00c1EP\u00c8TE \u00c2BO\u00c8X \u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c1\u00c8TBA B 3AKP\u00c0T\u00c0X \u00caOME\u00d3EH\u00c8\u00dbX T\u00db\u00c4E\u00c9A \u00e4\u00e4"
+        ],
+        "DESCRIPTION3",
+        [
+          "*HE \u00caP\u00c8B\u00c9EKA\u00cfTE BH\u00c8MAH\u00c8\u00db \u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6tut6"
+        ]
+      ]
+    ]
+  ]
+}

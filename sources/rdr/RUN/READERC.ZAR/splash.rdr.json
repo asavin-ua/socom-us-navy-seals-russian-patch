@@ -1,0 +1,34 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "splash.rdr",
+  "section_sha256": "fcc1cae9d794f85b3e7d1f9fe53ecc673242ef477556920c428aee6c932a0a24",
+  "tree": [
+    [
+      "libname",
+      [
+        "splash"
+      ],
+      "texname",
+      [
+        "splash.TIF"
+      ],
+      "loadtexname",
+      [
+        "splashload.tif"
+      ],
+      "moviename",
+      [
+        "splash.pss"
+      ],
+      "winscreen",
+      [
+        "winner.TIF"
+      ],
+      "lostscreen",
+      [
+        "loser.TIF"
+      ]
+    ]
+  ]
+}

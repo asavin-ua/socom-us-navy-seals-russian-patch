@@ -1,0 +1,37 @@
+{
+  "resource": "/RUN/SP/M15/READERM.ZAR",
+  "resource_sha256": "1e97af76e65acc488daccc4845cfb996607922a8b2f9f21e741860cd1c60e0ee",
+  "section": "aimaps.rdr",
+  "section_sha256": "d25e087668b0cf0076943ae5c03b2b5b4fcf8c783ebb287e6bc171abd90fd895",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "ledge01.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "ledge02.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "ledge03.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

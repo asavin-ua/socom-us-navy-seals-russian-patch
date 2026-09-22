@@ -1,0 +1,55 @@
+{
+  "resource": "/RUN/SP/M9/READERM.ZAR",
+  "resource_sha256": "06796dd2fb5aa5b554b7b50df7ef8e3a514dc6e177bec52809097bb010c7a41d",
+  "section": "aimaps.rdr",
+  "section_sha256": "79b972155e3c701e4691ca90559f7dda08da3dd8d1c2931ad2b48c1de9db5e38",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut01.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut02.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut03.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut04.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut05.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bridge.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

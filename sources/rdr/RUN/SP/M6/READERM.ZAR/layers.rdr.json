@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M6/READERM.ZAR",
+  "resource_sha256": "1376bff9d64761381615706aa81ae8b56bf548ad895f65a50f859cf201808b80",
+  "section": "layers.rdr",
+  "section_sha256": "9c1df7963a6d3656fe6c11501918811eb294435776a70c0fa2dfabb298c815c6",
+  "tree": [
+    [
+      "layers",
+      [
+        [
+          "name",
+          [
+            "New"
+          ],
+          "hidden",
+          [
+            202
+          ],
+          "export",
+          [
+            111
+          ],
+          "nodes",
+          []
+        ]
+      ]
+    ]
+  ]
+}

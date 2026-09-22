@@ -1,0 +1,65 @@
+{
+  "resource": "/RUN/SP/M16/READERM.ZAR",
+  "resource_sha256": "dd0aeb75f335af08260504d78bb4f4e4a1136c146e91ab517f5e15e95fc09a46",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "b819fbe994b98fee2efe863d2bbc0f6f47c57073e5df8f9b9843e4576a9960cd",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "\u00dc\u00c1PAT\u00d9 KOT\u00cdHKA"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE \u00c8MA\u00c2A A\u00c9\u00d9-KA\u00c2\u00c8 \u00c8 \u00dcCTPAH\u00c8TE \u00c2O E\u00cbO \u00caO\u00c1E\u00cbA."
+        ],
+        "VALVE",
+        [
+          "POBJ1"
+        ],
+        "LOCATION",
+        [
+          4077.219970703125,
+          3352.929931640625
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m16obj1"
+        ],
+        "LINE_IDS",
+        [
+          1
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00dc\u00c1PAT\u00d9 TO\u00c9CT\u00dbKA"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE M\u00dc\u00c9\u00c9\u00dc \u00c1AX\u00c8PA A\u00c9\u00d9-KA\u00c2\u00c8 \u00c8 \u00dcCTPAH\u00c8TE \u00c2O E\u00cbO \u00caO\u00c1E\u00cbA."
+        ],
+        "VALVE",
+        [
+          "POBJ2"
+        ],
+        "LOCATION",
+        [
+          3227.219970703125,
+          3362.929931640625
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m16obj6"
+        ],
+        "LINE_IDS",
+        [
+          2
+        ]
+      ]
+    ]
+  ]
+}

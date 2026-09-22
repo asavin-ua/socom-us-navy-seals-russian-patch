@@ -1,0 +1,616 @@
+[
+  {
+    "offset": 3524368,
+    "english": "Cross hairs",
+    "current_game_bytes_hex": "ca5023c74524"
+  },
+  {
+    "offset": 3524384,
+    "english": "EXECUTE ORDER AT THE CROSSHAIRS",
+    "current_game_bytes_hex": "ca50234b4133204220544f344b4520ca5023c7452441"
+  },
+  {
+    "offset": 3524416,
+    "english": "LASE AT THIS TARGET",
+    "current_game_bytes_hex": "244133455020484120c7452436"
+  },
+  {
+    "offset": 3524464,
+    "english": "EXECUTE ORDER AT THIS NAV POINT",
+    "current_game_bytes_hex": "ca50234b4133204220264b41334148484f2320544f344b45"
+  },
+  {
+    "offset": 3524496,
+    "english": "DEPLOY THIS WEAPON",
+    "current_game_bytes_hex": "ca50234d4548235436204f5026c42345"
+  },
+  {
+    "offset": 3524528,
+    "english": "ON",
+    "current_game_bytes_hex": "4441"
+  },
+  {
+    "offset": 3524544,
+    "english": "RESCIND VOTE AGAINST THIS PLAYER",
+    "current_game_bytes_hex": "4f544d454823543620cb4f244f432020da544fcb4f2023cb504f4b41"
+  },
+  {
+    "offset": 3524584,
+    "english": "OFF",
+    "current_game_bytes_hex": "484554"
+  },
+  {
+    "offset": 3524592,
+    "english": "VOTE THIS PLAYER OUT",
+    "current_game_bytes_hex": "ca504fcb4f244f434f4241543620ca504f542342"
+  },
+  {
+    "offset": 3532136,
+    "english": "OFF",
+    "current_game_bytes_hex": "484554"
+  },
+  {
+    "offset": 3532144,
+    "english": "ON",
+    "current_game_bytes_hex": "4441"
+  },
+  {
+    "offset": 3538296,
+    "english": "ON",
+    "current_game_bytes_hex": "4441"
+  },
+  {
+    "offset": 3538304,
+    "english": "OFF",
+    "current_game_bytes_hex": "484554"
+  },
+  {
+    "offset": 3548096,
+    "english": "(empty)",
+    "current_game_bytes_hex": "28cadc43544f29"
+  },
+  {
+    "offset": 3548672,
+    "english": "CLOSE DOOR",
+    "current_game_bytes_hex": "33414b50c0543620c242455036"
+  },
+  {
+    "offset": 3548688,
+    "english": "OPEN DOOR",
+    "current_game_bytes_hex": "4f544b50c0543620c242455036"
+  },
+  {
+    "offset": 3548704,
+    "english": "CLOSE WINDOW",
+    "current_game_bytes_hex": "33414b50c05436204f4b484f"
+  },
+  {
+    "offset": 3548720,
+    "english": "OPEN WINDOW",
+    "current_game_bytes_hex": "4f544b50c05436204f4b484f"
+  },
+  {
+    "offset": 3548736,
+    "english": "FLIP SWITCH",
+    "current_game_bytes_hex": "ca4550454b24d434235436"
+  },
+  {
+    "offset": 3548752,
+    "english": "DEFUSE BOMB",
+    "current_game_bytes_hex": "4fc14533425045c2235436"
+  },
+  {
+    "offset": 3548768,
+    "english": "MP BOMB",
+    "current_game_bytes_hex": "c14f4dc141"
+  },
+  {
+    "offset": 3548776,
+    "english": "PLACE SATCHEL",
+    "current_game_bytes_hex": "3341244fc42354362033415025c2"
+  },
+  {
+    "offset": 3548792,
+    "english": "BREACH",
+    "current_game_bytes_hex": "4233244f4d"
+  },
+  {
+    "offset": 3561104,
+    "english": "COVERING",
+    "current_game_bytes_hex": "ca50234b50c0542345"
+  },
+  {
+    "offset": 3561120,
+    "english": "HOLDING",
+    "current_game_bytes_hex": "c4c24554"
+  },
+  {
+    "offset": 3561128,
+    "english": "LEADING",
+    "current_game_bytes_hex": "4245c24554"
+  },
+  {
+    "offset": 3561136,
+    "english": "ATTACKING",
+    "current_game_bytes_hex": "4154414b264554"
+  },
+  {
+    "offset": 3561152,
+    "english": "AMBUSHING",
+    "current_game_bytes_hex": "33414341c241"
+  },
+  {
+    "offset": 3561168,
+    "english": "TRAVELING",
+    "current_game_bytes_hex": "c24223cb4145544325"
+  },
+  {
+    "offset": 3561184,
+    "english": "DEPLOYING",
+    "current_game_bytes_hex": "50413342455054c042"
+  },
+  {
+    "offset": 3561200,
+    "english": "BREACHING",
+    "current_game_bytes_hex": "244f4d23544325"
+  },
+  {
+    "offset": 3561216,
+    "english": "CLEARING",
+    "current_game_bytes_hex": "4f3423d2414554"
+  },
+  {
+    "offset": 3561232,
+    "english": "FOLLOWING",
+    "current_game_bytes_hex": "432445c2264554"
+  },
+  {
+    "offset": 3561248,
+    "english": "LASING",
+    "current_game_bytes_hex": "2441334550"
+  },
+  {
+    "offset": 3561256,
+    "english": "ENGAGING",
+    "current_game_bytes_hex": "4f544224454b4145"
+  },
+  {
+    "offset": 3561272,
+    "english": "OPENING",
+    "current_game_bytes_hex": "4f544b50c042"
+  },
+  {
+    "offset": 3561280,
+    "english": "CLOSING",
+    "current_game_bytes_hex": "33414b50c042"
+  },
+  {
+    "offset": 3561288,
+    "english": "WORKING",
+    "current_game_bytes_hex": "5041c14f544145"
+  },
+  {
+    "offset": 3580680,
+    "english": "CROSS HAIRS",
+    "current_game_bytes_hex": "ca4550454b504543543645"
+  },
+  {
+    "offset": 3580712,
+    "english": "CHARLIE",
+    "current_game_bytes_hex": "3441502423"
+  },
+  {
+    "offset": 3580720,
+    "english": "DELTA",
+    "current_game_bytes_hex": "c245245441"
+  },
+  {
+    "offset": 3580728,
+    "english": "ECHO",
+    "current_game_bytes_hex": "da584f"
+  },
+  {
+    "offset": 3580736,
+    "english": "FOXTROT",
+    "current_game_bytes_hex": "404f4b4354504f"
+  },
+  {
+    "offset": 3580744,
+    "english": "JULIET",
+    "current_game_bytes_hex": "c42624364554"
+  },
+  {
+    "offset": 3580752,
+    "english": "ROMEO",
+    "current_game_bytes_hex": "504f4d454f"
+  },
+  {
+    "offset": 3580760,
+    "english": "SIERRA",
+    "current_game_bytes_hex": "43d945505041"
+  },
+  {
+    "offset": 3580768,
+    "english": "WHISKEY",
+    "current_game_bytes_hex": "4223434b23"
+  },
+  {
+    "offset": 3580776,
+    "english": "X-RAY",
+    "current_game_bytes_hex": "582d50da23"
+  },
+  {
+    "offset": 3580792,
+    "english": "ZULU",
+    "current_game_bytes_hex": "33262426"
+  },
+  {
+    "offset": 3580808,
+    "english": "CLAYMORE",
+    "current_game_bytes_hex": "4b2445234d4f50"
+  },
+  {
+    "offset": 3580824,
+    "english": "SATCHEL CHARGE",
+    "current_game_bytes_hex": "423350c0423441544b41"
+  },
+  {
+    "offset": 3580856,
+    "english": "SEA FOR",
+    "current_game_bytes_hex": "4d4f5045"
+  },
+  {
+    "offset": 3580872,
+    "english": "SMOKE",
+    "current_game_bytes_hex": "c2c04d4f42"
+  },
+  {
+    "offset": 3580880,
+    "english": "SMOKE TWO",
+    "current_game_bytes_hex": "c2c04d4f4220c24241"
+  },
+  {
+    "offset": 3580912,
+    "english": "BANG",
+    "current_game_bytes_hex": "43424554"
+  },
+  {
+    "offset": 3580920,
+    "english": "GAS",
+    "current_game_bytes_hex": "cb4133"
+  },
+  {
+    "offset": 3580928,
+    "english": "GAS TWO",
+    "current_game_bytes_hex": "cb413320c24241"
+  },
+  {
+    "offset": 3580944,
+    "english": "WILLIE PETE",
+    "current_game_bytes_hex": "4223242420ca2354"
+  },
+  {
+    "offset": 3580984,
+    "english": "ILLUM",
+    "current_game_bytes_hex": "232424264d"
+  },
+  {
+    "offset": 3580992,
+    "english": "FRAG TWO",
+    "current_game_bytes_hex": "4f434b2e20c24241"
+  },
+  {
+    "offset": 3581944,
+    "english": "ABLE",
+    "current_game_bytes_hex": "da23c124"
+  },
+  {
+    "offset": 3581952,
+    "english": "BRAVO",
+    "current_game_bytes_hex": "c15041424f"
+  },
+  {
+    "offset": 3581960,
+    "english": "TEAM",
+    "current_game_bytes_hex": "4b4d48c2"
+  },
+  {
+    "offset": 3581968,
+    "english": "ESCORTEE",
+    "current_game_bytes_hex": "da434b4f5054"
+  },
+  {
+    "offset": 3581984,
+    "english": "SUPPORT",
+    "current_game_bytes_hex": "ca4f4d4fd236"
+  },
+  {
+    "offset": 3634776,
+    "english": "%d MAGS",
+    "current_game_bytes_hex": "2564204d41cb2e"
+  },
+  {
+    "offset": 3634784,
+    "english": "NONE",
+    "current_game_bytes_hex": "484554"
+  },
+  {
+    "offset": 3634792,
+    "english": "SINGLE",
+    "current_game_bytes_hex": "4fc2484f4354"
+  },
+  {
+    "offset": 3634800,
+    "english": "BURST",
+    "current_game_bytes_hex": "423350c042"
+  },
+  {
+    "offset": 3634808,
+    "english": "AUTO",
+    "current_game_bytes_hex": "4142544f"
+  },
+  {
+    "offset": 3634816,
+    "english": "ZOOM: %2.1fx",
+    "current_game_bytes_hex": "4d4143d23a2025322e316678"
+  },
+  {
+    "offset": 3634880,
+    "english": "You are a ghost. In the next round you will play as a team member.",
+    "current_game_bytes_hex": "42c020ca4fcbc8c1c9c82e2042c0204245504845544543d9204220c14fc820422043c945c2dcd4d3454d205041dc48c2452e"
+  },
+  {
+    "offset": 3634960,
+    "english": "YOU COMMITTED SUICIDE",
+    "current_game_bytes_hex": "42c0202043414dc82020dcc1c8c9c820204345c1db"
+  },
+  {
+    "offset": 3634992,
+    "english": "YOU WERE KILLED BY HEAVY EXPLOSIVES",
+    "current_game_bytes_hex": "42c020ca4fcbc8c1c9c8204f5420423350c04241"
+  },
+  {
+    "offset": 3635040,
+    "english": "YOU WERE KILLED BY EXPLODING BARREL",
+    "current_game_bytes_hex": "42414320dcc1c8c920423350c04220c14f344bc8"
+  },
+  {
+    "offset": 3635088,
+    "english": "YOU WERE KILLED%s%s WITH %s",
+    "current_game_bytes_hex": "42c020c1c0c9c820dcc1c854c0202573257320c833202573"
+  },
+  {
+    "offset": 3635128,
+    "english": "KILLED BY",
+    "current_game_bytes_hex": "dcc1c854"
+  },
+  {
+    "offset": 3635184,
+    "english": "YOU HAVE DIED",
+    "current_game_bytes_hex": "42c02020ca4fcbc8c1c9c8"
+  },
+  {
+    "offset": 3635200,
+    "english": "Use the directional buttons to cycle through teammates",
+    "current_game_bytes_hex": "4b484fca4bc8204841ca504142c94548c8db3a20ca4550454bc9d434c854d920c14fc8c741"
+  },
+  {
+    "offset": 3635264,
+    "english": "Press the R2 button to select weapons for the next round",
+    "current_game_bytes_hex": "52323a2043484150dbc44548c84520c2c9db2043c945c2dcd4d345cb4f205041dc48c241"
+  },
+  {
+    "offset": 3637200,
+    "english": "INVERT PITCH: ON",
+    "current_game_bytes_hex": "c84842455043c8db3a20424bc9"
+  },
+  {
+    "offset": 3637232,
+    "english": "INVERT PITCH: OFF",
+    "current_game_bytes_hex": "c84842455043c8db3a2042c04bc9"
+  },
+  {
+    "offset": 3637256,
+    "english": "HELP: ON",
+    "current_game_bytes_hex": "43ca5041424b413a20424bc9"
+  },
+  {
+    "offset": 3637272,
+    "english": "HELP: OFF",
+    "current_game_bytes_hex": "43ca5041424b413a2042c04bc9"
+  },
+  {
+    "offset": 3637288,
+    "english": "AIM ASSIST: ON",
+    "current_game_bytes_hex": "4142544f4841422e3a20424bc9"
+  },
+  {
+    "offset": 3637312,
+    "english": "AIM ASSIST: OFF",
+    "current_game_bytes_hex": "4142544f4841422e3a2042c04bc9"
+  },
+  {
+    "offset": 3637344,
+    "english": "RESUME",
+    "current_game_bytes_hex": "4220c8cb50dc"
+  },
+  {
+    "offset": 3637352,
+    "english": "ABORT",
+    "current_game_bytes_hex": "ca504550424154d9"
+  },
+  {
+    "offset": 3637368,
+    "english": "REPLAY MISSION",
+    "current_game_bytes_hex": "4841344154d9203341484f424f"
+  },
+  {
+    "offset": 3637760,
+    "english": "left analog stick = MOVE MAP",
+    "current_game_bytes_hex": "c94542c0c8204354c84b3a20c242c8cb4154d9204b415054dc"
+  },
+  {
+    "offset": 3637792,
+    "english": "right analog stick = ZOOM",
+    "current_game_bytes_hex": "ca504142c0c8204354c84b3a204d4143d25441c1"
+  },
+  {
+    "offset": 3637824,
+    "english": "CENTER OBJECTIVE/PLAYER",
+    "current_game_bytes_hex": "c7454854503a20c745c9d92fc8cb504f4b"
+  },
+  {
+    "offset": 3637848,
+    "english": "OBJECTIVES",
+    "current_game_bytes_hex": "3341c24134c8"
+  },
+  {
+    "offset": 3637880,
+    "english": "PLAY MOVIE",
+    "current_game_bytes_hex": "ca4f434d4f5450455462"
+  },
+  {
+    "offset": 3637896,
+    "english": "TACTICAL MAP",
+    "current_game_bytes_hex": "4b4150544120dc504f4248db"
+  },
+  {
+    "offset": 3637944,
+    "english": "RESUME GAME",
+    "current_game_bytes_hex": "42455048dc546243db"
+  },
+  {
+    "offset": 3637968,
+    "english": "R2 button: LEGEND",
+    "current_game_bytes_hex": "52323a204fc14f334841344548c8db"
+  },
+  {
+    "offset": 3638024,
+    "english": "CENTER PLAYER",
+    "current_game_bytes_hex": "42c0504f422e20c8cb504f4b41"
+  },
+  {
+    "offset": 3638960,
+    "english": "PRIMARY OBJECTIVE",
+    "current_game_bytes_hex": "ca45504241db203341c2413441"
+  },
+  {
+    "offset": 3638992,
+    "english": "SECONDARY OBJECTIVE",
+    "current_game_bytes_hex": "42544f5041db2020203341c2413441"
+  },
+  {
+    "offset": 3642152,
+    "english": "LADDER SLIDE",
+    "current_game_bytes_hex": "43ca2643542354364325"
+  },
+  {
+    "offset": 3642168,
+    "english": "ACTION",
+    "current_game_bytes_hex": "c24523435442"
+  },
+  {
+    "offset": 3642176,
+    "english": "CLIMB",
+    "current_game_bytes_hex": "33412445335436"
+  },
+  {
+    "offset": 3642184,
+    "english": "TALK",
+    "current_game_bytes_hex": "c22341244fcb"
+  },
+  {
+    "offset": 3642192,
+    "english": "TAKE",
+    "current_game_bytes_hex": "4233255436"
+  },
+  {
+    "offset": 3642200,
+    "english": "DROP BOMB",
+    "current_game_bytes_hex": "c1504f4323543620c14f4dc126"
+  },
+  {
+    "offset": 3642224,
+    "english": "PRESS AND HOLD   ",
+    "current_game_bytes_hex": "26c24550c42342415436"
+  },
+  {
+    "offset": 3642248,
+    "english": "PICKUP BODY",
+    "current_game_bytes_hex": "ca4fc248255436205445244f"
+  },
+  {
+    "offset": 3642264,
+    "english": "DROP BODY",
+    "current_game_bytes_hex": "ca4f244fc4235436205445244f"
+  },
+  {
+    "offset": 3642280,
+    "english": "KNIFE ATTACK",
+    "current_game_bytes_hex": "26c2415020484fc44f4d"
+  },
+  {
+    "offset": 3642296,
+    "english": "RESTRAIN",
+    "current_game_bytes_hex": "43422533415436"
+  },
+  {
+    "offset": 3642312,
+    "english": "RIFLE BUTT",
+    "current_game_bytes_hex": "26c2415020ca50234b2441c24f4d"
+  },
+  {
+    "offset": 3642344,
+    "english": "SATCHEL",
+    "current_game_bytes_hex": "33415025c2"
+  },
+  {
+    "offset": 3642360,
+    "english": "HOLD POSITION",
+    "current_game_bytes_hex": "26c24550c42342415436"
+  },
+  {
+    "offset": 3642400,
+    "english": "BOMB DEFUSAL",
+    "current_game_bytes_hex": "c14f4dc141204f544b242027"
+  },
+  {
+    "offset": 3642416,
+    "english": "DEMOLITION",
+    "current_game_bytes_hex": "26482334544fc44548"
+  },
+  {
+    "offset": 3642952,
+    "english": "STAND",
+    "current_game_bytes_hex": "43544f2354",
+    "display": "СТОИТ",
+    "encoding": "orders",
+    "note": "Visible stance table next to stance_*.tif"
+  },
+  {
+    "offset": 3642960,
+    "english": "CROUCH",
+    "current_game_bytes_hex": "ca5023434524",
+    "display": "ПРИСЕЛ",
+    "encoding": "orders",
+    "note": "Visible stance table next to stance_*.tif"
+  },
+  {
+    "offset": 3642968,
+    "english": "PRONE",
+    "current_game_bytes_hex": "2445c42354",
+    "display": "ЛЕЖИТ",
+    "encoding": "orders",
+    "note": "Visible stance table next to stance_*.tif"
+  },
+  {
+    "offset": 3645664,
+    "english": "The hardware \"%s/%s\" is not supported or not connected.\nPress the X button to continue.",
+    "current_game_bytes_hex": "546865206861726477617265202225732f257322206973206e6f7420737570706f72746564206f72206e6f7420636f6e6e65637465642e0a4841c44d23204841205820ca504fc24f24c4235436"
+  },
+  {
+    "offset": 3646656,
+    "english": "TO ABORT",
+    "current_game_bytes_hex": "ca504fca264354235436"
+  }
+]

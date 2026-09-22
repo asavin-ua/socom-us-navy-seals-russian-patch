@@ -1,0 +1,1748 @@
+[
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "ai_moves.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/ai_moves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "ai_turrets.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/ai_turrets.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "animset.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/animset.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "bmode.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/bmode.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "character.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/character.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "cheats.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/cheats.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "controller.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/controller.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "damanim.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/damanim.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "decals.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/decals.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "dynamics.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/dynamics.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "fonts.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/fonts.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "global_valves.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/global_valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "hud.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/hud.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "materials.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/materials.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "messages.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/messages.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "motion.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/motion.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "motion_range.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/motion_range.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "mpconfig.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/mpconfig.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "non_mission.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/non_mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "orders.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/orders.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "small_messages.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/small_messages.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "sndjukebox.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/sndjukebox.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "sounds.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/sounds.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "splash.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/splash.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "subtitles.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/subtitles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "UiParams.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/UiParams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/READERC.ZAR",
+    "section": "zweapon.rdr",
+    "file": "sources/rdr/RUN/READERC.ZAR/zweapon.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "m11.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/m11.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "m11_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/m11_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M11/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M11/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "m12.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/m12.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "m12_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/m12_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M12/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M12/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "m13.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/m13.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "m13_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/m13_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M13/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M13/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "m15.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/m15.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "m15_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/m15_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M15/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M15/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "m16.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/m16.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "m16_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/m16_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "net_000.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/net_000.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M16/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M16/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "m17.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/m17.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "m17_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/m17_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M17/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M17/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "m19.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/m19.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "m19_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/m19_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M19/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M19/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "lensflare.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/lensflare.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "m21.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/m21.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "m21_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/m21_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M21/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M21/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "lod.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/lod.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "m5.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/m5.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "m5_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/m5_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M5/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M5/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "m6.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/m6.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "m6_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/m6_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M6/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M6/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "m8.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/m8.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "m8_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/m8_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M8/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M8/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "actions.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/actions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "aimaps.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/aimaps.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "clutter.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/clutter.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "dyntex.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/dyntex.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "hudobjectives.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/hudobjectives.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "layers.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/layers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "m9.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/m9.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "map.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "mission.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/mission.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "missioncams.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/missioncams.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "sndjukeboxm.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/sndjukeboxm.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "valves.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/valves.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "m9_lib.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/m9_lib.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/SP/M9/READERM.ZAR",
+    "section": "vehicles.rdr",
+    "file": "sources/rdr/RUN/SP/M9/READERM.ZAR/vehicles.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAfterErrorReboot.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAfterErrorReboot.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAfterReboot.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAfterReboot.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAk5_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAk5_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAk6_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAk6_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAk8_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAk8_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAlaskaCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAlaskaCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAlaska_mission1.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAlaska_mission1.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAlaska_mission2.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAlaska_mission2.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAlaska_mission3.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAlaska_mission3.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgAttractCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgAttractCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCo17_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCo17_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCo19_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCo19_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCo21_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCo21_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCongoCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCongoCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgControllerPresets.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgControllerPresets.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgControllerPresetsCS.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgControllerPresetsCS.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgControllerPresetsNewGame.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgControllerPresetsNewGame.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgControllerPresetsRG.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgControllerPresetsRG.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgControllerSelection.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgControllerSelection.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCreateClan.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCreateClan.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCreateGame.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCreateGame.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgCredits.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgCredits.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgDebriefing.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgDebriefing.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgExitState.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgExitState.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgGameComplete.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgGameComplete.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgGameLobby.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgGameLobby.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgHype.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgHype.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgIntroCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgIntroCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgIntroScreen.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgIntroScreen.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgInvitedPlayers.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgInvitedPlayers.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgLadderLobby.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgLadderLobby.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgLoad.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgLoad.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgManageRoster.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgManageRoster.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgManageRosterLeader.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgManageRosterLeader.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMenu.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMenu.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMISSIONSELECTION.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMISSIONSELECTION.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMPBriefingRoom.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMPBriefingRoom.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMPswitch.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMPswitch.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMultiplayerFinal.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMultiplayerFinal.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMultiplayerFinalReally.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMultiplayerFinalReally.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgMultiplayerRound.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgMultiplayerRound.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetAbandoned.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetAbandoned.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetAbort.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetAbort.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetBanned.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetBanned.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetConnect.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetConnect.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetError.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetError.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetLogin.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetLogin.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgNetPlayerName.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgNetPlayerName.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgnewgame_cinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgnewgame_cinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgOnlineFilters.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgOnlineFilters.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgOnlineOptions.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgOnlineOptions.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgOptions_Audio.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgOptions_Audio.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgOptions_Menu.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgOptions_Menu.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgOptions_Video.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgOptions_Video.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgPlayDocMovies.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgPlayDocMovies.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgPlayTutMovies.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgPlayTutMovies.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgReplayCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgReplayCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgRespondToInvites.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgRespondToInvites.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgReturnFromNTGUI2.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgReturnFromNTGUI2.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgSecondCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgSecondCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgSetSOP.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgSetSOP.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgStickSetup.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgStickSetup.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgThailandCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgThailandCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTi11_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTi11_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTi12_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTi12_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTi9_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTi9_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTk13_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTk13_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTk15_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTk15_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTk16_map.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTk16_map.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgTurkmenCinematic.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgTurkmenCinematic.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgUsagePolicy.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgUsagePolicy.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlgWorldOfSOCOM.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlgWorldOfSOCOM.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_areaop_alaska.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_areaop_alaska.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_areaop_congo.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_areaop_congo.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_areaop_thai.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_areaop_thai.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_areaop_turk.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_areaop_turk.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Congo_mission1.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Congo_mission1.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Congo_mission2.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Congo_mission2.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Congo_mission3.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Congo_mission3.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_documentary.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_documentary.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_equipment_main.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_equipment_main.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_equipment_mp.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_equipment_mp.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_thai_mission1.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_thai_mission1.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_thai_mission2.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_thai_mission2.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_thai_mission3.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_thai_mission3.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Turk_mission1.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Turk_mission1.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Turk_mission2.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Turk_mission2.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_Turk_mission3.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_Turk_mission3.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "dlg_tutorial.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/dlg_tutorial.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "fonts.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/fonts.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "mp_rooms.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/mp_rooms.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERC.ZAR",
+    "section": "uisounds.rdr",
+    "file": "sources/rdr/RUN/UI/READERC.ZAR/uisounds.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERX.ZAR",
+    "section": "dlgExitState.rdr",
+    "file": "sources/rdr/RUN/UI/READERX.ZAR/dlgExitState.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERX.ZAR",
+    "section": "dlgMultiplayerFinal.rdr",
+    "file": "sources/rdr/RUN/UI/READERX.ZAR/dlgMultiplayerFinal.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERX.ZAR",
+    "section": "dlgMultiplayerFinalReally.rdr",
+    "file": "sources/rdr/RUN/UI/READERX.ZAR/dlgMultiplayerFinalReally.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERX.ZAR",
+    "section": "dlgMultiplayerRound.rdr",
+    "file": "sources/rdr/RUN/UI/READERX.ZAR/dlgMultiplayerRound.rdr.json",
+    "editable_json": true
+  },
+  {
+    "resource": "/RUN/UI/READERX.ZAR",
+    "section": "fonts.rdr",
+    "file": "sources/rdr/RUN/UI/READERX.ZAR/fonts.rdr.json",
+    "editable_json": true
+  }
+]

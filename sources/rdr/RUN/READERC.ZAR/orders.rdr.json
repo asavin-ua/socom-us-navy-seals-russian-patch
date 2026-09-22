@@ -1,0 +1,659 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "orders.rdr",
+  "section_sha256": "97a79db42b9ac20faa23da626f01ef6845bea19f3a178fb2b07067494968de66",
+  "tree": [
+    [
+      "order_speed",
+      [
+        0.20000000298023224
+      ],
+      "height",
+      [
+        24
+      ],
+      "width",
+      [
+        140
+      ],
+      "text_offset",
+      [
+        6,
+        20
+      ],
+      "text_size",
+      [
+        0.800000011920929
+      ],
+      "scroll_sound",
+      [
+        "SND_THUNK07_WAV"
+      ],
+      "select_sound",
+      [
+        "SND_THUNK08_WAV"
+      ],
+      "complete_sound",
+      [
+        "SND_THUNK08_WAV"
+      ],
+      "PTT_circle_down_time",
+      [
+        0.30000001192092896
+      ],
+      "teamtable",
+      [
+        [
+          "BCE",
+          "team",
+          "\u00caP#KA3 BCEM& OTP%\u00c2&"
+        ],
+        [
+          "\u00da#\u00c1$",
+          "able",
+          "\u00caP#KA3 \u00cbP&\u00ca\u00caE \u00da#\u00c1$"
+        ],
+        [
+          "\u00c1PABO",
+          "bravo",
+          "\u00caP#KA3 \u00cbP&\u00ca\u00caE \u00c1PABO"
+        ],
+        [
+          "\u00caOMO\u00d36",
+          "support",
+          "B\u00c03OB \u00caO\u00c2\u00c2EP\u00c4K#"
+        ],
+        [
+          "3A$O\u00c4H.",
+          "hostage",
+          "KOMAH\u00c2\u00c0 3A$O\u00c4H#K&"
+        ],
+        [
+          "TAKT#KA",
+          "tactical",
+          "COO\u00c1\u00d3EH#% CO\u00d43H#KAM"
+        ],
+        [
+          "\u00c2PA3H#T6 BPA\u00cbOB",
+          "\u00c2PA3H#T6 BPA\u00cbOB",
+          "\u00c2PA3H#T6 BPA\u00cbOB"
+        ],
+        [
+          "OT\u00caPAB#T6 \u00cbOTOBOE COO\u00c1\u00d3EH#E",
+          "OT\u00caPAB#T6 \u00cbOTOBOE COO\u00c1\u00d3EH#E",
+          "OT\u00caPAB#T6 \u00cbOTOBOE COO\u00c1\u00d3EH#E"
+        ],
+        [
+          "PA\u00c2#OCB%36",
+          "PA\u00c2#OCB%36",
+          "PA\u00c2#OCB%36"
+        ],
+        [
+          "BE\u00c2OM\u00c0E",
+          "escortee",
+          "KOMAH\u00c2\u00c0 BE\u00c2OM\u00c0M"
+        ],
+        [
+          "\u00cbO$.",
+          "vote",
+          "\u00cbO$OCOBAT6 3A #CK$\u00d44EH#E #\u00cbPOKA"
+        ]
+      ],
+      "cmdtable",
+      [
+        [
+          "HE CTPE$.",
+          "hold fire",
+          "CMD_HOLDFIRE",
+          [
+            1,
+            2,
+            3,
+            31
+          ],
+          "TO$6KO OTBETH\u00c0# O\u00cbOH6"
+        ],
+        [
+          "BECT# O\u00cbOH6",
+          "fire at will",
+          "CMD_FIREATWILL",
+          [
+            1,
+            2,
+            3,
+            31
+          ],
+          "O\u00cbOH6 \u00caO $\u00d4\u00c1O# B#\u00c2#MO# \u00c7E$#"
+        ],
+        [
+          "\u00caP#KP\u00c0T6",
+          "cover area",
+          "CMD_COVERTARGET",
+          [
+            1,
+            3
+          ],
+          "\u00caP#KP\u00c0BAT6 TO4K& B \u00caP#\u00c7E$E"
+        ],
+        [
+          "3AP%\u00c2",
+          "deploy",
+          "CMD_DEPLOY",
+          [
+            1,
+            2,
+            3
+          ],
+          "\u00c1POC#T6 #$# \u00caOCTAB#T6 3AP%\u00c2 B \u00caP#\u00c7E$E"
+        ],
+        [
+          "\u00caO\u00c2CBET",
+          "laze on",
+          "CMD_LASETARGET",
+          [
+            1,
+            2,
+            3
+          ],
+          "\u00caO\u00c2CBET#T6 \u00c7E$6 $A3EPOM \u00c2$% &\u00c2APA"
+        ],
+        [
+          "RUNTIME ACTION",
+          "RUNTIME ACTION",
+          "CMD_ACTION",
+          [
+            2,
+            3
+          ],
+          "       "
+        ],
+        [
+          "BECT#",
+          "escort",
+          "CMD_ESCORT",
+          [
+            3
+          ],
+          "BRING PERSON UNDER RETICULE WITH YOU"
+        ],
+        [
+          "BC\u00ca\u00c0\u00d2KA/\u00c1O#",
+          "bang and clear",
+          "CMD_BREACHBANGCLEAR",
+          [
+            1,
+            2,
+            3
+          ],
+          "CBETO\u00d2&MOBA%, 3ATEM 3A4#CTKA"
+        ],
+        [
+          "\u00cbPAHATA/\u00c1O#",
+          "frag and clear",
+          "CMD_BREACHFRAGCLEAR",
+          [
+            1,
+            2,
+            3
+          ],
+          "\u00cbPAHATA, 3ATEM 3A4#CTKA KOMHAT\u00c0"
+        ],
+        [
+          "\u00d2T&PM",
+          "clear",
+          "CMD_BREACHNONECLEAR",
+          [
+            1,
+            2,
+            3
+          ],
+          "3A4#CT#T6 KOMHAT& B \u00caP#\u00c7E$E"
+        ],
+        [
+          "3A4#CT#T6",
+          "clear area",
+          "CMD_CLEARAREA",
+          [
+            31
+          ],
+          "&CTPAH#T6 BPA\u00cbOB"
+        ],
+        [
+          "3ACA\u00c2A",
+          "ambush",
+          "CMD_CLEARAREA",
+          [
+            1,
+            3
+          ],
+          "&CTPAH#T6 BPA\u00cbOB"
+        ],
+        [
+          "\u00c1E\u00cbOM",
+          "run to",
+          "CMD_RUNTO",
+          [
+            1,
+            3
+          ],
+          "\u00c2B#\u00cbAT6C% K..."
+        ],
+        [
+          "BECT# K",
+          "lead to",
+          "CMD_LEADTO",
+          [
+            1,
+            3
+          ],
+          "\u00caPOBECT# MEH%"
+        ],
+        [
+          "B ATAK&",
+          "attack to",
+          "CMD_ATTACKTO",
+          [
+            1,
+            3
+          ],
+          "\u00c2B#\u00cbAT6C% K \u00c7E$# # &H#4TO\u00c4AT6 BPA\u00cbOB"
+        ],
+        [
+          "CKP\u00c0THO K",
+          "stealth to",
+          "CMD_STEALTHTO",
+          [
+            1,
+            3
+          ],
+          "#\u00c2T# K \u00c7E$# CKP\u00c0THO, #C\u00caO$63&% &KP\u00c0T#%"
+        ],
+        [
+          "C\u00c1OP",
+          "re group",
+          "CMD_REGROUP",
+          [
+            1,
+            3
+          ],
+          "BEPH&T6C% KO MHE"
+        ],
+        [
+          "C$E\u00c2&#",
+          "follow",
+          "CMD_FOLLOW",
+          [
+            1,
+            3,
+            17
+          ],
+          "3A MHO#"
+        ],
+        [
+          "CTO%T6 3\u00c2EC6",
+          "hold position",
+          "CMD_HOLDPOS",
+          [
+            1,
+            3,
+            17
+          ],
+          "OCTABAT6C% 3\u00c2EC6"
+        ],
+        [
+          "O\u00c1$ET",
+          "sweep",
+          "CMD_BOMB",
+          [
+            29
+          ],
+          "B\u00c03BAT6 BEPTO$ET \u00c2$% O\u00c1$ETA PA#OHA"
+        ],
+        [
+          "\u00caP#KPO#",
+          "cover me",
+          "CMD_COVER_ME",
+          [
+            31
+          ],
+          "\u00caP#KP\u00c0BAT6 MEH% O\u00cbHEM"
+        ],
+        [
+          "\u00daBAK.",
+          "extract",
+          "CMD_EXTRACT",
+          [
+            29
+          ],
+          "B\u00c03BAT6 \u00daBAK&A\u00c7#\u00d4 CO\u00caPOBO\u00c4\u00c2AEM\u00c0X"
+        ],
+        [
+          "O\u00c1E3BPE\u00c26",
+          "defuse bomb",
+          "CMD_DEFUSE",
+          [
+            31
+          ],
+          "O\u00c1E3BP. \u00c1OM\u00c1&"
+        ],
+        [
+          "3A\u00d3#TA 3A$O\u00c4H",
+          "protect",
+          "CMD_PROTECT",
+          [
+            31
+          ],
+          "3A\u00d3#\u00d3AT6 3A$O\u00c4H#KOB"
+        ],
+        [
+          "% B\u00caEPE\u00c2#",
+          "point",
+          "CMD_POINT",
+          [
+            31
+          ],
+          "COO\u00c1\u00d3#T6 OTP%\u00c2&: B\u00c0 #\u00c2ETE \u00caEPB\u00c0M"
+        ],
+        [
+          "BCE",
+          "team",
+          "CMD_RADIO_CHANNEL_ZERO",
+          [
+            24
+          ],
+          "\u00caP#KA3\u00c0 \u00caO PA\u00c2#O `",
+          "MP_ONLY"
+        ],
+        [
+          "HACT&\u00ca$",
+          "offense",
+          "CMD_RADIO_CHANNEL_TWO",
+          [
+            24
+          ],
+          "PA\u00c2#O \u00cbOBOP#T: HACT&\u00ca$EH#E `",
+          "MP_ONLY"
+        ],
+        [
+          "O\u00c1OPOHA",
+          "defense",
+          "CMD_RADIO_CHANNEL_ONE",
+          [
+            24
+          ],
+          "PA\u00c2#O \u00cbOBOP#T: O\u00c1OPOHA  ``",
+          "MP_ONLY"
+        ],
+        [
+          "B\u00c0K",
+          "off",
+          "CMD_RADIO_CHANNEL_ONOFF",
+          [
+            24
+          ],
+          "B\u00c0K$. PA\u00c2#O (B\u00c0\u00c1PAT6 HOB\u00c0# KAHA$) `",
+          "MP_ONLY"
+        ],
+        [
+          "% 4&\u00d4 TBO# CTPAX. ``",
+          "% 4&\u00d4 TBO# CTPAX. ``",
+          "% 4&\u00d4 TBO# CTPAX. ``",
+          [
+            26
+          ],
+          "% 4&\u00d4 TBO# CTPAX. ``",
+          "% 4&\u00d4 TBO# CTPAX. ``"
+        ],
+        [
+          "TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          "TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          "TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          [
+            26
+          ],
+          "TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          "TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO."
+        ],
+        [
+          "KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! ```",
+          "KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! ```",
+          "KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! ```",
+          [
+            26
+          ],
+          "KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! ```",
+          "KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! ```"
+        ],
+        [
+          "\u00daTO -- &\u00c1##CTBO.  ",
+          "\u00daTO -- &\u00c1##CTBO.  ",
+          "\u00daTO -- &\u00c1##CTBO.  ",
+          [
+            26
+          ],
+          "\u00daTO -- &\u00c1##CTBO.  ",
+          "\u00daTO -- &\u00c1##CTBO.  "
+        ],
+        [
+          "&MP#, \u00c2P&\u00cb. `",
+          "&MP#, \u00c2P&\u00cb. `",
+          "&MP#, \u00c2P&\u00cb. `",
+          [
+            26
+          ],
+          "&MP#, \u00c2P&\u00cb. `",
+          "&MP#, \u00c2P&\u00cb. `"
+        ],
+        [
+          "T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          "T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          "T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          [
+            26
+          ],
+          "T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          "T\u00c0 TP&C$#B # C$A\u00c1. ````"
+        ],
+        [
+          "T\u00c0 HA3\u00c0BAE\u00d26 \u00daTO OP&\u00c4#EM?",
+          "T\u00c0 HA3\u00c0BAE\u00d26 \u00daTO OP&\u00c4#EM?",
+          "T\u00c0 HA3\u00c0BAE\u00d26 \u00daTO OP&\u00c4#EM?",
+          [
+            26
+          ],
+          "T\u00c0 HA3\u00c0BAE\u00d26 \u00daTO OP&\u00c4#EM?",
+          "T\u00c0 HA3\u00c0BAE\u00d26 \u00daTO OP&\u00c4#EM?"
+        ],
+        [
+          "B\u00c0K$ / BK$ ",
+          "vote off",
+          "CMD_VOTE_OFF",
+          [
+            0
+          ],
+          "\u00cbO$OCOBAT6 \u00caPOT#B #\u00cbPOKA ``",
+          "MP_ONLY"
+        ],
+        [
+          "#\u00c2# \u00caO BETP&.  ",
+          "#\u00c2# \u00caO BETP&.  ",
+          "#\u00c2# \u00caO BETP&.  ",
+          [
+            25
+          ],
+          "#\u00c2# \u00caO BETP&.  ",
+          "#\u00c2# \u00caO BETP&.  "
+        ],
+        [
+          "\u00c1AH3A#!",
+          "\u00c1AH3A#!",
+          "\u00c1AH3A#!",
+          [
+            25
+          ],
+          "\u00c1AH3A#!",
+          "\u00c1AH3A#!"
+        ],
+        [
+          "\u00c1\u00c0CTPO! ",
+          "\u00c1\u00c0CTPO! ",
+          "\u00c1\u00c0CTPO! ",
+          [
+            25
+          ],
+          "\u00c1\u00c0CTPO! ",
+          "\u00c1\u00c0CTPO! "
+        ],
+        [
+          "% B#$6%M TE$$6. ",
+          "% B#$6%M TE$$6. ",
+          "% B#$6%M TE$$6. ",
+          [
+            25
+          ],
+          "% B#$6%M TE$$6. ",
+          "% B#$6%M TE$$6. "
+        ],
+        [
+          "3AMO$4#.",
+          "3AMO$4#.",
+          "3AMO$4#.",
+          [
+            25
+          ],
+          "3AMO$4#.",
+          "3AMO$4#."
+        ]
+      ],
+      "multiplayer",
+      [
+        [
+          "%s : \u00c2EP\u00c4# O\u00cbOH6 `",
+          "%s : \u00c2EP\u00c4# O\u00cbOH6 `",
+          "%s : \u00c2EP\u00c4# O\u00cbOH6 `"
+        ],
+        [
+          "%s : CTPE$%# BCEX",
+          "%s : CTPE$%# BCEX",
+          "%s : CTPE$%# BCEX"
+        ],
+        [
+          "%s : \u00c2EP\u00c4# \u00caO3#\u00c7#\u00d4",
+          "%s : \u00c2EP\u00c4# \u00caO3#\u00c7#\u00d4",
+          "%s : \u00c2EP\u00c4# \u00caO3#\u00c7#\u00d4"
+        ],
+        [
+          "%s : \u00caO#\u00c2EM `",
+          "%s : \u00caO#\u00c2EM `",
+          "%s : \u00caO#\u00c2EM `"
+        ],
+        [
+          "%s : \u00caO\u00c1EPE\u00cb#C6, \u00c2P&\u00cb",
+          "%s : \u00caO\u00c1EPE\u00cb#C6, \u00c2P&\u00cb",
+          "%s : \u00caO\u00c1EPE\u00cb#C6, \u00c2P&\u00cb"
+        ],
+        [
+          "%s : BPA\u00cb &\u00c1#T `",
+          "%s : BPA\u00cb &\u00c1#T `",
+          "%s : BPA\u00cb &\u00c1#T `"
+        ],
+        [
+          "%s : HA\u00d2 &\u00c1#T",
+          "%s : HA\u00d2 &\u00c1#T",
+          "%s : HA\u00d2 &\u00c1#T"
+        ],
+        [
+          "%s : \u00caO\u00c2 O\u00cbHEM ",
+          "%s : \u00caO\u00c2 O\u00cbHEM ",
+          "%s : \u00caO\u00c2 O\u00cbHEM "
+        ],
+        [
+          "%s : % &\u00c1#$ ",
+          "%s : % &\u00c1#$ ",
+          "%s : % &\u00c1#$ "
+        ],
+        [
+          "%s : KOT#K# \u00caO\u00c1E\u00c2#$# ",
+          "%s : KOT#K# \u00caO\u00c1E\u00c2#$# ",
+          "%s : KOT#K# \u00caO\u00c1E\u00c2#$# "
+        ],
+        [
+          "%s : TEPPOP#CT\u00c0 \u00caO\u00c1E\u00c2#$# `",
+          "%s : TEPPOP#CT\u00c0 \u00caO\u00c1E\u00c2#$# `",
+          "%s : TEPPOP#CT\u00c0 \u00caO\u00c1E\u00c2#$# `"
+        ],
+        [
+          "%s : \u00cb$ABAP6 \u00c1\u00c0$ &\u00c1#T ``",
+          "%s : \u00cb$ABAP6 \u00c1\u00c0$ &\u00c1#T ``",
+          "%s : \u00cb$ABAP6 \u00c1\u00c0$ &\u00c1#T ``"
+        ],
+        [
+          "%s : % BE\u00c2& \u00cb$ABAP% `",
+          "%s : % BE\u00c2& \u00cb$ABAP% `",
+          "%s : % BE\u00c2& \u00cb$ABAP% `"
+        ],
+        [
+          "%s : \u00c1OM\u00c1A \u00c1\u00c0$A PA3ME\u00d2EHA ",
+          "%s : \u00c1OM\u00c1A \u00c1\u00c0$A PA3ME\u00d2EHA ",
+          "%s : \u00c1OM\u00c1A \u00c1\u00c0$A PA3ME\u00d2EHA "
+        ],
+        [
+          "%s : &C\u00caE\u00d2HO &H#4TO\u00c4EH `",
+          "%s : &C\u00caE\u00d2HO &H#4TO\u00c4EH `",
+          "%s : &C\u00caE\u00d2HO &H#4TO\u00c4EH `"
+        ],
+        [
+          "%s : \u00c1OM\u00c1A O\u00c1E3BP.",
+          "%s : \u00c1OM\u00c1A O\u00c1E3BP.",
+          "%s : \u00c1OM\u00c1A O\u00c1E3BP."
+        ],
+        [
+          "%s : BPA\u00cb &MEP OT TBOE# P&K# `",
+          "%s : BPA\u00cb &MEP OT TBOE# P&K# `",
+          "%s : BPA\u00cb &MEP OT TBOE# P&K# `"
+        ],
+        [
+          "%s : \u00caP#KPO# ",
+          "%s : \u00caP#KPO# ",
+          "%s : \u00caP#KPO# "
+        ],
+        [
+          "%s : % 4&\u00d4 TBO# CTPAX. ``",
+          "%s : % 4&\u00d4 TBO# CTPAX. ``",
+          "%s : % 4&\u00d4 TBO# CTPAX. ``"
+        ],
+        [
+          "%s : TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          "%s : TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO.",
+          "%s : TBOE \u00c1&\u00c2&\u00d2EE KOPOTKO."
+        ],
+        [
+          "%s : KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! `` ",
+          "%s : KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! `` ",
+          "%s : KOH4#$#C6 \u00cbPAHAT\u00c0? BOT O\u00c2HA \u00c2$% TE\u00c1%! `` "
+        ],
+        [
+          "%s : \u00daTO -- &\u00c1##CTBO. ",
+          "%s : \u00daTO -- &\u00c1##CTBO. ",
+          "%s : \u00daTO -- &\u00c1##CTBO. "
+        ],
+        [
+          "%s : &M#PA#, \u00c2P&\u00cb. ",
+          "%s : &M#PA#, \u00c2P&\u00cb. ",
+          "%s : &M#PA#, \u00c2P&\u00cb. "
+        ],
+        [
+          "%s : T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          "%s : T\u00c0 TP&C$#B # C$A\u00c1. ````",
+          "%s : T\u00c0 TP&C$#B # C$A\u00c1. ````"
+        ],
+        [
+          "%s : T\u00c0 3OBE\u00d26 \u00daTO OP&\u00c4#EM? `",
+          "%s : T\u00c0 3OBE\u00d26 \u00daTO OP&\u00c4#EM? `",
+          "%s : T\u00c0 3OBE\u00d26 \u00daTO OP&\u00c4#EM? `"
+        ]
+      ]
+    ]
+  ]
+}

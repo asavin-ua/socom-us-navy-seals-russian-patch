@@ -1,0 +1,43 @@
+{
+  "resource": "/RUN/SP/M6/READERM.ZAR",
+  "resource_sha256": "1376bff9d64761381615706aa81ae8b56bf548ad895f65a50f859cf201808b80",
+  "section": "aimaps.rdr",
+  "section_sha256": "eb0b8e20cd1e06ad980a33f7932b7a359ffe5961a1572bb3635d9a8f4310827b",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "CgoHolds.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "AftCargo.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bridge.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Landing.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "face": "Gothic_13",
+  "section": "missioncams.rdr",
+  "old_code": "0xCF",
+  "safe_code": "0xEF",
+  "reason": "The mission-camera renderer leaves an empty advance for 0xCF although the compiled text and font mapping are present.",
+  "resources": {
+    "/RUN/SP/M5/READERM.ZAR": 3,
+    "/RUN/SP/M6/READERM.ZAR": 8,
+    "/RUN/SP/M8/READERM.ZAR": 3,
+    "/RUN/SP/M13/READERM.ZAR": 5
+  },
+  "other_exported_string_occurrences_of_0xEF": 0
+}

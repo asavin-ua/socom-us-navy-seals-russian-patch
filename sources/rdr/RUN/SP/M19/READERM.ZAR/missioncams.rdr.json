@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M19/READERM.ZAR",
+  "resource_sha256": "e63bc3623f8febfc549726b3f2ab9a3ab2b7cf04a37508582dd3d496063aa761",
+  "section": "missioncams.rdr",
+  "section_sha256": "4bfcaad8b04a757f31e1a649d99e7e73735b5abe5117c8e7f72fdd100063c354",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m19bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m19bs"
+        ]
+      ]
+    ]
+  ]
+}

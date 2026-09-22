@@ -1,0 +1,233 @@
+{
+  "resource": "/RUN/SP/M17/READERM.ZAR",
+  "resource_sha256": "43a5171cf2d9b7e7d6eb79e9ac63d39eeef1ea1b0d59dde6b5a837de25c740d3",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "9a2f6a1778f8f90c9e169b66917bc41cca0a921f0ecd808a04adea8cf780ab9f",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "\u00dcH\u00c84TO\u00c4\u00c8T\u00d9 CB\u00db3\u00d9"
+        ],
+        "DESCRIPTION",
+        [
+          "B3OPB\u00c8TE \u00c1A\u00d2H\u00d4 CB\u00db3\u00c8, \u00caOKA HA\u00cdMH\u00c8K\u00c8 HE B\u00c03BA\u00c9\u00c8 \u00caO\u00c2MO\u00cb\u00dc"
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00c8 HE COPBA\u00c9\u00c8 O\u00caEPA\u00c7\u00c8\u00d4."
+        ],
+        "VALVE",
+        [
+          "POBJ1"
+        ],
+        "LOCATION",
+        [
+          1511.4200439453125,
+          1180.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj1"
+        ],
+        "LINE_IDS",
+        [
+          1
+        ],
+        "NAV_POINTS",
+        [
+          "Charlie"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B3\u00dbT\u00d9 \u00c2AHH\u00c0E"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE CBE\u00c2EH\u00c8\u00db O MECTOHAXO\u00c4\u00c2EH\u00c8\u00c8 BOEHHO\u00ca\u00c9EHH\u00c0X."
+        ],
+        "VALVE",
+        [
+          "POBJ2"
+        ],
+        "LOCATION",
+        [
+          2251.419921875,
+          1389.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj6"
+        ],
+        "LINE_IDS",
+        [
+          2
+        ],
+        "NAV_POINTS",
+        [
+          "Delta"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B3OPBAT\u00d9 CK\u00c9A\u00c2"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcH\u00c84TO\u00c4\u00d9TE CK\u00c9A\u00c2 \u00c1OE\u00caP\u00c8\u00caACOB BPA\u00cbA."
+        ],
+        "VALVE",
+        [
+          "POBJ3"
+        ],
+        "LOCATION",
+        [
+          4291.419921875,
+          1859.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj7"
+        ],
+        "LINE_IDS",
+        [
+          3
+        ],
+        "NAV_POINTS",
+        [
+          "Foxtrot",
+          "Juliet"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B3\u00dbT\u00d9 PA\u00cfOH"
+        ],
+        "DESCRIPTION",
+        [
+          "3A4\u00c8CT\u00c8TE PA\u00cfOH \u00dc TO4K\u00c8 \u00daXO."
+        ],
+        "VALVE",
+        [
+          "SOBJ6"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ6Fail"
+        ],
+        "LOCATION",
+        [
+          3711.419921875,
+          1769.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj9"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "NAV_POINTS",
+        [
+          "Echo"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "3AP\u00db\u00c2 B TO4KE 1"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00c1PABO: \u00dcCTAHOB\u00c8T\u00d9 3AP\u00db\u00c2 B TO4KE O\u00c2\u00c8H."
+        ],
+        "VALVE",
+        [
+          "SOBJ8"
+        ],
+        "LOCATION",
+        [
+          4491.419921875,
+          1970.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj11"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "NAV_POINTS",
+        [
+          "Foxtrot"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "3AP\u00db\u00c2 B TO4KE 2"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTAHOB\u00c8TE 3AP\u00db\u00c2 B TO4KE \u00c2BA."
+        ],
+        "VALVE",
+        [
+          "SOBJ9"
+        ],
+        "LOCATION",
+        [
+          4691.419921875,
+          1290.97998046875
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj12"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "NAV_POINTS",
+        [
+          "Juliet"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "HE \u00c2AT\u00d9 BPA\u00cb\u00dc \u00dc\u00cfT\u00c8"
+        ],
+        "DESCRIPTION",
+        [
+          "HE \u00c2A\u00cfTE \u00dc\u00c7E\u00c9EB\u00d2\u00c8M HA\u00cdMH\u00c8KAM C\u00c1E\u00c4AT\u00d9 \u00c8 \u00caPE\u00c2\u00dc\u00caPE\u00c2\u00c8T\u00d9 CBO\u00c8X."
+        ],
+        "VALVE",
+        [
+          "POBJ4"
+        ],
+        "LOCATION",
+        [
+          4251.419921875,
+          550.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17obj14"
+        ],
+        "LINE_IDS",
+        [
+          4
+        ]
+      ]
+    ]
+  ]
+}

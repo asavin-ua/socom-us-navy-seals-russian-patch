@@ -1,0 +1,71 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "small_messages.rdr",
+  "section_sha256": "b29b4fcb11e128c2eabe7083d21d2acfe12d36a8bd2560f609e20f171d09d720",
+  "tree": [
+    [
+      "color",
+      [
+        "red",
+        [
+          100
+        ],
+        "green",
+        [
+          100
+        ],
+        "blue",
+        [
+          100
+        ]
+      ],
+      "scale",
+      [
+        0.6299999952316284
+      ],
+      "fadetime",
+      [
+        2.0
+      ],
+      "left",
+      [
+        55
+      ],
+      "bottom",
+      [
+        68
+      ],
+      "maxsize",
+      [
+        4
+      ],
+      "spacing",
+      [
+        16
+      ],
+      "TtySpeed",
+      [
+        13000
+      ],
+      "descends",
+      [],
+      "maxlength",
+      [
+        90
+      ],
+      "XMargin",
+      [
+        6
+      ],
+      "YMargin",
+      [
+        12
+      ],
+      "background",
+      [
+        "newweapnbkrnd.tif"
+      ]
+    ]
+  ]
+}

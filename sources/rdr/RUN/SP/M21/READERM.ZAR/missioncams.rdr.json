@@ -1,0 +1,55 @@
+{
+  "resource": "/RUN/SP/M21/READERM.ZAR",
+  "resource_sha256": "1d4356a835b41447cb33aca9778ac73c0caa5a3b1728f913192ab7e8222fcc96",
+  "section": "missioncams.rdr",
+  "section_sha256": "6cc2e2be85a06ed747a9d2de893d5a1b615a9d5c754d833c44344d5a85ca24ef",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m21bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "victory"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "victory"
+        ]
+      ]
+    ]
+  ]
+}

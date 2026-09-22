@@ -1,0 +1,290 @@
+{
+  "resource": "/RUN/SP/M11/READERM.ZAR",
+  "resource_sha256": "5ce3a40741387e24d1c9b505e4590fd8a33ac5384123f94a342749420d081c5d",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "bcc851e0dc84591f6ac7f9fec0d8c927b084943544b6c1fa79610eea0ea27782",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "3A4\u00c8CT\u00c8T\u00d9 \u00ca\u00c9A\u00c7\u00c2APM"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTPAH\u00c8TE BCEX BPA\u00cbOB B PA\u00cfOHE."
+        ],
+        "VALVE",
+        [
+          "insertkill"
+        ],
+        "LOCATION",
+        [
+          1271.0,
+          4749.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj1"
+        ],
+        "LINE_IDS",
+        [
+          7
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00caO\u00c2C\u00c9\u00dc\u00d2AT\u00d9 \u00c4\u00c8TE\u00c9E\u00cf"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caO\u00c2KPA\u00c2\u00c8TEC\u00d9 K X\u00c8\u00c4\u00c8HAM \u00c8 \u00caO\u00c2C\u00c9\u00dc\u00d2A\u00cfTE PA3\u00cbOBOP \u00c4\u00c8TE\u00c9E\u00cf BH\u00dcTP\u00c8."
+        ],
+        "VALVE",
+        [
+          "SOBJ2"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ2Fail"
+        ],
+        "LOCATION",
+        [
+          1764.0,
+          4381.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj3"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          1
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B3\u00dbT\u00d9 \u00d6\u00c9AH\u00cb"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00d6\u00c9AH\u00cb XPAMA XOPO\u00d2O OXPAH\u00dbETC\u00db. \u00dcCTPAH\u00c8TE OXPAHH\u00c8KOB \u00c1EC\u00d2\u00dcMHO,"
+        ],
+        "DESCRIPTION2",
+        [
+          "4TO\u00c1\u00c0 HE B\u00c0\u00c2AT\u00d9 CBOE \u00caP\u00c8C\u00dcTCTB\u00c8E TEPPOP\u00c8CTAM."
+        ],
+        "VALVE",
+        [
+          "POBJ3"
+        ],
+        "LOCATION",
+        [
+          1944.0,
+          1831.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj7"
+        ],
+        "LINE_IDS",
+        [
+          2
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "HA\u00cfT\u00c8 4ACOB\u00c0X"
+        ],
+        "DESCRIPTION",
+        [
+          "B TO4KE \u00c2E\u00c9\u00d9TA OCMOTP\u00c8TE BXO\u00c2 B XPAM 4EPE3 \u00caP\u00c8\u00c1OP"
+        ],
+        "DESCRIPTION2",
+        [
+          "HO4HO\u00cbO B\u00c8\u00c2EH\u00c8\u00db. HA\u00cf\u00c2\u00c8TE 4ACOB\u00c0X."
+        ],
+        "VALVE",
+        [
+          "SOBJ5"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ5Fail"
+        ],
+        "LOCATION",
+        [
+          1944.0,
+          1831.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj8"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        []
+      ],
+      [
+        "NAME",
+        [
+          "3ACA\u00c2A HA OXPAH\u00dc"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTPAH\u00c8TE TEPPOP\u00c8CTOB \u00dc BXO\u00c2A B XPAM."
+        ],
+        "VALVE",
+        [
+          "SOBJ10"
+        ],
+        "LOCATION",
+        [
+          1974.0,
+          1931.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj13"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        []
+      ],
+      [
+        "NAME",
+        [
+          "C\u00caACT\u00c8 \u00c4EH\u00dc"
+        ],
+        "DESCRIPTION",
+        [
+          "C\u00caAC\u00c8TE \u00c8 \u00daBAK\u00dc\u00c8P\u00dc\u00cfTE \u00c4EH\u00dc \u00caOC\u00c9A."
+        ],
+        "VALVE",
+        [
+          "POBJ4"
+        ],
+        "INVALID_VALVE",
+        [
+          "POBJ4Fail"
+        ],
+        "LOCATION",
+        [
+          1384.0,
+          1161.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj14"
+        ],
+        "LINE_IDS",
+        [
+          3
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "3A4\u00c8CT\u00c8T\u00d9 XPAM"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTPAH\u00c8TE BCEX TEPPOP\u00c8CTOB B XPAME."
+        ],
+        "VALVE",
+        [
+          "POBJ6"
+        ],
+        "INVALID_VALVE",
+        [
+          "POBJ6Fail"
+        ],
+        "LOCATION",
+        [
+          1384.0,
+          1161.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj24"
+        ],
+        "LINE_IDS",
+        [
+          6
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B\u00c03BAT\u00d9 \u00daBAK\u00dcA\u00c7\u00c8\u00d4"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00c2OBE\u00c2\u00c8TE \u00c4EH\u00dc \u00caOC\u00c9A \u00c2O 3\u00dc\u00c9\u00dc. \u00cbO\u00c9OCOM \u00c8\u00c9\u00c8 4EPE3 MEH\u00d4"
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00caP\u00c8KA\u00c4\u00c8TE: \u00caO\u00c2\u00c2EP\u00c4KA, \u00daBAK\u00dcA\u00c7\u00c8\u00db."
+        ],
+        "VALVE",
+        [
+          "SOBJ16"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ16Fail"
+        ],
+        "LOCATION",
+        [
+          1384.0,
+          1161.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj20"
+        ],
+        "LINE_IDS",
+        [
+          4
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "C\u00caACT\u00c8 \u00caOC\u00c9A"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE \u00c8 C\u00caAC\u00c8TE \u00caOC\u00c9A."
+        ],
+        "VALVE",
+        [
+          "POBJ5"
+        ],
+        "LOCATION",
+        [
+          324.0,
+          1101.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m11obj23"
+        ],
+        "LINE_IDS",
+        [
+          5
+        ]
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "resource": "/RUN/SP/M13/READERM.ZAR",
+  "resource_sha256": "f4a65561a2e1fc2f4f5299fc32fc50b5eda6d7edca221972c87d9757bcb802ed",
+  "section": "aimaps.rdr",
+  "section_sha256": "ab90e241a83b8aba9374252043a5e89dc0117bc9d1994bb0ad49626c6fa5d2ce",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "platform.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "armory_m.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "bridge.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "build1_t.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "build2_t.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "build3_m.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower1.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "bridge2.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower2.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower3.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,4320 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "hud.rdr",
+  "section_sha256": "b410a3a85c390cdcb96ac8aac97ac3bdad0740cea228fc06efd7a7d95d683b09",
+  "tree": [
+    [
+      "static_radio",
+      [
+        529.0,
+        388.0
+      ],
+      "dynamic_radio",
+      [
+        575.0,
+        388.0
+      ],
+      "TacMap",
+      [
+        "Polygons",
+        [
+          [
+            "Type",
+            [
+              0
+            ],
+            "Color",
+            [
+              240,
+              240,
+              240
+            ],
+            "Opacity",
+            [
+              0.4000000059604645
+            ]
+          ],
+          [
+            "Type",
+            [
+              1
+            ],
+            "Color",
+            [
+              0,
+              200,
+              0
+            ],
+            "Opacity",
+            [
+              0.0
+            ]
+          ],
+          [
+            "Type",
+            [
+              2
+            ],
+            "Color",
+            [
+              148,
+              126,
+              91
+            ],
+            "Opacity",
+            [
+              0.20000000298023224
+            ]
+          ],
+          [
+            "Type",
+            [
+              3
+            ],
+            "Color",
+            [
+              81,
+              176,
+              110
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              4
+            ],
+            "Color",
+            [
+              87,
+              112,
+              176
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              5
+            ],
+            "Color",
+            [
+              176,
+              93,
+              27
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              6
+            ],
+            "Color",
+            [
+              176,
+              60,
+              161
+            ],
+            "Opacity",
+            [
+              0.0
+            ]
+          ],
+          [
+            "Type",
+            [
+              7
+            ],
+            "Color",
+            [
+              130,
+              130,
+              20
+            ],
+            "Opacity",
+            [
+              0.20000000298023224
+            ]
+          ],
+          [
+            "Type",
+            [
+              8
+            ],
+            "Color",
+            [
+              176,
+              60,
+              161
+            ],
+            "Opacity",
+            [
+              0.30000001192092896
+            ]
+          ]
+        ],
+        "Lines",
+        [
+          [
+            "Type",
+            [
+              0
+            ],
+            "Color",
+            [
+              240,
+              240,
+              240
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              1
+            ],
+            "Color",
+            [
+              0,
+              200,
+              0
+            ],
+            "Opacity",
+            [
+              0.0
+            ]
+          ],
+          [
+            "Type",
+            [
+              2
+            ],
+            "Color",
+            [
+              148,
+              126,
+              91
+            ],
+            "Opacity",
+            [
+              0.4000000059604645
+            ]
+          ],
+          [
+            "Type",
+            [
+              3
+            ],
+            "Color",
+            [
+              81,
+              176,
+              110
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              4
+            ],
+            "Color",
+            [
+              87,
+              112,
+              176
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              5
+            ],
+            "Color",
+            [
+              255,
+              139,
+              40
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ],
+          [
+            "Type",
+            [
+              6
+            ],
+            "Color",
+            [
+              176,
+              60,
+              161
+            ],
+            "Opacity",
+            [
+              0.0
+            ]
+          ],
+          [
+            "Type",
+            [
+              7
+            ],
+            "Color",
+            [
+              130,
+              130,
+              20
+            ],
+            "Opacity",
+            [
+              0.30000001192092896
+            ],
+            "Width",
+            [
+              3.0
+            ]
+          ],
+          [
+            "Type",
+            [
+              8
+            ],
+            "Color",
+            [
+              176,
+              60,
+              161
+            ],
+            "Opacity",
+            [
+              0.5
+            ]
+          ]
+        ]
+      ],
+      "EventPopups",
+      [
+        "Common",
+        [
+          "TopMargin",
+          [
+            10.0
+          ],
+          "LeftMargin",
+          [
+            20.0
+          ],
+          "BottomMargin",
+          [
+            10.0
+          ],
+          "PromptText",
+          [
+            "                    \u00a3 - \u00caPO\u00c2O\u00c9\u00c4\u00c8Tb \u00e4\u00e4\u00e4\u00e4"
+          ],
+          "BackgroundOpacity",
+          [
+            0.5
+          ],
+          "ForceOpenTime",
+          [
+            1.0
+          ],
+          "OpeningSound",
+          [
+            "SND_METAL"
+          ],
+          "ClosingSound",
+          [
+            "SND_BACK"
+          ]
+        ],
+        "PopupDefinitions",
+        [
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_close_combat.tif"
+              ],
+              "Mission",
+              [
+                "m8"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A \u00cbOP\u00c8T 3HA4OK C B\u00c8HTOBKO\u00c8, \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "HA\u00c4M\u00c8TE \u00a3 4TO\u00c1\u00c0 HAHECT\u00c8 C\u00dc\u00caEP\u00dc\u00c2AP  \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caO 4EPE\u00ca\u00dc BPA\u00cbA. \u00daTO BCE\u00cb\u00c2A B\u00c03\u00c0BAET \u00e4  \u00e4\u00e4\u00e4\u00e4",
+              "CMEPTb \u00dc BA\u00d2E\u00c8 \u00c7E\u00c9\u00c8. \u00e4\u00e4\u00e4 ",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_conceal_body.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              201
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HA\u00c4\u00c8MA\u00db \u00a3 KO\u00cb\u00c2A \u00cbOP\u00c8T 3HA4OK \u00caO\u00c2\u00ce\u00cdMA TE\u00c9,",
+              "B\u00c0 3ACTAB\u00c9\u00dbETE \u00c8\u00cbPOKA \u00caO\u00c2H\u00c8MATb \u00c1\u00c9\u00c8\u00c4A\u00cf\u00d2\u00c8\u00cf",
+              "TP\u00dc\u00ca. B\u00c0 MO\u00c4ETE TAK \u00dcHOC\u00c8Tb TE\u00c9A \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "B \u00dcKP\u00c0T\u00c8E. KO\u00cb\u00c2A B\u00c0 \u00cbOTOB\u00c0 \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c1POC\u00c8Tb TE\u00c9O, HA\u00c4M\u00c8TE \u00a3 E\u00d3E PA3. \u00e4 \u00e4\u00e4\u00e4",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_button.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 MO\u00c4ETE HA\u00c4ATb KHO\u00caK\u00dc \u00c8\u00c9\u00c8 \u00caOBEPH\u00dcTb  \u00e4 ",
+              "P\u00c04A\u00cb, EC\u00c9\u00c8 \u00caOMECT\u00c8TE \u00caP\u00c8\u00c7E\u00c9 HA\u00c2 KHO\u00caKO\u00c8  \u00e4",
+              "\u00c8\u00c9\u00c8 P\u00c04A\u00cbOM \u00c8 HA\u00c4METE \u00a3. \u00e4\u00e4\u00e4\u00e4 \u00e4 \u00e4 \u00e4  \u00e4\u00e4\u00e4 ",
+              "  ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_mp_bomb.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              94
+            ],
+            "WindowSize",
+            [
+              412,
+              241
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "3AP\u00db\u00c2\u00c0 B PAH\u00c7AX MO\u00d3HO B3P\u00c0BA\u00d4TC\u00db  \u00e4 ",
+              "\u00c8 \u00caOTOM\u00dc \u00c2O\u00c9\u00c4H\u00c0 \u00c1\u00c0Tb \u00caOME\u00d3EH\u00c0 TO\u00c9bKO B \u00e4 ",
+              "OCO\u00c1\u00c0X MECTAX. B\u00c0 \u00dc3HAETE, KO\u00cb\u00c2A H\u00dc\u00c4HO \u00daTO",
+              "C\u00c2E\u00c9ATb, KO\u00cb\u00c2A 3HA4OK PAH\u00c7A \u00caO\u00dbB\u00c8TC\u00db  ",
+              "HA \u00daKPAHE. 4TO\u00c1\u00c0 PA3MECT\u00c8Tb 3AP\u00db\u00c2,  \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caEPEME\u00d3A\u00c8TE \u00caP\u00c8\u00c7E\u00c9 \u00caO \u00c7E\u00c9\u00c8 \u00caOKA HE  \u00e4 ",
+              "\u00caO\u00dbB\u00c8TC\u00db 3HA4OK, \u00c8 HA\u00c4M\u00c8TE \u00a3. \u00e4\u00e4\u00e4\u00e4",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_pickup_item1.tif",
+                "action_pickup_item2.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              94
+            ],
+            "WindowSize",
+            [
+              410,
+              241
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A B\u00c0 CTO\u00c8TE P\u00db\u00c2OM C \u00c1PO\u00d2EHH\u00c0M OP\u00dc\u00c4\u00c8EM,",
+              "B\u00c0 B\u00caPABE 3AMEH\u00c8Tb CBOE \u00caEPBOE \u00c8\u00c9\u00c8 ",
+              "BTOPOE OP\u00dc\u00c4\u00c8E HA TO, \u00e4\u00e4 \u00e4\u00e4\u00e4   \u00e4  \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "KOTOPOE \u00c9E\u00c4\u00c8T HA 3EM\u00c9E. HA\u00c4M\u00c8TE  \u00e4\u00e4 \u00e4 ",
+              "\u00a3 \u00c2\u00c9\u00db COBEP\u00d2EH\u00c8\u00db O\u00c1MEHA. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "B\u00c0 BCE\u00cb\u00c2A MO\u00c4ETE BEPH\u00dcTb CTAPOE OP\u00dc\u00c4\u00c8E \u00e4",
+              "EC\u00c9\u00c8 3AXOT\u00c8TE. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "  ",
+              "EC\u00c9\u00c8 \u00c8C\u00caO\u00c9b3\u00dcETE 1-\u00c8 T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db, \u00c4M\u00c8TE \u00a4 ",
+              "BMECTO \u00a3. \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_restrain.tif"
+              ],
+              "Mission",
+              [
+                "m8"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              104
+            ],
+            "WindowSize",
+            [
+              412,
+              241
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 MO\u00c4ETE C\u00c2EP\u00c4\u00c8BATb \u00caOK\u00c9A\u00c2\u00c8CT\u00c0X  \u00e4\u00e4 ",
+              "\u00c9\u00d4\u00c2E\u00c8. \u00caPOCTO \u00c8\u00c2\u00c8TE \u00caO3A\u00c2\u00c8 H\u00c8X \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "\u00c8 \u00c2EP\u00c4\u00c8TE \u00caP\u00c8\u00c7E\u00c9 HA H\u00c8X, \u00caOKA 3HA4OK \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "'\u00dc\u00c2EP\u00c4ATb' B\u00c8\u00c2EH. HA\u00c4M\u00c8TE \u00a3 \u00c8 B\u00c0 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caP\u00c8MEH\u00c8TE \u00dc\u00c2EP\u00c4AH\u00c8E. 3A\u00c2EP\u00c4AHH\u00c0\u00c8 4E\u00c9OBEK ",
+              "HE CMO\u00c4ET CTPE\u00c9\u00dbTb. OH MO\u00c4ET TO\u00c9bKO \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "C\u00c9\u00dc\u00d2ATb \u00caP\u00c8KA3\u00c0.",
+              "   ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_talk.tif"
+              ],
+              "Mission",
+              [
+                "m8"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              201
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4TO\u00c1\u00c0 \u00caP\u00c8KA3ATb \u00daCKOPT\u00dc \u00c8\u00c2T\u00c8 3A BAM\u00c8, \u00e4\u00e4\u00e4",
+              "\u00caPOCTO \u00caOMECT\u00c8TE \u00caP\u00c8\u00c7E\u00c9 HA\u00c2 H\u00c8M\u00c8. KO\u00cb\u00c2A \u00e4",
+              "3A\u00cbOP\u00c8TC\u00db 3HA4OK 'C\u00c9E\u00c2OBATb', \u00c4M\u00c8TE \u00a3. ",
+              "\u00daTO 3ACTAB\u00c8T \u00daCKOPT C\u00c9E\u00c2OBATb \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "3A BAM\u00c8. \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "   ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_knife.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              201
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "EC\u00c9\u00c8 B\u00c0 \u00caO\u00c2O\u00d2\u00c9\u00c8 K BPA\u00cb\u00dc T\u00c8XO C3A\u00c2\u00c8, \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caO\u00dbB\u00c8TC\u00db 3HA4OK '\u00dc\u00c1\u00c8Tb HO\u00c4OM'. \u00e4 \u00e4\u00e4  \u00e4\u00e4 ",
+              "HA\u00c4M\u00c8TE \u00a3 \u00c8 B\u00c0 3APE\u00c4ETE BPA\u00cbA \u00c8  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "C\u00ca\u00dcCT\u00c8TE E\u00cbO HA 3EM\u00c9\u00d4. \u00dc\u00c1\u00c8\u00c8CTBO \u00e4 \u00e4 \u00e4 \u00e4\u00e4\u00e4\u00e4",
+              "HO\u00c4OM \u00c9\u00dc4\u00d2E, 4EM B\u00c8HTOBKO\u00c8. \u00e4   \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4  ",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "ActionIcon1stTime"
+              ],
+              "Icons",
+              [
+                "action_pickup_item.tif"
+              ],
+              "Mission",
+              [
+                "m6"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              201
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A \u00caO\u00dbB\u00c9\u00dbETC\u00db 3HA4OK \u00caO\u00c2\u00c1OPA BE\u00d3\u00c8 \u00e4\u00e4  ",
+              "HA CTO\u00c9E, B\u00c0 MO\u00c4ETE B3\u00dbTb O\u00c1\u00d9EKT   \u00e4 \u00e4\u00e4",
+              "HA\u00c4AT\u00c8EM \u00a3. 4TO\u00c1\u00c0 3HA4OK \u00caO\u00dbB\u00c8\u00c9C\u00db,  \u00e4\u00e4\u00e4",
+              "B\u00c0 \u00c2O\u00c9\u00c4H\u00c0 CMOTPETb B CTOPOH\u00dc O\u00c1\u00d9EKTA \u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "KOTOP\u00c0\u00c8 B\u00c0 XOT\u00c8TE \u00caO\u00c2H\u00dbTb. \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "TO \u00a4 BMECTO \u00a3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_SHADOWS_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BA\u00d2\u00c8 BPA\u00cb\u00c8 MO\u00cb\u00dcT HE O\u00c1HAP\u00dc\u00c4\u00c8Tb BAC, \u00caOKA",
+              "B\u00c0 CKP\u00c0T\u00c0 TEH\u00dbM\u00c8. 4EM TEMHEE TEHb, \u00e4\u00e4\u00e4",
+              "TEM \u00c9\u00dc4\u00d2E B\u00c0 MO\u00c4ETE \u00dcKP\u00c0TbC\u00db. \u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_TRANSLATORS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KAK TO\u00c9bKO KTO-TO \u00cbOBOP\u00c8T \u00cbO\u00c9OCOM, \u00e4 \u00e4",
+              "B\u00c0 MO\u00c4ETE \u00caOH\u00dbTb PE4b CBO\u00c8X  \u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4  ",
+              "BPA\u00cbOB. EC\u00c9\u00c8 BA\u00d2 \u00caEPEBO\u00c24\u00c8K HE MO\u00c4ET  \u00e4\u00e4\u00e4",
+              "\u00caOH\u00dbTb \u00daT\u00dc PE4b, TO \u00c8 B\u00c0 HE CMO\u00c4ETE  \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caOH\u00dbTb. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_ELIMINATE_LEADER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c9\u00c8\u00c2EP TEPPOP\u00c8CTOB HE \u00c1\u00dc\u00c2ET KO\u00c9E\u00c1ATbC\u00db \u00e4\u00e4\u00e4",
+              "\u00dcH\u00c84TO\u00c4\u00c8Tb \u00ca\u00c9AT\u00d6OPM\u00dc \u00c8 \u00c9\u00d4\u00c2E\u00c8 HA HE\u00c8. \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "BA\u00d2E\u00c8 3A\u00c2A4E\u00c8 \u00c1\u00dc\u00c2ET O\u00c1HAP\u00dc\u00c4EH\u00c8E \u00e4\u00e4\u00e4 ",
+              "\u00c8 \u00dcH\u00c84TO\u00c4EH\u00c8E. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_LEADER_AGITATED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              400,
+              92
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A E\u00cbO TOBAP\u00c8\u00d3\u00c8 HE OTBE4A\u00d4T EM\u00dc, \u00e4\u00e4\u00e4",
+              "\u00c9\u00c8\u00c2EP CTAHOB\u00c8TC\u00db B3BO\u00c9HOBAHH\u00c0M."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_TIMER_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c9\u00c8\u00c2EP \u00c4E\u00c9E3HO\u00cbO \u00c1PATCTBA \u00c1\u00dc\u00c2ET  \u00e4 \u00e4 \u00e4\u00e4\u00e4",
+              "\u00caPO\u00c2O\u00c9\u00c4ATb BO\u00c9HOBATbC\u00db. KO\u00cb\u00c2A OH \u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              "C\u00c9OMAETC\u00db, OH B3OPBET \u00c1OM\u00c1\u00c0. C\u00c9E\u00c2\u00c8TE \u00e4\u00e4 \u00e4",
+              "3A 4ACAM\u00c8, 4TO\u00c1\u00c0 \u00dc3HATb CKO\u00c9bKO OCTA\u00c9OCb. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "HudObjective"
+              ],
+              "Valve",
+              [
+                "POBJ2"
+              ],
+              "Mission",
+              [
+                "m5"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              400,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "PA3P\u00db\u00c2KA \u00c1OM\u00c1 3A\u00c8MET BPEM\u00db. CMOTP\u00c8TE HA \u00e4 ",
+              "\u00d2KA\u00c9\u00dc, 4TO\u00c1\u00c0 O\u00c7E\u00c8Tb, CKO\u00c9bKO \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "OCTA\u00c9OCb.  \u00e4\u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_TEAM_DEFUSE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              94
+            ],
+            "WindowSize",
+            [
+              410,
+              241
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TOBAP\u00c8\u00d3\u00c8 MO\u00cb\u00dcT B\u00c0\u00caO\u00c9H\u00c8Tb BA\u00d2\u00c8 3A\u00c2AH\u00c8\u00db, \u00e4\u00e4",
+              "HA\u00caP\u00c8MEP, PA3P\u00db\u00c2KA \u00c1OM\u00c1\u00c0. 4TO\u00c1\u00c0 \u00daTO,   \u00e4\u00e4\u00e4",
+              "C\u00c2E\u00c9ATb, HA\u00c7E\u00c9bTECb HA \u00c1OM\u00c1\u00dc \u00c8 HA\u00c4M\u00c8TE \u00e4 \u00e4 ",
+              "\u00a4. B\u00c0\u00c1EP\u00c8TE \u00c1PABO, HA\u00c4M\u00c8TE \u00a4, 3ATEM \u00e4",
+              "O\u00c1E3BPE\u00c2\u00c8Tb \u00c8 O\u00ca\u00dbTb \u00a4. O\u00c2\u00c8H 4\u00c9EH  \u00e4\u00e4\u00e4 \u00e4",
+              "\u00c1PABO \u00caO\u00c8\u00c2ET \u00c8 PA3P\u00db\u00c2\u00c8T \u00c1OM\u00c1\u00dc. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4  ",
+              ". \u00e4 \u00e4",
+              " ",
+              "\u00c8C\u00caO\u00c9b3\u00dc\u00db 1 T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db, \u00c9\u00dc4\u00d2E \u00a2",
+              "BMECTO \u00a4. \u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_COVER_AREA"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              94
+            ],
+            "WindowSize",
+            [
+              410,
+              242
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 TAK\u00c4E MO\u00c4ETE \u00c8C\u00caO\u00c9b3OBATb TOBAP\u00c8\u00d3E\u00c8 4TO\u00c1",
+              "\u00dcCTPAH\u00dbTb BPA\u00cbA \u00caP\u00c8 B\u00c0\u00caO\u00c9HEH\u00c8\u00c8 M\u00c8CC\u00c8\u00c8. \u00e4",
+              "CHA4A\u00c9A \u00dcKA\u00c4\u00c8TE MECTO, \u00c2\u00c9\u00db \u00caP\u00c8KP\u00c0BAH\u00c8\u00db \u00e4\u00e4\u00e4",
+              "\u00caP\u00c8\u00c7E\u00c9OM. 3ATEM OTKPO\u00c8TE MEH\u00d4 KOMAH\u00c2\u00c0 \u00e4 ",
+              "HA\u00c4AT\u00c8EM \u00a4. B\u00c0\u00c1EP\u00c8TE \u00c1PABO \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c8 \u00caOTOM '\u00caP\u00c8KP\u00c0Tb'. \u00c1PABO \u00c1\u00dc\u00c2ET \u00e4\u00e4\u00e4 \u00e4 \u00e4\u00e4",
+              "\u00caP\u00c8KP\u00c0BATb B\u00c0\u00c1PAHHOE MECTO. \u00e4",
+              " ",
+              "\u00c8C\u00caO\u00c9b3\u00dc\u00db \u00dc\u00caPAB\u00c9EH\u00c8E 1 T\u00c8\u00caA, OTKPO\u00c8TE \u00e4",
+              "MEH\u00d4 KOMAH\u00c2\u00c0 \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00a2."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_USING_RESTRAINTS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              201
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "3A\u00c2EP\u00c4AH\u00c8E HEO\u00c1XO\u00c2\u00c8MO \u00caPO\u00c83BO\u00c2\u00c8Tb C3A\u00c2\u00c8. \u00e4",
+              "EC\u00c9\u00c8 BAM HA\u00c2O KO\u00cbO-TO 3A\u00c2EP\u00c4ATb, B\u00c0 \u00c2O\u00c9\u00c4H\u00c0",
+              "\u00c8\u00c2T\u00c8 3A H\u00c8M \u00c2O \u00caO\u00dbB\u00c9EH\u00c8\u00db 3HA4KA '3A\u00c2EP\u00c4ATb'.",
+              "3ATEM HA\u00c4M\u00c8TE  \u00a3 4TO\u00c1\u00c0 3A\u00c2EP\u00c4ATb BA\u00d2\u00dc \u00e4 ",
+              "\u00c7E\u00c9b.  ",
+              " ",
+              "EC\u00c9\u00c8 \u00c8C\u00caO\u00c9b3\u00dcETE 1 T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db, \u00e4",
+              "HA\u00c4M\u00c8TE \u00a4 , A HE \u00a3. \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_TIMER_02"
+              ]
+            ],
+            "WindowPos",
+            [
+              114,
+              124
+            ],
+            "WindowSize",
+            [
+              408,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00cb\u00c9ABA \u00c4E\u00c9E3HO\u00cbO \u00c1PATCTBA, \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "A\u00c9EKCE\u00c8 \u00c1OP\u00c8COBA, \u00c1\u00c0\u00c9 \u00dc\u00c1\u00c8T, HO \u00c1OM\u00c1\u00c0  \u00e4\u00e4 ",
+              "OCTA\u00c9\u00c8Cb. \u00dc H\u00c8X ECTb 4AC\u00c0 OTC4ETA.  ",
+              "KO\u00cb\u00c2A BPEM\u00db \u00caPO\u00c8\u00c2ET, \u00c1OM\u00c1\u00c0 \u00e4\u00e4\u00e4  \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "B3OPB\u00dcTC\u00db.  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M06_SENTRY_KILL"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HE OCTAB\u00c9\u00db\u00cfTE TE\u00c9A HA B\u00c8\u00c2\u00dc. \u00dc\u00c1\u00c8PA\u00cfTE \u00e4\u00e4 \u00e4\u00e4\u00e4  ",
+              "\u00c8X B TEHb 4TO\u00c1\u00c0 CKP\u00c0Tb OT BA\u00d2\u00c8X \u00e4\u00e4  \u00e4\u00e4 ",
+              "BPA\u00cbOB \u00c8 \u00c83\u00c1E\u00c4ATb O\u00c1HAP\u00dc\u00c4EH\u00c8\u00db. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M06_SECOND_SATCHEL"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KA\u00c4\u00c2\u00c0\u00c8 4E\u00c9OBEK \u00c83 BA\u00d2E\u00c8 KOMAH\u00c2\u00c0 MO\u00c4ET  \u00e4",
+              "HECT\u00c8 TO\u00c9bKO O\u00c2\u00c8H 3AP\u00db\u00c2. \u00caOMECT\u00c8TE \u00caP\u00c8\u00c7E\u00c9 ",
+              "HA\u00c2 H\u00dc\u00c4H\u00c0M MECTOM PA3ME\u00d3EH\u00c8\u00db 3AP\u00db\u00c2A. ",
+              "3ATEM, \u00c8C\u00caO\u00c9b3\u00dc\u00db MEH\u00d4 KOMAH\u00c2\u00c0, \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4    ",
+              "\u00caP\u00c8KA\u00c4\u00c8TE PA3BEPH\u00dcTb 3AP\u00db\u00c2\u00c0. \u00e4\u00e4   \u00e4 \u00e4",
+              "4\u00c9EH BA\u00d2E\u00c8 KOMAH\u00c2\u00c0 \u00caO\u00c1E\u00c4\u00c8T B\u00c0\u00caO\u00c9H\u00dbTb \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caP\u00c8KA3. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M06_USE_TEAM"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BA\u00d2 \u00caAPTHEP, \u00c1\u00dcMEP, \u00c1\u00dc\u00c2ET C\u00c9E\u00c2OBATb 3A BAM\u00c8",
+              "A \u00c1PABO OCTAHETC\u00db 3\u00c2ECb, \u00caOKA HE H\u00dc\u00c4EH ",
+              "BAM. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M06_MORE_SHADOW"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "EC\u00c9\u00c8 H\u00c8KTO HA C\u00dc\u00c2HE HE O\u00c1HAP\u00dc\u00c4\u00c8\u00c9 BA\u00d2\u00dc  \u00e4\u00e4 \u00e4\u00e4",
+              "\u00c2E\u00dbTE\u00c9bHOCTb HA \u00c1AP\u00c4E, B\u00c0 MO\u00c4ETE CKP\u00c0TbC\u00db \u00e4",
+              "B KA\u00d4TE \u00c9O\u00c7MAHA HA \u00c1AP\u00c4E \u00c1E3 BC\u00dbK\u00c8X \u00e4\u00e4\u00e4\u00e4 ",
+              "3ATP\u00dc\u00c2HEH\u00c8\u00c8. \u00c1\u00dc\u00c2bTE OCTOPO\u00c4H\u00c0 \u00c8 CTAPA\u00c8TECb HE",
+              "CTPE\u00c9\u00dbTb BPA\u00cbOB, KOTOP\u00c0E BAC HE \u00dcB\u00c8\u00c2E\u00c9\u00c8. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M06_USING_ABLE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BA\u00d2 TOBAP\u00c8\u00d3 \u00c1\u00dcMEP \u00c1\u00dc\u00c2ET BCE\u00cb\u00c2A C\u00c9E\u00c2OBATb \u00e4",
+              "3A BAM\u00c8 HE\u00caO\u00c2A\u00c9\u00dcK\u00dc. OH B\u00c0\u00caO\u00c9H\u00c8T CTO\u00c9bKO \u00e4",
+              "\u00c4E \u00caP\u00c8KA3OB, CKO\u00c9bKO \u00c8 \u00c1PABO A TAK\u00c4E \u00e4 \u00e4",
+              "\u00caP\u00c8KPOET BAC C3A\u00c2\u00c8. \u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_TCM_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A KOMAH\u00c2A B PE\u00c4\u00c8ME \u00caO\u00c2\u00c2EP\u00c4AH\u00c8\u00db O\u00cbH\u00db, \u00e4",
+              "OH\u00c8 \u00c1\u00dc\u00c2\u00dcT CTPE\u00c9\u00dbTb \u00caO BPA\u00cb\u00dc, KOTOP\u00c0\u00c8 \u00e4\u00e4  ",
+              "\u00c7E\u00c9\u00c8TC\u00db B H\u00c8X. B PE\u00c4\u00c8ME \u00caOCTO\u00dbHHO\u00cbO O\u00cbH\u00db, ",
+              "OH\u00c8 \u00c1\u00dc\u00c2\u00dcT CTPE\u00c9\u00dbTb \u00caO BCEM\u00dc B 3OHE \u00e4 ",
+              "B\u00c8\u00c2\u00c8MOCT\u00c8. \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_USE_C4"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HA\u00c2O PA3P\u00dc\u00d2\u00c8Tb TA\u00c8H\u00c8K \u00caP\u00c8 \u00caOMO\u00d3\u00c8 C4.  \u00e4",
+              "\u00caEPE\u00c2B\u00c8\u00cbA\u00c8TECb ME\u00c2\u00c9EHHO, \u00caOKA HE  \u00e4 \u00e4\u00e4",
+              "\u00caO\u00dbB\u00c8TC\u00db 3HA4OK 'PA3MECT\u00c8Tb'.  HA\u00c4M\u00c8TE \u00a3  ",
+              "3ATEM \u00c1E\u00cb\u00c8TE, \u00caOKA C4ET4\u00c8K HE CPA\u00c1OTA\u00c9."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_NAV_POINTS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TO4K\u00c8 HAB\u00c8\u00cbA\u00c7\u00c8\u00c8 \u00caOKA3AH\u00c0 HA PA\u00c2APE \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c8 HA KAPTE KAK \u00c1\u00dcKB\u00c0 BH\u00dcTP\u00c8 KBA\u00c2PATOB. \u00e4\u00e4\u00e4",
+              "\u00c1\u00dcKB\u00c0 - \u00caEPB\u00c0E C\u00c8MBO\u00c9\u00c0 C\u00c9OB  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "4AP\u00c9\u00c8 (C), B\u00c8CK\u00c8 (W), 3\u00dc\u00c9\u00dc (Z) \u00c8 TAK \u00c2A\u00c9EE. \u00e4 ",
+              "TO4K\u00c8 HAB\u00c8\u00cbA\u00c7\u00c8\u00c8 \u00caO\u00dbB\u00c9\u00db\u00d4TC\u00db \u00caO \u00ca\u00dcT\u00c8 K \u00c7E\u00c9\u00dbM."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_CREEPING"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4EM \u00c1\u00c0CTPEE B\u00c0 \u00c8\u00c2ETE, TEM \u00c1O\u00c9b\u00d2E \u00d2\u00dcMA \u00e4",
+              "\u00c2E\u00c9AETE. BPA\u00cb C\u00c9\u00c0\u00d2\u00c8T BAC. \u00c8\u00c2\u00c8TE OCTOPO\u00c4HO",
+              "EC\u00c9\u00c8 HE XOT\u00c8TE \u00c1\u00c0Tb O\u00c1HAP\u00dc\u00c4EHH\u00c0M.   \u00e4\u00e4    \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_USING_GRASS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "PACT\u00c8TE\u00c9bHOCTb - \u00daTO \u00dcKP\u00c0T\u00c8E. 4EM \u00cb\u00dc\u00d3E \u00e4\u00e4",
+              "\u00c9\u00c8CTBA, TEM OHO \u00c9\u00dc4\u00d2E. \u00e4\u00e4 \u00e4\u00e4  \u00e4 \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_GOTO_TACMAP"
+              ]
+            ],
+            "WindowPos",
+            [
+              130,
+              120
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00dc BAC \u00caO\u00dbB\u00c8\u00c9ACb HOBA\u00db 3A\u00c2A4A. HA\u00c4M\u00c8TE  \u00e4\u00e4 \u00e4",
+              "SELECT 4TO\u00c1\u00c0 OTKP\u00c0Tb KAPT\u00dc \u00c8 \u00dcB\u00c8\u00c2ETb",
+              "BA\u00d2\u00dc \u00c7E\u00c9b \u00c8 KAPT\u00dc MECTHOCT\u00c8.  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4",
+              "TAK\u00c4E B \u00c2\u00c8A\u00c9O\u00cbE KAPT\u00c0 B\u00c0 CMO\u00c4ETE HA\u00c8T\u00c8  \u00e4\u00e4",
+              "\u00dcKA3AH\u00c8\u00db \u00caO \u00c2OCT\u00c8\u00c4EH\u00c8\u00d4 \u00c7E\u00c9\u00c8."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_HIDE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00dc\u00c1EP\u00c8TE \u00c1PABO \u00c83 3OH\u00c0 B\u00c8\u00c2\u00c8MOCT\u00c8 \u00c8  \u00e4 \u00e4 \u00e4",
+              "\u00dcKPO\u00c8TECb. \u00caATP\u00dc\u00c9b \u00caO\u00dbB\u00c8TC\u00db O4EHb CKOPO."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_KILL_SENTRY"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00dcH\u00c84TO\u00c4A\u00c8TE TEPPOP\u00c8CTOB T\u00c8XO 4TO\u00c1\u00c0 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c83\u00c1E\u00c4ATb PA3O\u00c1\u00c9A4EH\u00c8\u00db. \u00dc\u00c1\u00c8BA\u00c8TE HO\u00c4OM, \u00e4\u00e4 ",
+              "B\u00c8HTOBKO\u00c8 \u00c8\u00c9\u00c8 OP\u00dc\u00c4\u00c8EM C \u00cb\u00c9\u00dc\u00d2\u00c8TE\u00c9EM. \u00e4\u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_STANCE_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BA\u00d2A \u00caO3\u00c8\u00c7\u00c8\u00db \u00caOKA3\u00c0BAET, KAK XOPO\u00d2O BPA\u00cb",
+              "MO\u00c4ET B\u00c8\u00c2ETb BAC. \u00c9O\u00c4\u00c8TECb HA 3EM\u00c9\u00d4 4TO\u00c1\u00c0 ",
+              "CH\u00c83\u00c8Tb B\u00c8\u00c2\u00c8MOCTb. TAK \u00c9\u00dc4\u00d2E. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4 \u00e4\u00e4",
+              "4TO\u00c1\u00c0 MEH\u00dbTb \u00caO3\u00c0, \u00c4M\u00c8TE \u00a1."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_STANCE_02"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caO3A TAK\u00c4E B\u00c9\u00c8\u00dbET HA TO4HOCTb. \u00caA\u00c9\u00c8Tb \u00c9E\u00c4A ",
+              "XOPO\u00d2O, HO CTPE\u00c9b\u00c1A H\u00c84KOM TO4HEE. \u00e4",
+              "\u00c8TAK, 4TO\u00c1\u00c0 CMEH\u00c8Tb \u00caO3\u00dc. HA\u00c4M\u00c8TE \u00e4\u00a1 to",
+              "PE\u00d2\u00c8TE\u00c9bHO. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_TCM_02"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "OTKPO\u00c8TE MEH\u00d4 KOMAH\u00c2\u00c0 HA\u00c4AT\u00c8EM \u00e4   \u00e4\u00e4\u00e4",
+              "\u00a4. B\u00c0\u00c1EP\u00c8TE '\u00c1PABO', 3ATEM '\u00c1E\u00c4ATb' ",
+              "\u00caOTOM '4AP\u00c9\u00c8'. \u00c1PABO \u00caO\u00c1E\u00c4\u00c8T B \u00e4\u00e4 \u00e4",
+              "TO4K\u00dc 4AP\u00c9\u00c8. \u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4",
+              "  ",
+              "EC\u00c9\u00c8 \u00c8C\u00caO\u00c9b3\u00dcETE 1 T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db, \u00e4",
+              "\u00c4M\u00c8TE \u00a2 4TO\u00c1\u00c0 OTKP\u00c0Tb MEH\u00d4 KOMAH\u00c2\u00c0. \u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_HEY_TACMAP"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "EC\u00c9\u00c8 \u00dc BAC \u00caPO\u00c1\u00c9EM\u00c0 C HAB\u00c8\u00cbA\u00c7\u00c8E\u00c8 MECTHOCT\u00c8   ",
+              "\u00c8\u00c9\u00c8 B\u00c0 HE 3HAETE, 4TO \u00c2E\u00c9ATb, HA\u00c4M\u00c8TE  \u00e4\u00e4",
+              "KHO\u00caK\u00dc SELECT 4TO\u00c1\u00c0 OTKP\u00c0Tb TAKT\u00c84ECK\u00dc\u00d4    ",
+              "KAPT\u00dc. BCE BA\u00d2\u00c8 \u00c7E\u00c9\u00c8 \u00c8 KAPTA \u00e4 \u00e4  \u00e4\u00e4\u00e4  \u00e4\u00e4",
+              "TEPP\u00c8TOP\u00c8\u00c8 TE\u00caEPb B\u00c8\u00c2H\u00c0 HA \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "\u00daKPAHE \u00c2\u00c8A\u00c9O\u00cbA."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_RADAR_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TE\u00caEPb B\u00c0 3AXBAT\u00c8\u00c9\u00c8 \u00c1\u00dc\u00c9ABK\u00dc \u00c8 MO\u00c4ETE \u00e4\u00e4 ",
+              "C\u00c9E\u00c2\u00c8Tb 3A E\u00cbO \u00caO\u00c9O\u00c4EH\u00c8EM HA PA\u00c2APE. \u00e4 \u00e4",
+              "BCE 3AXBA4EHH\u00c0E \u00daCKOPT\u00c0 \u00caOKA3AH\u00c0 \u00c1\u00dcKBO\u00c8 ",
+              "'H' BH\u00dcTP\u00c8 KP\u00dc\u00cbA. EC\u00c9\u00c8 B\u00c0 OCTAB\u00c8\u00c9\u00c8 \u00e4\u00e4 \u00e4",
+              "\u00daCKOPT \u00c2A\u00c9EKO \u00caO3A\u00c2\u00c8, OH \u00c8C4E3HET C \u00e4",
+              "BA\u00d2E\u00cbO PA\u00c2APA \u00c1\u00c0CTPO. \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "HudObjective"
+              ],
+              "Valve",
+              [
+                "SOBJ9"
+              ],
+              "Mission",
+              [
+                "m8"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c1PABO MO\u00c4ET PA\u00c1OTATb HA BAC \u00caOKA \u00e4 \u00e4\u00e4\u00e4 \u00e4",
+              "\u00c1\u00dc\u00c2ET HAXO\u00c2\u00c8TbC\u00db HA \u00caO3\u00c8\u00c7\u00c8\u00c8 B TO4KE \u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "3\u00dc\u00c9\u00dc. C\u00c9E\u00c2\u00c8TE 4TO\u00c1\u00c0 PE\u00c4\u00c8M \u00caOCTO\u00dbHHO\u00cbO O\u00cbH\u00db ",
+              "\u00c9\u00c8\u00c1O \u00caO\u00c2\u00c2EP\u00c4AH\u00c8\u00db O\u00cbH\u00db \u00c1\u00c0\u00c9 BK\u00c9\u00d44EH.  \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_RADAR_02"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              182
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00ca\u00dc\u00c9bC\u00c8P\u00dc\u00d4\u00d3A\u00db 3BE3\u00c2A HA KAPTE \u00c8 3BE3\u00c2A \u00e4  \u00e4\u00e4\u00e4",
+              "HA PA\u00c2APE \u00caOKA3\u00c0BAET \u00caO\u00c9O\u00c4EH\u00c8E \u00c7E\u00c9\u00c8. \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c4E\u00c9TA\u00db \u00caOKA3\u00c0BAET \u00cb\u00c9ABH\u00c0E 3A\u00c2A4\u00c8, ",
+              "A \u00c1E\u00c9A\u00db \u00caOKA3\u00c0BAET BTOP\u00c84H\u00c0E  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4 ",
+              "3A\u00c2A4\u00c8. HEKOTOP\u00c0E 3A\u00c2A4\u00c8 HE O\u00caPE\u00c2E\u00c9\u00db\u00d4TC\u00db ",
+              "\u00caO\u00c9O\u00c4EH\u00c8EM HA KAPTE, TAK 4TO OH\u00c8 HE \u00e4",
+              "\u00caOKA3AH\u00c0 3BE3\u00c2AM\u00c8. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_FOLIAGE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c9\u00c8CTBA \u00caPE\u00c2OCTAB\u00c9\u00dbET \u00dcKP\u00c0T\u00c8E OT BPA\u00cbOB. \u00e4\u00e4",
+              "\u00cb\u00dcCTA\u00db \u00c9\u00c8CTBA - \u00c9\u00dc4\u00d2EE \u00dcKP\u00c0T\u00c8E, HO  \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "\u00c2A\u00c4E PE\u00c2K\u00c8E K\u00dcCT\u00c8K\u00c8 \u00c8ME\u00d4T 3HA4EH\u00c8E \u00c2\u00c9\u00db ",
+              "BA\u00d2E\u00c8 MACK\u00c8POBK\u00c8. \u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_WATER_COVER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BO\u00c2A - TO\u00c4E \u00dcKP\u00c0T\u00c8E. EC\u00c9\u00c8 BO\u00c2A \u00c2OCTATO4HO \u00e4 \u00e4",
+              "\u00cb\u00c9\u00dc\u00c1OKA \u00c2\u00c9\u00db TO\u00cbO, 4TO\u00c1\u00c0 \u00c9E\u00c4ATb B HE\u00c8, \u00e4  ",
+              "BEPO\u00dbTHOCTb O\u00c1HAP\u00dc\u00c4EH\u00c8\u00db BAC BPA\u00cbOM C\u00c8\u00c9bHO ",
+              "CH\u00c83\u00c8TC\u00db.   "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_TACTICS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              400,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HE \u00caO3BO\u00c9\u00db\u00c8TE TEPPOP\u00c8CTAM \u00c2OCT\u00c84b \u00c8X \u00e4 \u00e4\u00e4 ",
+              "\u00c9O\u00c2OK. EC\u00c9\u00c8 P\u00c8\u00c2\u00c2A P\u00dc\u00c4 C\u00c1E\u00c4\u00c8T \u00caO PEKE, \u00e4\u00e4\u00e4\u00e4",
+              "\u00c1\u00c8O-\u00c2AHH\u00c0E \u00c1\u00dc\u00c2\u00dcT \u00dcTEP\u00dbH\u00c0. 4EPE3 \u00e4\u00e4 \u00e4",
+              "MEH\u00d4 KOMAH\u00c2\u00c0 \u00caO\u00d2\u00c9\u00c8TE \u00c1PABO B TO4K\u00dc \u00e4 \u00e4 ",
+              "B\u00c8CK\u00c8 \u00c8 \u00caP\u00c8KA\u00c4\u00c8TE \u00c8M BECT\u00c8 \u00caOCTO\u00dbHH\u00c0\u00c8 \u00e4\u00e4\u00e4",
+              "O\u00cbOHb, EC\u00c9\u00c8 OH\u00c8 E\u00d3E HE B \u00daTOM PE\u00c4\u00c8ME. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_EXTRACTION"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c2EP\u00c4\u00c8TE \u00daT\u00dc \u00caO3\u00c8\u00c7\u00c8\u00d4 \u00caOKA BCE 3\u00c2OPOB\u00c0E TOBAP\u00c8\u00d3\u00c8",
+              "HE \u00c2OCT\u00c8\u00cbH\u00dcT 3OH\u00c0 B\u00c0CA\u00c2K\u00c8."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_WEATHER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c9\u00d4\u00c1A\u00db \u00caO\u00cbO\u00c2A B\u00c9\u00c8\u00dbET HA MACK\u00c8POBK\u00dc. 4EM  \u00e4",
+              "X\u00dc\u00c4E \u00caO\u00cbO\u00c2A, TEM \u00c9\u00dc4\u00d2E \u00c2\u00c9\u00db BAC. C\u00c9O\u00c4\u00c8TE ",
+              "\u00c9\u00c8BEHb \u00c8 TEMHOT\u00dc, \u00c8 B\u00c0 CTAHETE HEB\u00c8\u00c2\u00c8M\u00c0M ",
+              "\u00c2\u00c9\u00db \u00c9\u00d4\u00c1O\u00cbO BA\u00d2E\u00cbO BPA\u00cbA. \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M11_STATS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0, HABEPHOE, 3AMET\u00c8\u00c9\u00c8, 4TO 'CKP\u00c0THOCTb'",
+              "\u00caO\u00dbB\u00c9\u00dbETC\u00db B CTAT\u00c8CT\u00c8KE \u00caOC\u00c9E KA\u00c4\u00c2O\u00c8 \u00e4\u00e4",
+              "M\u00c8CC\u00c8\u00c8. 4TO\u00c1\u00c0 \u00caOB\u00c0C\u00c8Tb \u00daTO KA4ECTBO, \u00e4\u00e4",
+              "HEO\u00c1\u00db3ATE\u00c9bHO OCTABATbC\u00db HEB\u00c8\u00c2\u00c8M\u00c0M  ",
+              "\u00caO\u00c9HOCTb\u00d4 \u00c8 BCE\u00cb\u00c2A -- B\u00c0 \u00caPOCTO HE  \u00e4\u00e4\u00e4",
+              "\u00c2O\u00c9\u00c4H\u00c0 OCTAB\u00c9\u00dbTb B \u00c4\u00c8B\u00c0X BCEX, KTO BAC",
+              "B\u00c8\u00c2E."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M11_SHADOW"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HE3AB\u00c8C\u00c8MO OT TO\u00cbO, \u00cb\u00c2E \u00caPOXO\u00c2\u00c8T M\u00c8CC\u00c8\u00db, \u00e4",
+              "\u00caOMH\u00c8TE, 4TO TEHb -- BA\u00d2 \u00c2P\u00dc\u00cb, A  \u00e4\u00e4   \u00e4",
+              "OCTOPO\u00c4HOCTb -- \u00c9\u00dc4\u00d2EE OP\u00dc\u00c4\u00c8E. \u00e4\u00e4\u00e4  \u00e4 \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M12_FORCED_SURRENDER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4TO\u00c1\u00c0 3ACTAB\u00c8Tb TOH\u00cbOHA C\u00c2ATbC\u00db, B\u00c0 \u00e4\u00e4\u00e4",
+              "\u00c2O\u00c9\u00c4H\u00c0 \u00dc\u00c1PATb E\u00cbO OT TE\u00c9OXPAH\u00c8TE\u00c9E\u00c8. TAK\u00c4E,",
+              "\u00ca\u00c0TA\u00c8TECb CXBAT\u00c8Tb E\u00cbO \u00c2O \u00c2OCT\u00c8\u00c4EH\u00c8\u00db PEK\u00c8.  \u00e4",
+              "4EM T\u00db\u00c4E\u00c9EE EM\u00dc C\u00c1E\u00c4ATb, TEM T\u00db\u00c4E\u00c9E\u00c8 EM\u00dc  \u00e4\u00e4\u00e4",
+              "C\u00c2ABATbC\u00db. \u00e4\u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M12_THONGKON_RUNS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TOH\u00cbOH \u00caOK\u00c8\u00c2AET XPAM \u00c8 \u00c1E\u00c4\u00c8T. \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4    \u00e4 ",
+              "HE \u00c2A\u00c8TE EM\u00dc \u00c2OCT\u00c8\u00cbH\u00dcTb PEK\u00c8 \u00c8 \u00dcCKO\u00c9b3H\u00dcTb  ",
+              "TAK. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_STEALTH"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "CKP\u00c0THOCTb \u00caPE\u00c4\u00c2E BCE\u00cbO. TEPPOP\u00c8CT\u00c0 B \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "T\u00d4PbME O4EHb BAC HE \u00c9\u00d4\u00c1\u00dbT. BA\u00d2 \u00d2AHC  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "3ABEP\u00d2\u00c8Tb M\u00c8CC\u00c8\u00d4 \u00dcC\u00caE\u00d2HO -- PA3MECT\u00c8Tb  \u00e4 \u00e4\u00e4",
+              "B3P\u00c0B4ATK\u00dc B \u00c2A\u00c9bHE\u00c8 CTOPOHE T\u00d4PbM\u00c0 \u00e4  \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c8 \u00caPOBECT\u00c8 \u00c2\u00c8BEPC\u00c8\u00d4. \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4 \u00e4",
+              "B\u00caO\u00c9HE BO3MO\u00c4HO O\u00c1E3BPE\u00c2\u00c8Tb T\u00d4PbM\u00dc \u00c8 HE",
+              "B\u00c0\u00c2ATb CE\u00c1\u00db. \u00e4\u00e4\u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_DIVERSION"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00dc BAC HE \u00caO\u00c9\u00dc4\u00c8\u00c9ACb \u00c2\u00c8BEPC\u00c8\u00db. \u00caEPCOHA\u00c9\u00dc \u00e4 \u00e4\u00e4\u00e4",
+              "T\u00d4PbM\u00c0 \u00c1\u00dc\u00c2ET HAMHO\u00cbO C\u00c9O\u00c4HE\u00c8 3A\u00d3\u00c8T\u00c8TbC\u00db \u00e4  \u00e4\u00e4 ",
+              "\u00caOTOM\u00dc 4TO TEPPOP\u00c8CT\u00c0 HE OTT\u00dbH\u00dcT\u00c0 HA3A\u00c2   \u00e4\u00e4\u00e4",
+              "B\u00cb\u00c9\u00dc\u00c1b T\u00d4PbM\u00c0 \u00c8 OCTA\u00d4TC\u00db \u00c2A\u00c9E\u00cbO OT 3OH\u00c0",
+              "BA\u00d2E\u00cbO BTOP\u00c4EH\u00c8\u00db. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_WALL_NOT_HOLE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HA\u00c8\u00c2\u00c8TE KAMEHb HA CTEHE \u00c8 B3\u00c1EP\u00c8TECb B  \u00e4\u00e4\u00e4\u00e4",
+              "T\u00d4PbM\u00dc \u00caO HE\u00c8 KO\u00cb\u00c2A  \u00c1\u00dc\u00c2ET B3P\u00c0B. \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4",
+              "T\u00dcPPOP\u00c8CT\u00c0 \u00c8C\u00ca\u00dc\u00cbA\u00d4TC\u00db 3B\u00dcKA B3P\u00c0BA \u00c8  \u00e4  ",
+              "\u00c1\u00dc\u00c2\u00dcT \u00c2A\u00c9EKO. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_GENERATOR"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "EC\u00c9\u00c8 B\u00c0 OTK\u00c9\u00d44\u00c8TE \u00cbEHEPATOP, O\u00cbH\u00c8 B \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4",
+              "T\u00d4PbME \u00caO\u00cbACH\u00dcT. \u00daTO \u00c2ACT BAM TAKT\u00c84ECKOE \u00e4\u00e4",
+              "\u00caPE\u00c8M\u00dc\u00d3ECTBO. \u00c9\u00dc4\u00d2\u00c8\u00c8 C\u00caOCO\u00c1 OCTAHOB\u00c8Tb \u00e4  \u00e4\u00e4",
+              "\u00cbEHEPATOP -- B\u00c0K\u00c9\u00d44\u00c8Tb E\u00cbO, HO B\u00c0 MO\u00c4ETE \u00e4\u00e4\u00e4",
+              "TAK\u00c4E \u00caP\u00c8MEH\u00c8Tb C4.  "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_MOVE_BODIES"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caPO4E\u00d2\u00c8TE MECTHOCTb HA \u00caPE\u00c2MET BPA\u00cbOB, \u00e4\u00e4\u00e4",
+              "\u00caEPETA\u00d3\u00c8TE TE\u00c9A \u00caEPB\u00c0X \u00c2B\u00dcX HA\u00cdMH\u00c8KOB B \u00e4\u00e4\u00e4\u00e4",
+              "TPAB\u00dc \u00c8\u00c9\u00c8 3A CKA\u00c9\u00dc 4TO\u00c1\u00c0 \u00c8X HE \u00e4\u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4 ",
+              "\u00dcB\u00c8\u00c2E\u00c9\u00c8 \u00c8X TOBAP\u00c8\u00d3\u00c8. \u00e4 \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_MOVE_BUDDY"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caEPE\u00c2 TEM, KAK 3AP\u00db\u00c2 \u00c2ETOH\u00c8P\u00dcET, \u00e4\u00e4\u00e4\u00e4\u00e4  \u00e4",
+              "B\u00c0 \u00c2O\u00c9\u00c4H\u00c0 \u00dc\u00c1PATb CBO\u00d4 KOMAH\u00c2\u00dc C \u00e4 \u00e4\u00e4\u00e4\u00e4",
+              "TEPP\u00c8TOP\u00c8\u00c8.  \u00e4\u00e4\u00e4\u00e4 \u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_STEALTH"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BH\u00c8MATE\u00c9bHO \u00c83\u00dc4\u00c8TE O\u00c1\u00c04\u00c8\u00c8 HA\u00cdMH\u00c8KOB \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c8 \u00c2E\u00c8CTB\u00dc\u00c8TE TO\u00c9bKO KO\u00cb\u00c2A TEPP\u00c8TOP\u00c8\u00db 4\u00c8CTA ",
+              "\u00c8\u00c9\u00c8 HA\u00c8M\u00c8T\u00c0 \u00caOBEPH\u00dcT\u00c0 \u00dc BAM C\u00ca\u00c8HAM\u00c8. \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_GET_THOSE_MERCS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00dcH\u00c84TO\u00c4bTE BCEX OCTAB\u00d2\u00c8XC\u00db \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              "HA\u00cdMH\u00c8KOB. \u00c8M HE\u00c9b3\u00db \u00caO3BO\u00c9\u00c8Tb C\u00c1E\u00c4ATb \u00c8",
+              "\u00caPE\u00c2\u00dc\u00caPE\u00c2\u00c8Tb CBO\u00c8X \u00c2P\u00dc3E\u00c8 O TOM, 4TO B\u00c0",
+              "3\u00c2ECb. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M19_MAGNUS_DEAD"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c2OCTABbTE BCEX TPO\u00c8X B 3OH\u00dc B\u00c0CA\u00c2K\u00c8. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00caOKA BCE TPOE HAXO\u00c2\u00dbTC\u00db C BAM\u00c8, B\u00c0 \u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4",
+              "B\u00c0 3AXOT\u00c8TE C\u00caP\u00dbTATb TEX, KO\u00cbO \u00dc\u00c4E C\u00caAC\u00c9\u00c8.",
+              "\u00caOMH\u00c8TE, 4TO \u00caATP\u00dc\u00c9\u00c8 HA\u00c8M\u00c8TOB \u00dc\u00c1b\u00d4T \u00e4    ",
+              "KA\u00c4\u00c2O\u00cbO KO\u00cbO B\u00c0 C\u00caAC\u00c9\u00c8, TAK 4TO B\u00c0 MO\u00c4ETE \u00e4",
+              "PE\u00d2\u00c8Tb OCTAB\u00c8Tb \u00c1PABO \u00c2\u00c9\u00db \u00c8X \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4",
+              "OXPAH\u00c0. \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M19_STEALTH_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c9\u00dc4\u00d2\u00c8M PE\u00d2EH\u00c8EM \u00c2OCTABK\u00c8 \u00c9\u00d4\u00c2E\u00c8 \u00c1\u00dc\u00c2ET \u00e4\u00e4\u00e4\u00e4",
+              "\u00c2O\u00c9\u00cbO OCTABATbC\u00db BHE 3OH\u00c0 B\u00c8\u00c2\u00c8MOCT\u00c8. \u00e4\u00e4\u00e4\u00e4",
+              "\u00dcKP\u00c0BA\u00dbCb, B\u00c0 CMO\u00c4ETE \u00c2OCT\u00c8\u00cbH\u00dcTb \u00ca\u00dcHKTA ",
+              "HA3HA4EH\u00c8\u00db, HE COO\u00c1\u00d3A\u00db MA\u00cbH\u00dcC\u00dc O BAC. \u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M21_LASER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              100
+            ],
+            "WindowSize",
+            [
+              410,
+              240
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4TO\u00c1\u00c0 B\u00c03BATb PAKETH\u00c0\u00c8 \u00dc\u00c2AP, \u00caP\u00c8MEH\u00c8TE \u00e4\u00e4\u00e4\u00e4",
+              "\u00c9A3EPH\u00c0\u00c8 \u00caP\u00c8\u00c7E\u00c9 \u00c2\u00c9\u00db HABE\u00c2EH\u00c8\u00db HA   \u00e4\u00e4 \u00e4  \u00e4  ",
+              "\u00c1\u00dcHKEP. \u00caP\u00c8\u00c7E\u00c9 B\u00c0\u00cb\u00c9\u00db\u00c2\u00c8T KAK \u00ca\u00c8CTO\u00c9ET \u00c8 \u00e4 \u00e4\u00e4\u00e4\u00e4 ",
+              "\u00c83\u00c2AET 4\u00c8P\u00c8KA\u00d4\u00d3\u00c8\u00c8 3B\u00dcK \u00caP\u00c8 HA\u00c4AT\u00c8\u00c8 \u00e4 \u00e4\u00e4 ",
+              "KHO\u00caK\u00c8 O\u00cbH\u00db, \u00dc\u00c2EP\u00c4AH\u00c8\u00c8 EE, \u00c8 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4 \u00e4\u00e4",
+              "\u00caP\u00c8\u00c7E\u00c9\u00c8BAH\u00c8\u00db. \u00caOMH\u00c8TE, \u00caPOXO\u00c2\u00c8T HECKO\u00c9bKO  ",
+              "CEK\u00dcH\u00c2 \u00caPE\u00c4\u00c2E 4EM \u00c7E\u00c9b \u00d6\u00c8KC\u00c8P\u00dcETC\u00db, \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "watch the meter on screen for an",
+              "\u00daKPAHE 4TO\u00c1\u00c0 B\u00c8\u00c2ETb, CKO\u00c9bKO OCTA\u00c9OCb \u00c2O \u00e4",
+              "\u00daTO\u00cbO. \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M21_MORE_BUNKERS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "OCTA\u00c9OCb \u00dcH\u00c84TO\u00c4\u00c8Tb \u00c2BA \u00c1\u00dcHKEPA. BAM H\u00dc\u00c4HO \u00e4",
+              "\u00caP\u00c8MEH\u00c8Tb \u00c9A3EPH\u00c0\u00c8 \u00caP\u00c8\u00c7E\u00c9 \u00c2\u00c9\u00db \u00ca\u00dcCKA \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4",
+              "PAKET. \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M11_SWEEP_01"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 MO\u00c4ETE \u00caO3BATb BO3\u00c2\u00dc\u00d2H\u00dc\u00d4 \u00caO\u00c2\u00c2EP\u00c4K\u00dc \u00c8 \u00e4\u00e4\u00e4\u00e4",
+              "BEPTO\u00c9ET OCMOTP\u00c8T MECTHOCTb. \u00daTO \u00caOMO\u00c4ET",
+              "\u00dc\u00c1PATb MHO\u00cb\u00c8X BPA\u00cbOB,HO \u00dc\u00c7E\u00c9EB\u00d2\u00c8E \u00dc3HA\u00d4T BAC",
+              "3\u00c2ECb. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M11_SWEEP_02"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "OTKPO\u00c8TE MEH\u00d4 KOMAH\u00c2\u00c0 \u00c8 B\u00c0\u00c1EP\u00c8TE \u00e4\u00e4  \u00e4",
+              "\u00caOMO\u00d3b \u00c8 O\u00c1\u00c9ET. \u00caP\u00c8\u00c9ET\u00c8T BEPTO\u00c9ET \u00c8 \u00e4  ",
+              "HA4HET PACCTPE\u00c9\u00c8BATb BPA\u00cbOB HA MECTHO- \u00e4",
+              "CT\u00c8. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_WATCH"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caOKA \u00c2EP\u00c4\u00c8TE \u00caO3\u00c8\u00c7\u00c8\u00d4 \u00c8 C\u00c9E\u00c2\u00c8TE 3A \u00e4 \u00e4\u00e4   \u00e4",
+              "\u00c2E\u00c8CTB\u00c8\u00dbM\u00c8 TEPPOP\u00c8CTOB. \u00caOKA OH\u00c8 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "HE 3HA\u00d4T O BAC, B\u00c0 CMO\u00c4ETE HA\u00c1\u00c9\u00d4\u00c2ATb \u00e4 \u00e4\u00e4\u00e4",
+              "3A \u00c8X \u00caATP\u00dc\u00c9EM \u00c8 \u00dc3HABATb \u00c8X \u00caOBA\u00c2K\u00c8. \u00daTA ",
+              "\u00c8H\u00d6OPMA\u00c7\u00c8\u00db MO\u00c4ET CTATb \u00caO\u00c9E3HO\u00c8, KO\u00cb\u00c2A \u00e4",
+              "B\u00c0 \u00c1\u00dc\u00c2ETE \u00c1\u00c8Tb BPA\u00cbOB. \u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_BBC"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BA\u00d2\u00c8 TOBAP\u00c8\u00d3\u00c8 \u00caO\u00c2OPB\u00dcT, O\u00c1C\u00c9E\u00c2\u00dc\u00d4T \u00c8 \u00e4   \u00e4\u00e4\u00e4",
+              "3A4\u00c8CT\u00dbT KOMHAT\u00c0. \u00caOMECT\u00c8TE \u00caP\u00c8\u00c7E\u00c9 HA \u00c2BEP\u00c8",
+              "\u00c8 OTKPO\u00c8TE MEH\u00d4 KOMAH\u00c2\u00c0. \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4 \u00e4",
+              "B\u00c0\u00c1EP\u00c8TE \u00c1PABO -- \u00caPOPBATb, PA3HECT\u00c8, ",
+              "O4\u00c8CT\u00c8Tb. BA\u00d2A KOMAH\u00c2A BO\u00c8\u00c2ET B KOMHAT\u00dc,",
+              "OC\u00c9E\u00ca\u00c8T BPA\u00cbOB \u00c8 \u00caEPE\u00c1bET BCEX \u00c8X. \u00e4 \u00e4 \u00e4\u00e4\u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M05_COVER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              104
+            ],
+            "WindowSize",
+            [
+              410,
+              241
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c2A\u00c8TE \u00c1PABO 3A4\u00c8CT\u00c8Tb TEPP\u00c8TOP\u00c8\u00c8, \u00cb\u00c2E  \u00e4",
+              "XO\u00c2\u00c8T BPA\u00cb. \u00daTO MO\u00c4ET OCTAHOB\u00c8Tb \u00e4  \u00e4 ",
+              "TEPPOP\u00c8CTOB OT B\u00c0\u00caO\u00c9HEH\u00c8\u00db \u00c8X \u00ca\u00c9AHA. TO\u00c9bKO ",
+              "OTKPO\u00c8TE MEH\u00d4 KOMAH\u00c2\u00c0 HA\u00c4AT\u00c8EM \u00e4\u00e4 \u00e4 \u00e4\u00e4",
+              "\u00a4 \u00c8 B\u00c0\u00c1EP\u00c8TE \u00c1PABO-\u00caP\u00c8KP\u00c0T\u00c8E MECTHOCT\u00c8.",
+              "\u00c1PABO 3A4\u00c8CT\u00c8T TEPP\u00c8TOP\u00c8\u00d4, \u00caOKA3AHH\u00dc\u00d4 BA\u00d2\u00c8M",
+              "\u00caP\u00c8\u00c7E\u00c9OM.  \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              " ",
+              "EC\u00c9\u00c8 B\u00c0 \u00c8C\u00caO\u00c9b3\u00dcETE \u00caPOCTO\u00cf T\u00c8\u00ca \u00dc\u00caPAB\u00c9EH\u00c8\u00db",
+              "\u00a2 BMECTO \u00a4. \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_GUARDS_KILLED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "O4\u00c8CT\u00c8TE \u00daTO 3\u00c2AH\u00c8E. \u00c2A\u00c8TE TOBAP\u00c8\u00d3AM B3\u00dbTb",
+              "BCEX BPA\u00cbOB, KOTOP\u00c0E MO\u00cb\u00dcT \u00c4\u00c2ATb \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "BH\u00dcTP\u00c8."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_DREDGE_ARRIVAL"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "C \u00c1PABO B TO4KE HAB\u00c8\u00cbA\u00c7\u00c8\u00c8 3\u00dc\u00c9\u00dc \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4 ",
+              "B\u00c0 \u00c8MEETE MHO\u00cbO \u00c1O\u00c9b\u00d2E \u00d2AHCOB 3AXBATA ",
+              "HOT\u00c1\u00dcKA \u00caPOT\u00c8BH\u00c8KA. \u00e4 \u00e4 \u00e4 \u00e4\u00e4\u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_HELLO_PINCUSHION"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c1\u00dc\u00c9ABKA HA\u00c8\u00c2EH \u00c8 \u00c8\u00c2EHT\u00c8\u00d6\u00c8\u00c7\u00c8POBAH. CMOTP\u00c8TE ",
+              "3A O\u00cbHEM OKO\u00c9O \u00daKCKABATOPA. \u00c1\u00dc\u00c9ABKA H\u00dc\u00c4EH \u00e4",
+              "BAM \u00c4\u00c8B\u00c0M. MEPTB\u00c0\u00c8 OH H\u00c8 K 4EM\u00dc. \u00e4\u00e4\u00e4   \u00e4 \u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_USE_COVER"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caPOXO\u00c2\u00c8TE ME\u00c4\u00c2\u00dc 4\u00c8CT\u00c0M\u00c8 MECTHOCT\u00dbM\u00c8 \u00c2O \u00e4\u00e4",
+              "HEB\u00c8\u00c2\u00c8MO\u00cbO OCTPOBA. \u00caOMH\u00c8TE, \u00c9\u00c8CTBA \u00e4 \u00e4\u00e4",
+              "CKPOET BAC OT BPA\u00cbA. \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_BE_SNEAKY"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caPO\u00c8\u00c2\u00c8TE ME\u00c4\u00c2\u00dc \u00c9A4\u00dc\u00cbAM\u00c8 HE3AME4EHH\u00c0M.  \u00e4",
+              "OCTAHTECb 3\u00c2ECb \u00c2\u00c9\u00db \u00caO\u00c2C\u00c9\u00dc\u00d2\u00c8BAH\u00c8\u00db  \u00e4\u00e4 \u00e4",
+              "TEPPOP\u00c8CTOB. \u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_ALERTED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TEPPOP\u00c8CT\u00c0 3HA\u00d4T, 4TO B\u00c0 3\u00c2ECb. OH\u00c8  \u00e4\u00e4 \u00e4 \u00e4",
+              "\u00caO\u00ca\u00c0TA\u00d4TC\u00db \u00caPO\u00c8T\u00c8 K PEKE \u00c8 \u00dc\u00c8T\u00c8 HA \u00cb\u00c9\u00c8CCEPE.",
+              "B\u00c0 \u00c2O\u00c9\u00c4H\u00c0 \u00c2OCT\u00c84b \u00c9O\u00c2OK \u00c8 PA3P\u00dc\u00d2\u00c8Tb \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "\u00c8X. OTKPO\u00c8TE KAPT\u00dc \u00c2\u00c9\u00db \u00c2ETA\u00c9E\u00c8. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_RETREATING"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TEPPOP\u00c8CT\u00c0 \u00caO\u00ca\u00c0TA\u00d4TC\u00db PACCE\u00dbTbC\u00db \u00c8 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              "CKP\u00c0TbC\u00db B \u00c2\u00c4\u00dcH\u00cb\u00c9\u00dbX. HA\u00c8\u00c2\u00c8TE \u00c8 \u00dcH\u00c84- \u00e4\u00e4",
+              "TO\u00c4bTE \u00c8X. \u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_GET_THOSE_MERCS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00cbP\u00dc\u00ca\u00caA HA\u00cdMH\u00c8KOB \u00ca\u00c0TAETC\u00db C\u00c1E\u00c4ATb. \u00e4\u00e4\u00e4\u00e4\u00e4  \u00e4 ",
+              "area. They will notify their comrades of",
+              "\u00caP\u00c8C\u00dcTCTB\u00c8\u00c8. \u00dc\u00c1EP\u00c8TE \u00c8X BCEX. \u00e4 \u00e4\u00e4 \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "HE \u00caO3BO\u00c9bTE C\u00c1E\u00c4ATb .  \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_TEAM_SPOTTED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00c1\u00c0\u00c9\u00c8 3AME4EH\u00c0. HA\u00c8M\u00c8T\u00c0 \u00caO\u00ca\u00c0TA\u00d4TC\u00db  \u00e4\u00e4 \u00e4\u00e4",
+              "\u00c2O\u00c1PATbC\u00db TO \u00ca\u00dcHKTA CB\u00db3\u00c8 \u00c8 CB\u00db3ATbC\u00db \u00e4\u00e4 \u00e4\u00e4",
+              "C \u00c8X \u00c9A\u00cbEPEM B \u00c2\u00c4\u00dcH\u00cb\u00c9\u00dbX. \u00daTO B\u00c03OBET \u00e4  \u00e4\u00e4 ",
+              "CEPbE3H\u00c0E \u00caPO\u00c1\u00c9EM\u00c0 \u00caP\u00c8 OCBO\u00c1O\u00c4\u00c2EH\u00c8\u00c8.  \u00e4 ",
+              "HE \u00caO3BO\u00c9\u00db\u00c8TE HA\u00cdMH\u00c8KAM CB\u00db3ATbC\u00db C \u00c8X  \u00e4\u00e4\u00e4",
+              "\u00c2P\u00dc3b\u00dbM\u00c8. \u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_HEADED_TO_RADIO"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HA\u00c8M\u00c8T\u00c0 \u00c2OCT\u00c8\u00cb\u00c9\u00c8 \u00ca\u00dcHKTA CB\u00db3\u00c8 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "\u00c8 \u00ca\u00c0TA\u00d4TC\u00db CB\u00db3ATbC\u00db C \u00c9\u00c8\u00c2EPAM\u00c8 \u00e4 \u00e4 ",
+              "HA\u00cdMH\u00c8KOB B \u00c8X \u00c9A\u00cbEPE B \u00c2\u00c4\u00dcH\u00cb\u00c9\u00dbX. HE \u00c2A\u00c8TE",
+              "\u00c8M O\u00c1HAP\u00dc\u00c4\u00c8Tb BA\u00d2E \u00caP\u00c8C\u00dcTCTB\u00c8E.  \u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_SATCHELS_PLANTED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TE\u00caEPb, KO\u00cb\u00c2A BCE 3AP\u00db\u00c2\u00c0 PA3ME\u00d3EH\u00c0, B\u00c0 \u00e4 \u00e4",
+              "\u00c2O\u00c9\u00c4H\u00c0 \u00dcBECT\u00c8 CBO\u00d4 KOMAH\u00c2\u00dc OTC\u00d4\u00c2A. 3AP\u00db\u00c2\u00c0 ",
+              "HE MO\u00cb\u00dcT \u00c1\u00c0Tb \u00caO\u00c2OPBAH\u00c0 \u00caOKA BCE 4\u00c9EH\u00c0 ",
+              "BA\u00d2E\u00c8 KOMAH\u00c2\u00c0 HE \u00dc\u00d2\u00c9\u00c8 C TEPP\u00c8TOP\u00c8\u00c8 B3P\u00c0BA",
+              "CT\u00c8. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_MERCS_FLEE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00cbP\u00dc\u00ca\u00caA HA\u00cdMH\u00c8KOB \u00ca\u00c0TAETC\u00db C\u00c1E\u00c4ATb \u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              "the area. They will notify their comrades",
+              "O BAC. \u00dcH\u00c84TO\u00c4bTE BCEX HA\u00c8M\u00c8TOB. \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4 ",
+              "HE \u00caO3BO\u00c9bTE C\u00c1E\u00c4ATb .  \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M17_MERCS_ELIMINATED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              70
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00c1E\u00cb\u00c9\u00c0E HA\u00cdMH\u00c8K\u00c8 \u00c1\u00c0\u00c9\u00c8 \u00dcH\u00c84TO\u00c4EH\u00c0. \u00e4 \u00e4\u00e4 \u00e4  \u00e4\u00e4\u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M19_SET_AMBUSH"
+              ]
+            ],
+            "WindowPos",
+            [
+              112,
+              124
+            ],
+            "WindowSize",
+            [
+              408,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KA\u00c4ETC\u00db, \u00daTO XOPO\u00d2EE MECTO \u00c2\u00c9\u00db \u00e4\u00e4 \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "3ACA\u00c2\u00c0. \u00caP\u00c8KA\u00c4\u00c8TE \u00c1PABO \u00c8 4AP\u00c9\u00c8 \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4 ",
+              "3AH\u00dbTb \u00caO3\u00c8\u00c7\u00c8\u00d4 B\u00c2O\u00c9b \u00c8X   \u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4 \u00e4",
+              "\u00ca\u00dcT\u00c8. KO\u00cb\u00c2A \u00caATP\u00dc\u00c9b HA\u00c8M\u00c8TOB \u00caPO\u00c8\u00c2ET",
+              "\u00caO TEPP\u00c8TOP\u00c8\u00c8, \u00caP\u00c8KA\u00c4\u00c8TE \u00c1PABO CTPE\u00c9\u00dbTb. \u00e4\u00e4",
+              "O\u00c1\u00d3E\u00c8 O\u00cbHEBO\u00c8 MO\u00d3\u00c8 KOMAH\u00c2\u00c0 \u00c1\u00dc\u00c2ET \u00e4  \u00e4\u00e4\u00e4",
+              "\u00c2OCTATO4HO \u00c2\u00c9\u00db \u00dcH\u00c84TO\u00c4EH\u00c8\u00db.  \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M19_ID_SENTRY"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "HA\u00cdMH\u00c8K\u00c8 \u00caOCTAB\u00c8\u00c9\u00c8 4ACOB\u00c0X 3\u00c2ECb. \u00e4   \u00e4\u00e4\u00e4",
+              "\u00caP\u00c8 \u00caOMO\u00d3\u00c8 \u00c1\u00c8HOK\u00c9\u00db OCMOTP\u00c8TE MECTHOCTb \u00e4\u00e4\u00e4",
+              "\u00c8 HA\u00c8\u00c2\u00c8TE 4ACOB\u00c0X. \u00e4\u00e4\u00e4  \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "HELP_OFF"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 MO\u00c4ETE BK\u00c9\u00d44\u00c8Tb \u00c8\u00c9\u00c8 B\u00c0K\u00c9\u00d44\u00c8Tb C\u00caPABK\u00dc",
+              "B MEH\u00d4 KHO\u00caK\u00c8 PAUSE \u00c8\u00c9\u00c8 B \u00c2\u00c8A\u00c9O\u00cbAX  \u00e4\u00e4 \u00e4 ",
+              "HACTPO\u00c8K\u00c8. \u00daTO OTK\u00c9\u00d44\u00c8T \u00caO\u00c2CKA3K\u00c8. \u00e4 \u00e4\u00e4 \u00e4  \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_OBSERVE_AI"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caPE\u00c4\u00c2E 4EM \u00caO\u00c8\u00c2ETE \u00c2A\u00c9b\u00d2E, HA\u00c8\u00c2\u00c8TE BPEM\u00db ",
+              "\u00caOCMOTPETb HA BPA\u00cbA. OH\u00c8 MO\u00cb\u00dcT \u00e4\u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4\u00e4",
+              "\u00caOBEPH\u00dcTbC\u00db K BAM C\u00ca\u00c8HO\u00c8 \u00c8\u00c9\u00c8 \u00dc\u00c1E\u00c4ATb.  B ",
+              "B TAKOM C\u00c9\u00dc4AE \u00dc BAC \u00caO\u00dbB\u00c8TC\u00db \u00d2AHC \u00e4 \u00e4 \u00e4\u00e4",
+              "CKP\u00c0TbC\u00db 3A X\u00c8\u00c4\u00c8HAM\u00c8.  \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M11_LOOK_A_PATH"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "ECTb TEMH\u00c0\u00c8 \u00ca\u00dcTb, KOTOP\u00c0\u00c8 3ABEP\u00d2AET \u00e4\u00e4\u00e4 \u00e4\u00e4",
+              "\u00daTOT ATP\u00c8\u00dcM. B\u00c0 MO\u00c4ETE 3AXBAT\u00c8Tb \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "TEPPOP\u00c8CTOB HA \u00daTOM CKP\u00c0TOM  \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00ca\u00dcT\u00c8. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "SWITCH_SPECIAL_ACTIONS"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              400,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "KO\u00cb\u00c2A \u00c2BA \u00c8\u00c9\u00c8 \u00c1O\u00c9EE 3HA4KA HA \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "\u00daKPAHE, B\u00c0 MO\u00c4ETE \u00caEPEK\u00c9\u00d44ATbC\u00db ME\u00c4\u00c2\u00dc   \u00e4",
+              "H\u00c8M\u00c8, HA\u00c4AB \u00a3 BMECTE C B\u00c9EBO \u00c8\u00c9 B\u00caPABO  \u00e4",
+              "HA \u00caAHE\u00c9\u00c8 \u00caEPE\u00c2B\u00c8\u00c4EH\u00c8\u00db. KO\u00cb\u00c2A OT\u00ca\u00dcCT\u00c8TE  \u00a3",
+              "BA\u00d2 \u00cbEPO\u00c8 COBEP\u00d2\u00c8T \u00c2E\u00c8CTB\u00c8E, CB\u00db3AHHOE C ",
+              "AKT\u00c8BH\u00c0M 3HA4KOM. \u00e4 "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "HOW_TO_STEALTH"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4EM \u00c2O\u00c9b\u00d2E B\u00c0 OCTAHETECb HE\u00dc3HAHH\u00c0M\u00c8, \u00e4 \u00e4",
+              "TEM \u00c1O\u00c9EE \u00dcC\u00caE\u00d2H\u00c0M \u00c1\u00dc\u00c2ET PE3\u00dc\u00c9bTAT M\u00c8CC\u00c8\u00c8. ",
+              "\u00dcKP\u00c0BA\u00c8TECb B TEH\u00c8, \u00c2EPEBb\u00dbX, \u00c8 \u00e4\u00e4 \u00e4\u00e4",
+              "C\u00c8\u00c9bHO \u00dc\u00c2\u00c8B\u00c8TE CBOE\u00cbO BPA\u00cbA.  \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_NO_DIVERSION_NOW"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TEPPOP\u00c8CT CTO\u00c8T HA BOPOTAX T\u00d4PbM\u00c0. \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "OH KP\u00c84\u00c8T, \u00caPE\u00c2\u00dc\u00caPE\u00c4\u00c2A\u00db CBO\u00c8X \u00c2P\u00dc3E\u00c8. \u00e4\u00e4\u00e4",
+              "3A\u00c2A4A \u00c2\u00c8BEPC\u00c8\u00c8 B3P\u00c0BOM HE MO\u00c4ET \u00c1\u00c0Tb \u00e4\u00e4\u00e4\u00e4\u00e4",
+              "3ABEP\u00d2EHA. \u00c1\u00c0\u00c9O OKA3AHO CO\u00caPOT\u00c8B\u00c9EH\u00c8E  \u00e4  \u00e4",
+              "OT CA\u00c2\u00c8KAX\u00dc. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M15_ONE_NUKE_ONLY"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BAM H\u00dc\u00c4HO OB\u00c9A\u00c2ETb TO\u00c9bKO O\u00c2HO\u00c8 \u00c1OM\u00c1O\u00c8.  \u00e4",
+              "B3P\u00c0B \u00caEPBO\u00c8 B\u00c03OBET B3P\u00c0B BTOPO\u00c8 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "CPA3\u00dc. "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "HOW_TO_GRENADE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              181
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4TO\u00c1\u00c0 \u00c1POC\u00c8Tb \u00cbPAHAT\u00dc, \u00c2EP\u00c4\u00c8TE KHO\u00caK\u00dc ",
+              "O\u00cbH\u00db. 4EM C\u00c8\u00c9bHEE B\u00c0 HA\u00c4METE HA KHO\u00caK\u00dc, ",
+              "TEM \u00c2A\u00c9b\u00d2E B\u00c0 \u00c1POC\u00c8TE \u00cbPAHAT\u00dc.   \u00e4\u00e4\u00e4\u00e4\u00e4 ",
+              "C\u00c8\u00c9A \u00c1POCKA \u00caOKA3AHA \u00caO\u00c9OCKO\u00cf \u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4",
+              "HA BA\u00d2EM \u00caP\u00c8\u00c7E\u00c9E. EC\u00c9\u00c8 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4",
+              "\u00caO\u00c9OCKA \u00c1E\u00c9A\u00db, KO\u00cb\u00c2A B\u00c0 OT\u00ca\u00dcCT\u00c8\u00c9\u00c8 O\u00cbOHb,",
+              "B\u00c0 HE \u00c1POC\u00c8TE \u00cbPAHAT\u00dc. \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "TEAMMATES_STOPPED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              142
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TOBAP\u00c8\u00d3\u00c8 \u00caO\u00ca\u00c0TA\u00d4TC\u00db \u00c83\u00c1E\u00c4ATb \u00caEPECE4EH\u00c8\u00db \u00e4",
+              "C BA\u00d2E\u00c8 \u00c9\u00c8H\u00c8E\u00c8 O\u00cbH\u00db. EC\u00c9\u00c8 B\u00c0 \u00caOBEPHETECb K ",
+              "H\u00c8M \u00c9\u00c8\u00c7OM BO BPEM\u00db \u00c2B\u00c8\u00c4EH\u00c8\u00db, OH\u00c8 OCTA-   ",
+              "HOB\u00dbTC\u00db \u00c2O TEX \u00caOP, \u00caOKA B\u00c0 HE OTBEPHETECb.",
+              "TAKOE \u00caOBE\u00c2EH\u00c8E \u00dcMEHb\u00d2AET \u00cb\u00c8\u00c1E\u00c9b. \u00e4 \u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "HOLD_POSITION"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              161
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caP\u00c8KA3 \u00c2EP\u00c4ATb \u00caO3\u00c8\u00c7\u00c8\u00d4 3ACTAB\u00c9\u00dbET \u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "\u00c1PABO OCTAHOB\u00c8TbC\u00db \u00c8 \u00c4\u00c2ATb \u00c2A\u00c9bHE\u00c8\u00d2\u00c8X \u00e4\u00e4 ",
+              "\u00c8HCTP\u00dcK\u00c7\u00c8\u00c8. \u00caOMH\u00c8TE, 4TO BA\u00d2 \u00caAPTHEP, \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4",
+              "\u00c1\u00dcMEP, \u00c1\u00dc\u00c2ET BCE\u00cb\u00c2A P\u00db\u00c2OM \u00c8 \u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4 ",
+              "HE CMO\u00c4ET \u00c8C\u00caO\u00c9H\u00c8Tb \u00caP\u00c8KA3 \u00c2EP\u00c4AT",
+              "\u00caO3\u00c8\u00c7\u00c8\u00d4."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "AREA_SECURED"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              125
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00dcH\u00c84TO\u00c4\u00c8\u00c9\u00c8 TEPPOP\u00c8CTOB, KOTOP\u00c0E \u00e4\u00e4\u00e4\u00e4 ",
+              "\u00caEPBOHA4A\u00c9bHO 3\u00c2ECb \u00c1\u00c0\u00c9\u00c8. O\u00c2HAKO, \u00e4\u00e4\u00e4 ",
+              "3B\u00dcK B\u00c0CTPE\u00c9OB MO\u00cb \u00c83BECT\u00c8Tb \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4",
+              "\u00c8 \u00caP\u00c8B\u00c9E4b HOB\u00c0X TEPPOP\u00c8CTOB.     \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M09_ESCAPING"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TEPPOP\u00c8CT\u00c0 \u00dc\u00c8\u00c2\u00dcT, KO\u00cb\u00c2A TA\u00c8MEP \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "3A\u00d2KA\u00c9\u00c8T. HE \u00caO3BO\u00c9\u00db\u00c8TE \u00c8M \u00c2OCT\u00c8\u00cbH\u00dcTb ",
+              "\u00c9O\u00c2OK \u00c8 C\u00c1E\u00c4ATb. \u00e4\u00e4\u00e4\u00e4  \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_CLEAR_BUILDING"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "\u00caOMH\u00c8TE, H\u00dc\u00c4HO 3A4\u00c8CT\u00c8Tb 3\u00c2AH\u00c8E \u00e4 \u00e4 \u00e4\u00e4",
+              "\u00caEPE\u00c2 3AXBATOM \u00c8H\u00d6OPMATOPA. TEPPOP\u00c8CTOB  \u00e4",
+              "HE \u00c2O\u00c9\u00c4HO \u00c1\u00c0Tb B 3\u00c2AH\u00c8\u00c8. \u00e4 \u00e4\u00e4  \u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_GET_MAP"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00c2O\u00c9\u00c4H\u00c0 \u00caO\u00c9\u00dc4\u00c8Tb \u00c8H\u00d6OPMA\u00c7\u00c8OHH\u00c7\u00d4 KAPT\u00dc ",
+              "\u00caEPE\u00c2 \u00caOXO\u00c2OM B 3OH\u00dc B\u00c0CA\u00c2K\u00c8. BEPH\u00c8TECb ",
+              "B APCEHA\u00c9 \u00c8 BO3bM\u00c8TE KAPT\u00dc.  \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_BEGINNING_RECON"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "4TO\u00c1\u00c0 3ABEP\u00d2\u00c8Tb PA3BE\u00c2K\u00dc B\u00c0 \u00c2O\u00c9\u00c4H\u00c0    ",
+              "OCTATbC\u00db HE3AME4EHH\u00c0M\u00c8 \u00caOKA OCMATP\u00c8BAETE ",
+              "BPA\u00cbOB. \u00c2EP\u00c4\u00c8TE \u00daT\u00dc \u00caO3\u00c8\u00c7\u00c8\u00d4.  \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_RECON_FAILED_1"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00c1\u00c0\u00c9\u00c8 3ACE4EH\u00c0 BPA\u00cbOM. \u00e4\u00e4\u00e4  \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "\u00c7E\u00c9b 'PA3BE\u00c2KA' TE\u00caEPb HEB\u00c0\u00caO\u00c9H\u00c8MA. \u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_RECON_FAILED_2"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00caO\u00c2K\u00dc\u00ca\u00c8\u00c9\u00c8 BPA\u00cbA. \u00c7E\u00c9b    \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  ",
+              "'PA3BE\u00c2KA' HE B\u00c0\u00caO\u00c9H\u00c8MA. \u00e4\u00e4\u00e4\u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_RECON_FAILED_3"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "BPA\u00cb \u00caEPE\u00c2B\u00c8\u00cbAETC\u00db. \u00c7E\u00c9b \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "'PA3BE\u00c2KA' TE\u00caEPb HEB\u00c0\u00caO\u00c9H\u00c8MA."
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M13_ABORTING_RECON"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              90
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "B\u00c0 \u00caOK\u00c8H\u00dc\u00c9\u00c8 O\u00c1\u00c9ACTb PA3BE\u00c2K\u00c8. \u00c7E\u00c9b \u00e4\u00e4\u00e4\u00e4",
+              "'PA3BE\u00c2KA' HEB\u00c0\u00caO\u00c9H\u00c8MA. \u00e4\u00e4 \u00e4"
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M15_DISARM_NUKE"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "O\u00c2HA \u00c83 \u00c1OM\u00c1 AKT\u00c8B\u00c8POBAHA. B\u00c0 \u00e4\u00e4 \u00e4 \u00e4\u00e4 \u00e4\u00e4\u00e4",
+              "\u00dc3HAETE O HE\u00c8 \u00caO \u00dbPKO\u00c8 KPACHO\u00c8  \u00e4\u00e4  \u00e4\u00e4\u00e4 \u00e4 \u00e4\u00e4\u00e4",
+              "BC\u00ca\u00c0\u00d2KE.  "
+            ]
+          ],
+          [
+            "Trigger",
+            [
+              "Type",
+              [
+                "AnimCmd"
+              ],
+              "Name",
+              [
+                "M08_DATA_DESTRUCTION"
+              ]
+            ],
+            "WindowPos",
+            [
+              110,
+              124
+            ],
+            "WindowSize",
+            [
+              410,
+              110
+            ],
+            "TextSize",
+            [
+              0.8500000238418579
+            ],
+            "LineInterval",
+            [
+              19.0
+            ],
+            "TextLines",
+            [
+              "TEPPOP\u00c8CT\u00c0 CT\u00c8PA\u00d4T \u00c2AHH\u00c0E C \u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4  \u00e4",
+              "HO\u00dcT\u00c1\u00dcKA. \u00c2AHH\u00c0E \u00c1\u00dc\u00c2\u00dcT \u00caOTEP\u00dbH\u00c0, KO\u00cb\u00c2A \u00e4\u00e4\u00e4 ",
+              "TA\u00c8MEP HA \u00daKPAHE \u00c2OCT\u00c8\u00cbHET H\u00dc\u00c9\u00db."
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}

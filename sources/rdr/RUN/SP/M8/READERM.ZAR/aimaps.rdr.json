@@ -1,0 +1,37 @@
+{
+  "resource": "/RUN/SP/M8/READERM.ZAR",
+  "resource_sha256": "441df1a118c1ead9403e6778f87035f018a7b0f11f3ecdb7d6eb32fcc5617efd",
+  "section": "aimaps.rdr",
+  "section_sha256": "ebe617a5fde47eb7bb3d2974ba945ec88e366bb77123eb2cb5c809ba387fd68d",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Dredge1.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Dredge2.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Lodge.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgIntroScreen.rdr",
+  "section_sha256": "1d7250ee028d5d5d19aa3a2ffc4d7f8feb240e8d9a5c6dd8ddc2eebf149e6e6d",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        [
+          "LIBRARY",
+          [
+            "ui/assetlib/ui2d"
+          ],
+          "BACKGROUND",
+          [
+            "TYPE",
+            [
+              "IMAGE"
+            ],
+            "FILENAME",
+            [
+              " "
+            ]
+          ],
+          "FONT",
+          [
+            "myriad"
+          ],
+          "SCRIPT_LIBRARY",
+          [
+            "dlgIntroScreen.rdr"
+          ],
+          "USES_MEMCARD",
+          [],
+          "OBJECTS",
+          [],
+          "ANIMATIONS",
+          [
+            [
+              "EVENT",
+              [
+                "ONSTART"
+              ],
+              "ANIMATION",
+              [
+                "do_onstart"
+              ]
+            ]
+          ],
+          "BUTTONS",
+          []
+        ]
+      ],
+      0,
+      0
+    ]
+  ]
+}

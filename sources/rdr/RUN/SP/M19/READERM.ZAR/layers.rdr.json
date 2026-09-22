@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M19/READERM.ZAR",
+  "resource_sha256": "e63bc3623f8febfc549726b3f2ab9a3ab2b7cf04a37508582dd3d496063aa761",
+  "section": "layers.rdr",
+  "section_sha256": "ce3b5f561df49ddf4fd0b6b0e7592b42aaaf02f58584baae2435262b76f4875e",
+  "tree": [
+    [
+      "layers",
+      [
+        [
+          "name",
+          [
+            "New"
+          ],
+          "hidden",
+          [
+            80
+          ],
+          "export",
+          [
+            0
+          ],
+          "nodes",
+          []
+        ]
+      ]
+    ]
+  ]
+}

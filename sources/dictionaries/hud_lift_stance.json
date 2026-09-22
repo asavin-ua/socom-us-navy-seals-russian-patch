@@ -1,0 +1,59 @@
+{
+  "status": "included",
+  "replacements": [
+    {
+      "resource": "/RUN/READERC.ZAR",
+      "old": "ПОДЪЁМ ТЕЛ",
+      "new": "ПОДЪЁМА ТЕЛ",
+      "encoding": "ui"
+    },
+    {
+      "resource": "/SCUS_971.34",
+      "offset": 3642952,
+      "old": "STAND",
+      "new": "СТОИТ",
+      "encoding": "orders"
+    },
+    {
+      "resource": "/SCUS_971.34",
+      "offset": 3642960,
+      "old": "CROUCH",
+      "new": "ПРИСЕЛ",
+      "encoding": "orders"
+    },
+    {
+      "resource": "/SCUS_971.34",
+      "offset": 3642968,
+      "old": "PRONE",
+      "new": "ЛЕЖИТ",
+      "encoding": "orders"
+    },
+    {
+      "resource": "/RUN/UIZANIM.ZAR",
+      "dialog": "dlgDebriefing.rdr",
+      "name_table_index": 22785,
+      "old": "ZEMIY",
+      "new": "ЗМЕЙ",
+      "encoding": "ui"
+    }
+  ],
+  "service_stance_table_untouched": "0x3671F8",
+  "arialblack_hard_sign": {
+    "status": "validated",
+    "code": "0xCE",
+    "old_rect": [
+      223,
+      98,
+      239,
+      124
+    ],
+    "new_rect": [
+      466,
+      40,
+      486,
+      66
+    ],
+    "palette_index": 116
+  },
+  "user_validation": "Confirmed in game by the user"
+}

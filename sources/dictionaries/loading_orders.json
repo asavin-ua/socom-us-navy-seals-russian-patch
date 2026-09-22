@@ -1,0 +1,23 @@
+{
+  "items": {
+    "121": "\u041e\u0421\u041a\u041e\u041b.",
+    "122": "\u0414\u042b\u041c",
+    "123": "\u0412\u0421\u041f\u042b\u0428\u041a\u0410",
+    "124": "\u0424\u041e\u0421\u0424\u041e\u0420",
+    "125": "\u0413\u0410\u0417",
+    "126": "\u0424\u0423\u0413\u0410\u0421",
+    "171": "\u0424\u0423\u0413. II",
+    "172": "\u041e\u0421\u0412\u0415\u0422.",
+    "173": "\u0414\u042b\u041c II",
+    "174": "\u0413\u0410\u0417 II",
+    "175": "\u041e\u0421\u041a. II",
+    "151": "C4",
+    "152": "\u0417\u0410\u0420\u042f\u0414",
+    "153": "\u041a\u041b\u0415\u0419\u041c\u041e\u0420"
+  },
+  "loading_glyphs": [
+    "\u0416",
+    "\u0423"
+  ],
+  "note": "Display-only labels. Preserve the adjacent speech/service function and all equipment catalogue identifiers."
+}

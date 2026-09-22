@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M13/READERM.ZAR",
+  "resource_sha256": "f4a65561a2e1fc2f4f5299fc32fc50b5eda6d7edca221972c87d9757bcb802ed",
+  "section": "map.rdr",
+  "section_sha256": "d98e6ff14a1874fe60e45f6e7cd9a20be319382726719ad65de01aacb7ea361a",
+  "tree": [
+    "Map",
+    [
+      "MinExtent",
+      [
+        -2525.0908203125,
+        -66.83716583251953,
+        -2525.090087890625
+      ],
+      "MaxExtent",
+      [
+        5725.09033203125,
+        1082.0,
+        6325.0908203125
+      ],
+      "NumFloors",
+      [
+        0
+      ],
+      "Floors",
+      []
+    ]
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "cheats.rdr",
+  "section_sha256": "e4d023447c7425ddb035e909853e113bb17071caebe4555aa05d0f3ff6854073",
+  "tree": [
+    "cheats",
+    [
+      [
+        "name",
+        [
+          "No Die"
+        ],
+        "pattern",
+        [
+          "T",
+          "O",
+          "O"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Infinite Ammo"
+        ],
+        "pattern",
+        [
+          "T",
+          "S",
+          "O"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Invert Pitch"
+        ],
+        "pattern",
+        [
+          "T",
+          "S",
+          "S"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Invisible"
+        ],
+        "pattern",
+        [
+          "T",
+          "O",
+          "S"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Ai Status"
+        ],
+        "pattern",
+        [
+          "T",
+          "O",
+          "T"
+        ]
+      ],
+      [
+        "name",
+        [
+          "E3 Bailout"
+        ],
+        "pattern",
+        [
+          "S",
+          "S",
+          "S"
+        ]
+      ],
+      [
+        "name",
+        [
+          "MP Respawn"
+        ],
+        "pattern",
+        [
+          "S",
+          "O",
+          "O"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Status Line"
+        ],
+        "pattern",
+        [
+          "T",
+          "T",
+          "T"
+        ]
+      ],
+      [
+        "name",
+        [
+          "FPS"
+        ],
+        "pattern",
+        [
+          "T",
+          "T",
+          "O"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Asset Report"
+        ],
+        "pattern",
+        [
+          "T",
+          "T",
+          "S"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Task Report"
+        ],
+        "pattern",
+        [
+          "T",
+          "T",
+          "L"
+        ]
+      ],
+      [
+        "name",
+        [
+          "Render Report"
+        ],
+        "pattern",
+        [
+          "S",
+          "T",
+          "T"
+        ]
+      ]
+    ]
+  ]
+}

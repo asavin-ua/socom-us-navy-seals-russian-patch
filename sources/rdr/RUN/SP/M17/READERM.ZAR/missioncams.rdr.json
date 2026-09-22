@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M17/READERM.ZAR",
+  "resource_sha256": "43a5171cf2d9b7e7d6eb79e9ac63d39eeef1ea1b0d59dde6b5a837de25c740d3",
+  "section": "missioncams.rdr",
+  "section_sha256": "8751badb4bba0e874bb4ceb2317eb8470d2127cb85056ee2582d7f2ba2fda261",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m17bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m17bs"
+        ]
+      ]
+    ]
+  ]
+}

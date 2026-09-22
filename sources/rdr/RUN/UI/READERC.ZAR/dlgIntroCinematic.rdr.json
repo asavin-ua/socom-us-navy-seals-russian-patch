@@ -1,0 +1,69 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgIntroCinematic.rdr",
+  "section_sha256": "e0a91447855b3b99ba8036ae75ba253e96db6584592e5c4694fc7ae41f1b7f82",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        [
+          "LIBRARY",
+          [
+            "ui/assetlib/ui2d"
+          ],
+          "BACKGROUND",
+          [
+            "TYPE",
+            [
+              "MPEG"
+            ],
+            "FILENAME",
+            [
+              "run/movies/common/sony448.pss"
+            ]
+          ],
+          "FONT",
+          [
+            "arialblack"
+          ],
+          "SCRIPT_LIBRARY",
+          [
+            "dlgIntroCinematic.rdr"
+          ],
+          "OBJECTS",
+          [],
+          "ANIMATIONS",
+          [
+            [
+              "EVENT",
+              [
+                "ONSTART"
+              ],
+              "ANIMATION",
+              [
+                "TurnOffVagStream"
+              ]
+            ],
+            [
+              "EVENT",
+              [
+                "ONMPEGEND"
+              ],
+              "ANIMATION",
+              [
+                "switch_menu"
+              ],
+              "ARGUMENT",
+              [
+                "dlgSecondCinematic.rdr"
+              ]
+            ]
+          ]
+        ]
+      ],
+      0,
+      0
+    ]
+  ]
+}

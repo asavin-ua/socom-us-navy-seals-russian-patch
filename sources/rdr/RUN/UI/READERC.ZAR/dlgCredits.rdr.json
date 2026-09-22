@@ -1,0 +1,77 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgCredits.rdr",
+  "section_sha256": "a690212381464d12baa66629a7bba39ef3b6f645d542e652009968b43cb670d9",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        [
+          "LIBRARY",
+          [
+            "ui/assetlib/ui2d"
+          ],
+          "BACKGROUND",
+          [
+            "TYPE",
+            [
+              "MPEG"
+            ],
+            "FILENAME",
+            [
+              "run/movies/common/credits.pss"
+            ]
+          ],
+          "FONT",
+          [
+            "myriad"
+          ],
+          "SCRIPT_LIBRARY",
+          [
+            "dlgCredits.rdr"
+          ],
+          "OBJECTS",
+          [],
+          "ANIMATIONS",
+          [
+            [
+              "EVENT",
+              [
+                "ONMPEGEND"
+              ],
+              "ANIMATION",
+              [
+                "BackOutWithMusic"
+              ]
+            ],
+            [
+              "BUTTON",
+              [
+                "CROSS"
+              ],
+              "ANIMATION",
+              [
+                "BackOutWithMusic"
+              ]
+            ],
+            [
+              "BUTTON",
+              [
+                "TRIANGLE"
+              ],
+              "ANIMATION",
+              [
+                "BackOutWithMusic"
+              ]
+            ]
+          ],
+          "CONTROLS",
+          []
+        ]
+      ],
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "ai_moves.rdr",
+  "section_sha256": "76748d5840a13313fca3e1c9496d196bb24e78cbd97ca280e5df4e11ecfc3ede",
+  "tree": [
+    [
+      [
+        "anim_name",
+        [
+          "Dodge_left"
+        ],
+        "type",
+        [
+          "DODGE"
+        ],
+        "stance",
+        [
+          "stand"
+        ]
+      ],
+      [
+        "anim_name",
+        [
+          "Dodge_right"
+        ],
+        "type",
+        [
+          "DODGE"
+        ],
+        "stance",
+        [
+          "prone"
+        ]
+      ],
+      [
+        "anim_name",
+        [
+          "Hit stomach"
+        ],
+        "type",
+        [
+          "HIT"
+        ],
+        "stance",
+        [
+          "stand"
+        ]
+      ],
+      [
+        "anim_name",
+        [
+          "Hit shoulder"
+        ],
+        "type",
+        [
+          "HIT"
+        ],
+        "stance",
+        [
+          "stand"
+        ]
+      ],
+      [
+        "anim_name",
+        [
+          "Hit01"
+        ],
+        "type",
+        [
+          "HIT"
+        ],
+        "stance",
+        [
+          "stand"
+        ]
+      ],
+      [
+        "anim_name",
+        [
+          "Stand dive2prone"
+        ],
+        "type",
+        [
+          "DODGE"
+        ],
+        "stance",
+        [
+          "prone"
+        ]
+      ]
+    ]
+  ]
+}

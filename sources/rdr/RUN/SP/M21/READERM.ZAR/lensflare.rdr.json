@@ -1,0 +1,70 @@
+{
+  "resource": "/RUN/SP/M21/READERM.ZAR",
+  "resource_sha256": "1d4356a835b41447cb33aca9778ac73c0caa5a3b1728f913192ab7e8222fcc96",
+  "section": "lensflare.rdr",
+  "section_sha256": "8142f146800902d7a2351a805c8c3718d9ab88c5b876be1a1ab3e9ba2b859027",
+  "tree": [
+    "active",
+    [
+      "on"
+    ],
+    "max_angle",
+    [
+      22.5
+    ],
+    "light_source",
+    [
+      "node",
+      [
+        "sun"
+      ],
+      "opacity",
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "light_glare",
+    [
+      "active",
+      [
+        "on"
+      ],
+      "color",
+      [
+        225.0,
+        224.0,
+        133.0
+      ],
+      "max_brightness",
+      [
+        0.25
+      ]
+    ],
+    "lens_flare",
+    [
+      "active",
+      [
+        "on"
+      ],
+      "node",
+      [
+        "sunflare"
+      ],
+      "distance_from_camera",
+      [
+        15.0
+      ],
+      "opacity",
+      [
+        0.0,
+        1.0
+      ],
+      "scale",
+      [
+        0.0010000000474974513,
+        0.009999999776482582
+      ]
+    ]
+  ]
+}

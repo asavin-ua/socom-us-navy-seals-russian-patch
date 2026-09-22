@@ -1,0 +1,25 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "uisounds.rdr",
+  "section_sha256": "006db9ea35c780d2820595489eed417a2a383cab4f7817f99a1ff0640eea6d3b",
+  "tree": [
+    [
+      "SOUNDS",
+      [
+        "TELETYPE",
+        [
+          "SND_TYPE"
+        ],
+        "BACK",
+        [
+          "SND_BACK"
+        ],
+        "SELECTION",
+        [
+          "SND_THUNK"
+        ]
+      ]
+    ]
+  ]
+}

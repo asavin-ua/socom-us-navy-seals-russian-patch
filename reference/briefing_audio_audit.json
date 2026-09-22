@@ -1,0 +1,249 @@
+{
+  "events": [
+    {
+      "event": "SND_VO6_UIDB",
+      "file": "BVO_08.vag",
+      "size": 747056
+    },
+    {
+      "event": "SND_VO8_UIDB",
+      "file": "BVO_12.vag",
+      "size": 501120
+    },
+    {
+      "event": "SND_VO5_UIDB",
+      "file": "BVO_04.vag",
+      "size": 758944
+    },
+    {
+      "event": "SND_VO9_UIDB",
+      "file": "BVO_16.vag",
+      "size": 423408
+    },
+    {
+      "event": "SND_VO11_UIDB",
+      "file": "BVO_20.vag",
+      "size": 587056
+    },
+    {
+      "event": "SND_VO12_UIDB",
+      "file": "BVO_24.vag",
+      "size": 704080
+    },
+    {
+      "event": "SND_VO17_UIDB",
+      "file": "BVO_40.vag",
+      "size": 441680
+    },
+    {
+      "event": "SND_VO19_UIDB",
+      "file": "BVO_44.vag",
+      "size": 582032
+    },
+    {
+      "event": "SND_VO21_UIDB",
+      "file": "BVO_48.vag",
+      "size": 321920
+    },
+    {
+      "event": "SND_VO13_UIDB",
+      "file": "BVO_28.vag",
+      "size": 616320
+    },
+    {
+      "event": "SND_VO15_UIDB",
+      "file": "BVO_32.vag",
+      "size": 616320
+    },
+    {
+      "event": "SND_VO16_UIDB",
+      "file": "BVO_36.vag",
+      "size": 729680
+    },
+    {
+      "event": "SND_VO6_UIOV",
+      "file": "BVO_05.vag",
+      "size": 965568
+    },
+    {
+      "event": "SND_VO6_UIMD",
+      "file": "BVO_06.vag",
+      "size": 636432
+    },
+    {
+      "event": "SND_VO6_UIOB",
+      "file": "BVO_07.vag",
+      "size": 490144
+    },
+    {
+      "event": "SND_VO8_UIOV",
+      "file": "BVO_09.vag",
+      "size": 844880
+    },
+    {
+      "event": "SND_VO8_UIMD",
+      "file": "BVO_10.vag",
+      "size": 930832
+    },
+    {
+      "event": "SND_VO8_UIOB",
+      "file": "BVO_11.vag",
+      "size": 569680
+    },
+    {
+      "event": "SND_VO5_UIOV",
+      "file": "BVO_01.vag",
+      "size": 751632
+    },
+    {
+      "event": "SND_VO5_UIMD",
+      "file": "BVO_02.vag",
+      "size": 671168
+    },
+    {
+      "event": "SND_VO5_UIOB",
+      "file": "BVO_03.vag",
+      "size": 380432
+    },
+    {
+      "event": "SND_VO9_UIOV",
+      "file": "BVO_13.vag",
+      "size": 673008
+    },
+    {
+      "event": "SND_VO9_UIMD",
+      "file": "BVO_14.vag",
+      "size": 963744
+    },
+    {
+      "event": "SND_VO9_UIOB",
+      "file": "BVO_15.vag",
+      "size": 413344
+    },
+    {
+      "event": "SND_VO11_UIOV",
+      "file": "BVO_17.vag",
+      "size": 580656
+    },
+    {
+      "event": "SND_VO11_UIMD",
+      "file": "BVO_18.vag",
+      "size": 1027744
+    },
+    {
+      "event": "SND_VO11_UIOB",
+      "file": "BVO_19.vag",
+      "size": 559632
+    },
+    {
+      "event": "SND_VO12_UIOV",
+      "file": "BVO_21.vag",
+      "size": 746144
+    },
+    {
+      "event": "SND_VO12_UIMD",
+      "file": "BVO_22.vag",
+      "size": 866832
+    },
+    {
+      "event": "SND_VO12_UIOB",
+      "file": "BVO_23.vag",
+      "size": 490144
+    },
+    {
+      "event": "SND_VO17_UIOV",
+      "file": "BVO_37.vag",
+      "size": 731520
+    },
+    {
+      "event": "SND_VO17_UIMD",
+      "file": "BVO_38.vag",
+      "size": 593008
+    },
+    {
+      "event": "SND_VO17_UIOB",
+      "file": "BVO_39.vag",
+      "size": 532208
+    },
+    {
+      "event": "SND_VO19_UIOV",
+      "file": "BVO_41.vag",
+      "size": 656544
+    },
+    {
+      "event": "SND_VO19_UIMD",
+      "file": "BVO_42.vag",
+      "size": 629120
+    },
+    {
+      "event": "SND_VO19_UIOB",
+      "file": "BVO_43.vag",
+      "size": 459056
+    },
+    {
+      "event": "SND_VO21_UIOV",
+      "file": "BVO_45.vag",
+      "size": 619968
+    },
+    {
+      "event": "SND_VO21_UIMD",
+      "file": "BVO_46.vag",
+      "size": 1019520
+    },
+    {
+      "event": "SND_VO21_UIOB",
+      "file": "BVO_49.vag",
+      "size": 469120
+    },
+    {
+      "event": "SND_VO13_UIOV",
+      "file": "BVO_25.vag",
+      "size": 676656
+    },
+    {
+      "event": "SND_VO13_UIMD",
+      "file": "BVO_26.vag",
+      "size": 855856
+    },
+    {
+      "event": "SND_VO13_UIOB",
+      "file": "BVO_27.vag",
+      "size": 362144
+    },
+    {
+      "event": "SND_VO15_UIOV",
+      "file": "BVO_29.vag",
+      "size": 1104544
+    },
+    {
+      "event": "SND_VO15_UIMD",
+      "file": "BVO_30.vag",
+      "size": 407408
+    },
+    {
+      "event": "SND_VO15_UIOB",
+      "file": "BVO_31.vag",
+      "size": 573808
+    },
+    {
+      "event": "SND_VO16_UIOV",
+      "file": "BVO_33.vag",
+      "size": 546832
+    },
+    {
+      "event": "SND_VO16_UIMD",
+      "file": "BVO_34.vag",
+      "size": 572432
+    },
+    {
+      "event": "SND_VO16_UIOB",
+      "file": "BVO_35.vag",
+      "size": 444432
+    }
+  ],
+  "event_count": 48,
+  "compiled_event_references": 48,
+  "compiled_audio_commands_identical": true,
+  "definitions_identical": true,
+  "playback": "Not tested; user clarified silence concerned the older Russian version. English v3 routing retained."
+}

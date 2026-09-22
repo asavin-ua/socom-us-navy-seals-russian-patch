@@ -1,0 +1,73 @@
+{
+  "resource": "/RUN/SP/M21/READERM.ZAR",
+  "resource_sha256": "1d4356a835b41447cb33aca9778ac73c0caa5a3b1728f913192ab7e8222fcc96",
+  "section": "aimaps.rdr",
+  "section_sha256": "518763406a25cd538b48a56b1ef8fffb1575fcd5825e0d74ee7661cc6dc5dab4",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "bridge.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bunktop.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bunkbot.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bunkentrance.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower1.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower2.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "pillbox1.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "pillbox2.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "pillbox3.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

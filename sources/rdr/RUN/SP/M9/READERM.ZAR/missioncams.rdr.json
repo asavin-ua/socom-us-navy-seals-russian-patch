@@ -1,0 +1,47 @@
+{
+  "resource": "/RUN/SP/M9/READERM.ZAR",
+  "resource_sha256": "06796dd2fb5aa5b554b7b50df7ef8e3a514dc6e177bec52809097bb010c7a41d",
+  "section": "missioncams.rdr",
+  "section_sha256": "842a2e989e746aafc25c912656160bbeba3e74b3c8d1341726ce64d4152b35ca",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m9bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m9bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "audio1"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "audio1"
+        ]
+      ]
+    ]
+  ]
+}

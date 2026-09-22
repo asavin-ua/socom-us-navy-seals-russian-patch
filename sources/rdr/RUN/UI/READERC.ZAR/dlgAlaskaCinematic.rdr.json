@@ -1,0 +1,87 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgAlaskaCinematic.rdr",
+  "section_sha256": "2bf05a394d709b3a569decf564c231a5731f00205d3511bc33b24c0a6375330f",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        "LIBRARY",
+        [
+          "ui/assetlib/ui2d"
+        ],
+        "BACKGROUND",
+        [
+          "TYPE",
+          [
+            "MPEG"
+          ],
+          "FILENAME",
+          [
+            "run/movies/0100.pss"
+          ]
+        ],
+        "FONT",
+        [
+          "arialblack"
+        ],
+        "SCRIPT_LIBRARY",
+        [
+          "dlgAlaskaCinematic.rdr"
+        ],
+        "OBJECTS",
+        [],
+        "ANIMATIONS",
+        [
+          [
+            "EVENT",
+            [
+              "ONMPEGEND"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu_silent"
+            ],
+            "ARGUMENT",
+            [
+              "dlgAlaska_mission2.rdr"
+            ]
+          ],
+          [
+            "BUTTON",
+            [
+              "START"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu"
+            ],
+            "ARGUMENT",
+            [
+              "dlgAlaska_mission2.rdr"
+            ]
+          ],
+          [
+            "BUTTON",
+            [
+              "CROSS"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu"
+            ],
+            "ARGUMENT",
+            [
+              "dlgAlaska_mission2.rdr"
+            ]
+          ]
+        ],
+        "CONTROLS",
+        []
+      ],
+      0,
+      0
+    ]
+  ]
+}

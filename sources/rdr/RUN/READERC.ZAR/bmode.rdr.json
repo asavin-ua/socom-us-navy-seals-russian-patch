@@ -1,0 +1,50 @@
+{
+  "resource": "/RUN/READERC.ZAR",
+  "resource_sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+  "section": "bmode.rdr",
+  "section_sha256": "f1fd9723782bc69e3f3ceca5e1a55480e64a8037ccc6ba9631e694a92ca3aa05",
+  "tree": [
+    [
+      [
+        "ADDITIVE",
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      [
+        "COLORBLEND",
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        "COLORBLENDFIX",
+        0,
+        1,
+        2,
+        1,
+        128
+      ],
+      [
+        "SCALEUP",
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      [
+        "SCALEDOWN",
+        2,
+        1,
+        0,
+        1,
+        0
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgMPswitch.rdr",
+  "section_sha256": "cfef622d975298b9e5dad65f3037c591fd49b2193c0ece3fab231b5b49dbd55b",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        "LIBRARY",
+        [
+          "ui/assetlib/ui2d"
+        ],
+        "BACKGROUND",
+        [
+          "TYPE",
+          [
+            "IMAGE"
+          ],
+          "FILENAME",
+          [
+            " "
+          ]
+        ],
+        "FONT",
+        [
+          "arialblack"
+        ],
+        "SCRIPT_LIBRARY",
+        [
+          "dlgMPswitch.rdr"
+        ],
+        "USES_MEMCARD",
+        [],
+        "OBJECTS",
+        [],
+        "ANIMATIONS",
+        [
+          [
+            "EVENT",
+            [
+              "ONSTART"
+            ],
+            "ANIMATION",
+            [
+              "StopStreaming"
+            ]
+          ]
+        ],
+        "CONTROLS",
+        []
+      ],
+      0,
+      0
+    ]
+  ]
+}

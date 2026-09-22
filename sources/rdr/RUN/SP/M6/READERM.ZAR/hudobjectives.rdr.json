@@ -1,0 +1,356 @@
+{
+  "resource": "/RUN/SP/M6/READERM.ZAR",
+  "resource_sha256": "1376bff9d64761381615706aa81ae8b56bf548ad895f65a50f859cf201808b80",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "c05052bc174a5b8c8fc9a19908e0d94179debf0e7ede21cc768b8baed805067e",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "3A4\u00c8CT\u00c8T\u00d9 \u00c1AP\u00c4\u00dc"
+        ],
+        "DESCRIPTION",
+        [
+          "3A4\u00c8CT\u00c8TE \u00c1AP\u00c4\u00dc, 3ATEM \u00c8\u00c2\u00c8TE HA \u00cbP\u00dc3OBOE C\u00dc\u00c2HO."
+        ],
+        "VALVE",
+        [
+          "POBJ1"
+        ],
+        "LOCATION",
+        [
+          1503.0,
+          1335.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj1"
+        ],
+        "LINE_IDS",
+        [
+          1
+        ],
+        "NAV_POINTS",
+        [
+          "Charlie"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "CH\u00dbT\u00d9 4ACOB\u00c0X"
+        ],
+        "DESCRIPTION",
+        [
+          "3\u00c2EC\u00d9 MO\u00cb\u00dcT CTO\u00dbT\u00d9 4ACOB\u00c0E. \u00c2E\u00cfCTB\u00dc\u00cfTE CKP\u00c0THO \u00c8 TEP\u00caE\u00c9\u00c8BO:"
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00dcCTPAH\u00c8TE \u00c8X, HE B\u00c0\u00c2ABA\u00db CBOE\u00cbO \u00caP\u00c8C\u00dcTCTB\u00c8\u00db."
+        ],
+        "VALVE",
+        [
+          "SOBJ1"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ1Fail"
+        ],
+        "LOCATION",
+        [
+          1513.0,
+          1255.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj2"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          2
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "OTK\u00c9\u00d44\u00c8T\u00d9 CB\u00db3\u00d9"
+        ],
+        "DESCRIPTION",
+        [
+          "OTK\u00c9\u00d44\u00c8TE CB\u00db3\u00d9 \u00c4E\u00c9E3HO\u00cbO \u00c1PATCTBA, 4TO\u00c1\u00c0 TEPPOP\u00c8CT\u00c0"
+        ],
+        "DESCRIPTION2",
+        [
+          "HE B\u00c03BA\u00c9\u00c8 \u00caO\u00c2MO\u00cb\u00dc."
+        ],
+        "VALVE",
+        [
+          "POBJ2"
+        ],
+        "LOCATION",
+        [
+          1303.0,
+          1655.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj3"
+        ],
+        "LINE_IDS",
+        [
+          3
+        ],
+        "NAV_POINTS",
+        [
+          "Echo"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "HA\u00cfT\u00c8 4ACOB\u00c0X"
+        ],
+        "DESCRIPTION",
+        [
+          "4EPE3 \u00caP\u00c8\u00c1OP HO4HO\u00cbO B\u00c8\u00c2EH\u00c8\u00db O\u00caPE\u00c2E\u00c9\u00c8TE MAP\u00d2P\u00dcT\u00c0 4ACOB\u00c0X."
+        ],
+        "DESCRIPTION2",
+        [
+          "BEPO\u00dbTH\u00c0E \u00ca\u00dcT\u00c8 OTME4EH\u00c0 CTPE\u00c9KAM\u00c8."
+        ],
+        "VALVE",
+        [
+          "SOBJ2"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ2Fail"
+        ],
+        "LOCATION",
+        [
+          1503.0,
+          1335.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj4"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          4
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00c2O\u00cfT\u00c8 \u00c2O C\u00dc\u00c2HA"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00c2O\u00c1EP\u00c8TEC\u00d9 \u00c2O \u00cbP\u00dc3OBO\u00cbO C\u00dc\u00c2HA HE3AMETHO, \u00c2EP\u00c4AC\u00d9 TEH\u00c8 \u00c8 \u00dcKP\u00c0T\u00c8\u00cf."
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00c2B\u00c8\u00cbA\u00cfTEC\u00d9 \u00caO MAP\u00d2P\u00dcT\u00dc, OTME4EHHOM\u00dc CTPE\u00c9KAM\u00c8."
+        ],
+        "VALVE",
+        [
+          "SOBJ3"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ3Fail"
+        ],
+        "LOCATION",
+        [
+          1373.0,
+          1335.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj5"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          5
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00caO\u00c2C\u00c9\u00dc\u00d2AT\u00d9 BPA\u00cbA"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcKPO\u00cfTEC\u00d9 B TEH\u00c8 \u00dc CTPE\u00c9K\u00c8 \u00c8 C\u00c9\u00dc\u00d2A\u00cfTE PA3\u00cbOBOP TEPPOP\u00c8CTOB."
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00c83 PA3\u00cbOBOPA MO\u00c4HO \u00dc3HAT\u00d9"
+        ],
+        "DESCRIPTION3",
+        [
+          "\u00c7EHH\u00c0E CBE\u00c2EH\u00c8\u00db."
+        ],
+        "VALVE",
+        [
+          "SOBJ4"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ4Fail"
+        ],
+        "LOCATION",
+        [
+          1273.0,
+          1425.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj7"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          7
+        ],
+        "NAV_POINTS",
+        [
+          "Delta"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "HA\u00cfT\u00c8 \u00c2AHH\u00c0E"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE \u00c4\u00dcPHA\u00c9 \u00caEPEBO3OK TEPPOP\u00c8CTOB. \u00daT\u00c8 CBE\u00c2EH\u00c8\u00db"
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00caOMO\u00cb\u00dcT B C\u00c9E\u00c2\u00dc\u00d4\u00d3\u00c8X O\u00caEPA\u00c7\u00c8\u00dbX."
+        ],
+        "VALVE",
+        [
+          "POBJ3"
+        ],
+        "LOCATION",
+        [
+          1313.0,
+          1525.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj6"
+        ],
+        "LINE_IDS",
+        [
+          6
+        ],
+        "NAV_POINTS",
+        [
+          "Foxtrot"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00caOTO\u00ca\u00c8T\u00d9 C\u00dc\u00c2HO"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caOTO\u00ca\u00c8TE C\u00dc\u00c2HO: \u00daTO OC\u00c9A\u00c1\u00c8T \u00c4E\u00c9E3HOE \u00c1PATCTBO \u00c8 \u00caPECE4ET"
+        ],
+        "DESCRIPTION2",
+        [
+          "MOPCK\u00dc\u00d4 KOHTPA\u00c1AH\u00c2\u00dc. \u00dcCTAHOB\u00c8TE 3AP\u00db\u00c2\u00c0 \u00caO\u00c2 \u00caA\u00c9\u00dc\u00c1O\u00cf."
+        ],
+        "VALVE",
+        [
+          "POBJ4"
+        ],
+        "LOCATION",
+        [
+          1263.0,
+          1325.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj8"
+        ],
+        "LINE_IDS",
+        [
+          8
+        ],
+        "NAV_POINTS",
+        [
+          "X-ray",
+          "Zulu"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "CTAB\u00c8T\u00d9 3AP\u00db\u00c2"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTAHOB\u00c8TE 3AP\u00db\u00c2\u00c0 B OTME4EHH\u00c0X MECTAX. \u00c2BA 3AP\u00db\u00c2A \u00caOTO\u00ca\u00dbT C\u00dc\u00c2HO."
+        ],
+        "DESCRIPTION2",
+        [
+          "\u00dc BAC TO\u00c9\u00d9KO O\u00c2\u00c8H 3AP\u00db\u00c2. \u00caP\u00c8KA\u00c4\u00c8TE HA\u00caAPH\u00c8K\u00dc"
+        ],
+        "DESCRIPTION3",
+        [
+          "\u00dcCTAHOB\u00c8T\u00d9 BTOPO\u00cf 3AP\u00db\u00c2."
+        ],
+        "VALVE",
+        [
+          "SOBJ5"
+        ],
+        "LOCATION",
+        [
+          1273.0,
+          1225.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m6obj9"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          9
+        ],
+        "NAV_POINTS",
+        [
+          "X-ray",
+          "Zulu"
+        ]
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "resource": "/RUN/SP/M12/READERM.ZAR",
+  "resource_sha256": "b8f5752423d9c81e7e33666e8748c4b30df25fab17ce6f1a81b8bb585415658e",
+  "section": "missioncams.rdr",
+  "section_sha256": "e6e3917e262cbce0a1b49c68fffe610914e727924c5f923f0db0b3537e280086",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m12bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m12bs"
+        ]
+      ]
+    ]
+  ]
+}

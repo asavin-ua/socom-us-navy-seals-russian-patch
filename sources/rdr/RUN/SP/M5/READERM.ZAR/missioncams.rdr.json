@@ -1,0 +1,55 @@
+{
+  "resource": "/RUN/SP/M5/READERM.ZAR",
+  "resource_sha256": "bdaa4a70f144a4cced659ead4014ca826c23bb6137b1c6ee2804cd2012d0e586",
+  "section": "missioncams.rdr",
+  "section_sha256": "6fe8a2b58dbfed4cdf6e302e1cac7c92cede4ff3afc14fe62b9a29f086a96935",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m5bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m5bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m5tut1"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*TEPPOP\u00c8CT\u00c0 \u00c8C\u00caO\u00c9b3\u00dc\u00d4T PA\u00c2\u00c8O \u00c2\u00c9\u00db CB\u00db3\u00c8 ME\u00c4\u00c2\u00dc CO\u00c1O\u00cf \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4 \u00e4\u00e4\u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00daTOT \u00c2OX\u00c9\u00c0\u00cf TEP B\u00c8\u00c2\u00c8MO \u00caPO\u00ca\u00dcCT\u00c8T C\u00c9E\u00c2\u00dc\u00d4\u00d3\u00dc\u00d4 \u00caEPEK\u00c9\u00c84K\u00dc \u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4"
+        ],
+        "DESCRIPTION3",
+        [
+          "*HA\u00cf\u00c2\u00c8TE \u00c8 HE\u00c8TPA\u00c9\u00c83\u00dc\u00c8TE \u00c9\u00c8\u00c2EPA, \u00c8\u00c9\u00c8 \u00c2ETOH\u00c8P\u00dcET \u00c1OM\u00c1\u00c0 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4  "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m5tut1"
+        ]
+      ]
+    ]
+  ]
+}

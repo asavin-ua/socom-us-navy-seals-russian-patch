@@ -1,0 +1,165 @@
+{
+  "resource": "/RUN/SP/M13/READERM.ZAR",
+  "resource_sha256": "f4a65561a2e1fc2f4f5299fc32fc50b5eda6d7edca221972c87d9757bcb802ed",
+  "section": "missioncams.rdr",
+  "section_sha256": "8387ec67fd628e438f61209a411be4bd7cd995d623f36428305848249869efc8",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m13tut1"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13tut1"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m13tut2"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00caPOMOTAB\u00d2\u00c8\u00cfC\u00db \u00c1ATPAK BEPH\u00dc\u00c9C\u00db B T\u00d4PbM\u00dc. \u00e4 \u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00caO\u00c2CTPE\u00c9\u00c8TE E\u00cbO \u00e4 \u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13tut2"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m13tut3"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00caPOBECT\u00c8 \u00c2\u00c8BEPC\u00c8\u00d4 \u00c2O TO\u00cbO, KAK BO\u00cfT\u00c8 B T\u00d4PbM\u00dc"
+        ],
+        "DESCRIPTION2",
+        [
+          "*C\u00c2E\u00c9ATb \u00c2\u00c0P\u00dc B 3A\u00caA\u00c2HO\u00cf CTEHE T\u00d4PbM\u00c0  "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13tut3"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m13tut4"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00dcBECT\u00c8 \u00c8H\u00d6OPMATOPA B 3OH\u00dc B\u00c0XO\u00c2A   \u00e4\u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*OCTEPE\u00cbA\u00cfTECb \u00caATP\u00dc\u00c9E\u00cf, \u00c8\u00c2\u00dc\u00d3\u00c8X C CEBEPA \u00e4\u00e4\u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13tut4"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m13bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "view_hind_takeoff"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "view_hind_takeoff"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "victory"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "victory"
+        ]
+      ]
+    ]
+  ]
+}

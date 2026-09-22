@@ -1,0 +1,42 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgPlayDocMovies.rdr",
+  "section_sha256": "01a2805db8f545ac79e29883e7b6b31082ad0d1d3d3a47136be48ccc60792a8a",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        "LIBRARY",
+        [
+          "ui/assetlib/ui2d"
+        ],
+        "FONT",
+        [
+          "arialblack"
+        ],
+        "SCRIPT_LIBRARY",
+        [
+          "dlgPlayDocMovies.rdr"
+        ],
+        "OBJECTS",
+        [],
+        "ANIMATIONS",
+        [
+          [
+            "EVENT",
+            [
+              "ONSTART"
+            ],
+            "ANIMATION",
+            [
+              "ReplayCinematic"
+            ]
+          ]
+        ],
+        0,
+        0
+      ]
+    ]
+  ]
+}

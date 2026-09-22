@@ -1,0 +1,161 @@
+{
+  "resource": "/RUN/SP/M8/READERM.ZAR",
+  "resource_sha256": "441df1a118c1ead9403e6778f87035f018a7b0f11f3ecdb7d6eb32fcc5617efd",
+  "section": "missioncams.rdr",
+  "section_sha256": "3db3b8fba2e822fb73968a33b559bc1967f90f9b08c1553ac8a044d1b6880ce8",
+  "tree": [
+    "MISSIONCAMS",
+    [
+      [
+        "IDENTIFIER",
+        [
+          "m8bs"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          " "
+        ],
+        "DESCRIPTION2",
+        [
+          " "
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8bs"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut1"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*CH\u00dbTb OXPAH\u00dc T\u00c8XO \u00e4\u00e4\u00e4\u00e4 \u00e4 "
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c8C\u00caO\u00c9b3\u00dc\u00cfTE PE\u00c9bE\u00d6 \u00e4\u00e4 \u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut1"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut2"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*PA\u00c1OTATb C \u00cb\u00c9\u00dc\u00d2AKAM\u00c8, 4TO\u00c1\u00c0 HE 3ACEK\u00c9\u00c8 "
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c8C\u00caO\u00c9b3\u00dc\u00cfTE OCO\u00c1EHHOCT\u00c8 PE\u00c9bE\u00d6A \u00e4\u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut2"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut3"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*\u00c2AHH\u00c0M KEP\u00c2\u00c0K \u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut3"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut4"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*HA\u00cf\u00c2\u00c8TE \u00c1\u00dc\u00c9ABK\u00dc \u00e4 \u00e4\u00e4\u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*B\u00c0BE\u00c2\u00c8TE TEPPOP\u00c8CTA "
+        ],
+        "DESCRIPTION3",
+        [
+          "*COXPAH\u00c8Tb E\u00cbO \u00c4\u00c83Hb \u00c8 B\u00c0BE3T\u00c8"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut4"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut5"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*BH\u00c8MAH\u00c8E--3\u00c2AH\u00c8\u00db \u00e4\u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut5"
+        ]
+      ],
+      [
+        "IDENTIFIER",
+        [
+          "m8tut6"
+        ],
+        "NAME",
+        [
+          " "
+        ],
+        "DESCRIPTION",
+        [
+          "*BPA\u00cb \u00dcH\u00c84TO\u00c4AET \u00c2OK\u00dcMEHT\u00c0 \u00e4 \u00e4 \u00e4\u00e4\u00e4\u00e4 \u00e4\u00e4"
+        ],
+        "DESCRIPTION2",
+        [
+          "*\u00c1\u00c0CTPO HABEPX \u00c8 OCTAHOB\u00c8TE E\u00cbO   \u00e4 \u00e4\u00e4\u00e4 \u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4"
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m8tut3"
+        ]
+      ]
+    ]
+  ]
+}

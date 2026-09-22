@@ -1,0 +1,61 @@
+{
+  "resource": "/RUN/SP/M11/READERM.ZAR",
+  "resource_sha256": "5ce3a40741387e24d1c9b505e4590fd8a33ac5384123f94a342749420d081c5d",
+  "section": "aimaps.rdr",
+  "section_sha256": "4faaecc670f599a6e85558b511c7b13d18cec7d23b37b76f7313ea90219301cd",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Raised.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "hut02.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "reg2_wall.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "temple_sniper.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "reg4_entrance.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "bridge.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "ambass.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

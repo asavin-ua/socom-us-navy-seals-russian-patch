@@ -1,0 +1,46 @@
+{
+  "status": "included",
+  "replacements": [
+    {
+      "old": "ОСТАВЛЯИТЕ",
+      "new": "ОСТАВЛЯЙТЕ"
+    },
+    {
+      "old": "УБИРАИТЕ",
+      "new": "УБИРАЙТЕ"
+    },
+    {
+      "old": "БЛИЖАИШИИ",
+      "new": "БЛИЖАЙШИЙ"
+    },
+    {
+      "old": "ПОЛОСКОИ",
+      "new": "ПОЛОСКОЙ"
+    },
+    {
+      "old": "ПРОСТОИ",
+      "new": "ПРОСТОЙ"
+    },
+    {
+      "old": "ПОДЬЕМ",
+      "new": "ПОДЪЁМ"
+    },
+    {
+      "old": "СИЛЬНЕИ",
+      "new": "СИЛЬНЕЕ"
+    }
+  ],
+  "resources": [
+    {
+      "path": "/RUN/READERC.ZAR",
+      "section": "hud.rdr",
+      "occurrences": 15
+    },
+    {
+      "path": "/RUN/UIZANIM.ZAR",
+      "storage": "Name_Table",
+      "shared_string_occurrences": 2,
+      "referencing_entries": 80
+    }
+  ]
+}

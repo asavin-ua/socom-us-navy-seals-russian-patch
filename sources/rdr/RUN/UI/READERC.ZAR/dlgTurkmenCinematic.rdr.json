@@ -1,0 +1,87 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgTurkmenCinematic.rdr",
+  "section_sha256": "bbeb8a78a572eefdb6408fa904e2052942cb09266ec61e11157a2eaf4a352158",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        "LIBRARY",
+        [
+          "ui/assetlib/ui2d"
+        ],
+        "BACKGROUND",
+        [
+          "TYPE",
+          [
+            "MPEG"
+          ],
+          "FILENAME",
+          [
+            "run/movies/0400.pss"
+          ]
+        ],
+        "FONT",
+        [
+          "arialblack"
+        ],
+        "SCRIPT_LIBRARY",
+        [
+          "dlgTurkmenCinematic.rdr"
+        ],
+        "OBJECTS",
+        [],
+        "ANIMATIONS",
+        [
+          [
+            "EVENT",
+            [
+              "ONMPEGEND"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu_silent"
+            ],
+            "ARGUMENT",
+            [
+              "dlg_Turk_mission1.rdr"
+            ]
+          ],
+          [
+            "BUTTON",
+            [
+              "START"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu"
+            ],
+            "ARGUMENT",
+            [
+              "dlg_Turk_mission1.rdr"
+            ]
+          ],
+          [
+            "BUTTON",
+            [
+              "CROSS"
+            ],
+            "ANIMATION",
+            [
+              "goto_menu"
+            ],
+            "ARGUMENT",
+            [
+              "dlg_Turk_mission1.rdr"
+            ]
+          ]
+        ],
+        "CONTROLS",
+        []
+      ],
+      0,
+      0
+    ]
+  ]
+}

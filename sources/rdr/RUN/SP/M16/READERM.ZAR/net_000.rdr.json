@@ -1,0 +1,41 @@
+{
+  "resource": "/RUN/SP/M16/READERM.ZAR",
+  "resource_sha256": "dd0aeb75f335af08260504d78bb4f4e4a1136c146e91ab517f5e15e95fc09a46",
+  "section": "net_000.rdr",
+  "section_sha256": "9f46c4bfbf4c092902fb73a94461ed294983d7972cb8e19a7a735a1fb149e9cc",
+  "tree": [
+    [
+      "graph_name",
+      [
+        "net_000"
+      ],
+      "nodes",
+      [
+        [
+          "name",
+          [
+            "start"
+          ],
+          "pos",
+          [
+            2636.820068359375,
+            -0.5559999942779541,
+            1433.719970703125
+          ],
+          "radius",
+          [
+            2.0
+          ],
+          "flags",
+          [
+            0
+          ]
+        ]
+      ],
+      "edges",
+      [],
+      "routes",
+      []
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "main_menu": {
+    "new_game_button": "\u041d\u041e\u0412\u0410\u042f \u0418\u0413\u0420\u0410",
+    "load_game_button": "\u0417\u0410\u0413\u0420\u0423\u0417\u0418\u0422\u042c",
+    "multiplayer_button": "\u041e\u041d\u041b\u0410\u0419\u041d",
+    "options_button": "\u041d\u0410\u0421\u0422\u0420\u041e\u0419\u041a\u0418",
+    "tutorial_button": "\u041e\u0411 \u0418\u0413\u0420\u0415"
+  },
+  "center_x": 320,
+  "objectives": "Use briefing_translation.json objectives; number each item on a separate native LF line. A pause command must end with an ASCII space."
+}

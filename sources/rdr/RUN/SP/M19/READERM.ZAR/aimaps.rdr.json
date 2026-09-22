@@ -1,0 +1,73 @@
+{
+  "resource": "/RUN/SP/M19/READERM.ZAR",
+  "resource_sha256": "e63bc3623f8febfc549726b3f2ab9a3ab2b7cf04a37508582dd3d496063aa761",
+  "section": "aimaps.rdr",
+  "section_sha256": "19ab79aadd4877365d5bb5a466471c99740685f1c2957aeba8919093a438fa12",
+  "tree": [
+    [
+      "map_list",
+      [
+        [
+          "filename",
+          [
+            "aimap.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower01.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower02.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower03.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower04.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "tower05.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Caves.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Bridge.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "Shack.map"
+          ]
+        ],
+        [
+          "filename",
+          [
+            "prison.map"
+          ]
+        ]
+      ]
+    ]
+  ]
+}

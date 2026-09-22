@@ -1,0 +1,287 @@
+{
+  "resource": "/RUN/SP/M13/READERM.ZAR",
+  "resource_sha256": "f4a65561a2e1fc2f4f5299fc32fc50b5eda6d7edca221972c87d9757bcb802ed",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "ba2c0ab1bcf950e3816709665e764ed965986333cb74542aebf0d9e8b9f4d743",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "BO\u00cfT\u00c8 B T\u00d4P\u00d9M\u00dc"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caEPE\u00c1EP\u00c8TEC\u00d9 OTP\u00db\u00c2OM 4EPE3 CEBEPH\u00dc\u00d4 CTEH\u00dc T\u00d4P\u00d9M\u00c0."
+        ],
+        "VALVE",
+        [
+          "OBJ1"
+        ],
+        "LOCATION",
+        [
+          2786.5,
+          2565.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj1"
+        ],
+        "LINE_IDS",
+        [
+          6
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "OTB\u00c9E4\u00d9 B3P\u00c0BOM"
+        ],
+        "DESCRIPTION",
+        [
+          "3AP\u00db\u00c2OM \u00caOBPE\u00c2\u00c8TE \u00dc4ACTOK 3A\u00caA\u00c2HO\u00cf CTEH\u00c0."
+        ],
+        "DESCRIPTION2",
+        [
+          "B3P\u00c0B OTB\u00c9E4ET BPA\u00cbA: \u00caPOH\u00c8KH\u00c8TE HE3AMETHO."
+        ],
+        "DESCRIPTION3",
+        [
+          "HE B\u00c0\u00c2ABA\u00cfTE CE\u00c1\u00db \u00caO \u00ca\u00dcT\u00c8."
+        ],
+        "VALVE",
+        [
+          "SOBJ1"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ1Fail"
+        ],
+        "LOCATION",
+        [
+          1921.5,
+          3295.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj2"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          1
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B\u00c0K\u00c9. \u00cbEHEPATOP"
+        ],
+        "DESCRIPTION",
+        [
+          "OTK\u00c9\u00d44\u00c8TE \u00cbEHEPATOP, 4TO\u00c1\u00c0 \u00caO\u00cbAC\u00c8T\u00d9 CBET B T\u00d4P\u00d9ME."
+        ],
+        "DESCRIPTION2",
+        [
+          "MO\u00c4HO B3OPBAT\u00d9 \u00cbEHEPATOP \u00c8\u00c9\u00c8 B\u00c0K\u00c9\u00d44\u00c8T\u00d9 E\u00cbO BP\u00dc4H\u00dc\u00d4."
+        ],
+        "VALVE",
+        [
+          "SOBJ2"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ2Fail"
+        ],
+        "LOCATION",
+        [
+          2671.52001953125,
+          2655.429931640625
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj3"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          2
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "OCBO\u00c1O\u00c2\u00c8T\u00d9 A\u00cbEHTA"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE \u00c8H\u00d6OPMATOPA \u00c8 B\u00c0\u00ca\u00dcCT\u00c8TE E\u00cbO \u00c83 KAMEP\u00c0."
+        ],
+        "VALVE",
+        [
+          "OBJ2"
+        ],
+        "LOCATION",
+        [
+          3291.5,
+          2895.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj4"
+        ],
+        "LINE_IDS",
+        [
+          3
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B3\u00dbT\u00d9 KAPT\u00dc"
+        ],
+        "DESCRIPTION",
+        [
+          "KAPTA \u00c8H\u00d6OPMATOPA \u00c8 PA3BE\u00c2\u00c2AHH\u00c0E HAXO\u00c2\u00dbTC\u00db B OP\u00dc\u00c4E\u00cfHO\u00cf."
+        ],
+        "VALVE",
+        [
+          "OBJ3"
+        ],
+        "DISPLAY_VALVE",
+        [
+          "DV_OBJ3"
+        ],
+        "LOCATION",
+        [
+          2091.5,
+          3090.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj6"
+        ],
+        "LINE_IDS",
+        [
+          4
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "\u00dcKP\u00c0T\u00d9 A\u00cbEHTA"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcBE\u00c2\u00c8TE \u00c8H\u00d6OPMATOPA OT KAMEP B \u00ca\u00dcCTOE 3\u00c2AH\u00c8E."
+        ],
+        "DESCRIPTION2",
+        [
+          "HE OCTAB\u00c9\u00db\u00cfTE E\u00cbO O\u00c2HO\u00cbO: E\u00cbO MO\u00cb\u00dcT \u00dc\u00c1\u00c8T\u00d9."
+        ],
+        "VALVE",
+        [
+          "SOBJ3"
+        ],
+        "DISPLAY_VALVE",
+        [
+          "DV_OBJ3b"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ3Fail"
+        ],
+        "LOCATION",
+        [
+          2811.5,
+          3075.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj5"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          5
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "B\u00c0BECT\u00c8 A\u00cbEHTA"
+        ],
+        "DESCRIPTION",
+        [
+          "B\u00c0BE\u00c2\u00c8TE \u00c8H\u00d6OPMATOPA K TO4KE \u00daBAK\u00dcA\u00c7\u00c8\u00c8 CEBEPO-3A\u00caA\u00c2HEE T\u00d4P\u00d9M\u00c0."
+        ],
+        "VALVE",
+        [
+          "OBJ4"
+        ],
+        "LOCATION",
+        [
+          1131.5,
+          2735.39990234375
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj7"
+        ],
+        "LINE_IDS",
+        [
+          7
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "PA3BE\u00c2AT\u00d9 \u00c9A\u00cbEP\u00d9"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00c1\u00c9\u00d4\u00c2A\u00cfTE 3A \u00caEPEME\u00d3EH\u00c8\u00dbM\u00c8 BO\u00cfCK B \u00c9A\u00cbEPE BPA\u00cbA."
+        ],
+        "VALVE",
+        [
+          "SOBJ4"
+        ],
+        "DISPLAY_VALVE",
+        [
+          "DV_SOBJ4"
+        ],
+        "INVALID_VALVE",
+        [
+          "SOBJ4Fail"
+        ],
+        "LOCATION",
+        [
+          1991.5,
+          1885.4000244140625
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m13obj8"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        [],
+        "LINE_IDS",
+        [
+          8
+        ]
+      ]
+    ]
+  ]
+}

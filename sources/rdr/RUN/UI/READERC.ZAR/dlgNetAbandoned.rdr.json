@@ -1,0 +1,77 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgNetAbandoned.rdr",
+  "section_sha256": "c2ae63d6c479592c384ad579cf9b6de887524d32271c4170a69af9fcc7bcd410",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        [
+          "LIBRARY",
+          [
+            "ui/assetlib/uimp"
+          ],
+          "BACKGROUND",
+          [
+            "TYPE",
+            [
+              "IMAGE"
+            ],
+            "FILENAME",
+            [
+              "multplay_back.tif"
+            ]
+          ],
+          "FONT",
+          [
+            "myriad"
+          ],
+          "SCRIPT_LIBRARY",
+          [
+            "dlgNetError.rdr"
+          ],
+          "OBJECTS",
+          [],
+          "ANIMATIONS",
+          [
+            [
+              "EVENT",
+              [
+                "ONSTART"
+              ],
+              "ANIMATION",
+              [
+                "displayNews"
+              ]
+            ],
+            [
+              "EVENT",
+              [
+                "ONSTART"
+              ],
+              "ANIMATION",
+              [
+                "onstart_handler"
+              ]
+            ],
+            [
+              "EVENT",
+              [
+                "MP_MEDIUS_ERROR"
+              ],
+              "ANIMATION",
+              [
+                "OnMultiplayerDisconnect"
+              ]
+            ]
+          ],
+          "CONTROLS",
+          []
+        ]
+      ],
+      0,
+      0
+    ]
+  ]
+}

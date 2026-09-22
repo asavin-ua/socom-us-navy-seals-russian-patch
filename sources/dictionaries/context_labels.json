@@ -1,0 +1,68 @@
+[
+  {
+    "english": "CLOSE DOOR",
+    "russian": "\u0417\u0410\u041a\u0420\u042b\u0422\u042c \u0414\u0412\u0415\u0420\u042c"
+  },
+  {
+    "english": "OPEN DOOR",
+    "russian": "\u041e\u0422\u041a\u0420\u042b\u0422\u042c \u0414\u0412\u0415\u0420\u042c"
+  },
+  {
+    "english": "CLOSE WINDOW",
+    "russian": "\u0417\u0410\u041a\u0420\u042b\u0422\u042c \u041e\u041a\u041d\u041e"
+  },
+  {
+    "english": "OPEN WINDOW",
+    "russian": "\u041e\u0422\u041a\u0420\u042b\u0422\u042c \u041e\u041a\u041d\u041e"
+  },
+  {
+    "english": "FLIP SWITCH",
+    "russian": "\u041f\u0415\u0420\u0415\u041a\u041b\u042e\u0427\u0418\u0422\u042c"
+  },
+  {
+    "english": "DEFUSE BOMB",
+    "russian": "\u041e\u0411\u0415\u0417\u0412\u0420\u0415\u0414\u0418\u0422\u042c"
+  },
+  {
+    "english": "MP BOMB",
+    "russian": "\u0411\u041e\u041c\u0411\u0410"
+  },
+  {
+    "english": "PLACE SATCHEL",
+    "russian": "\u0417\u0410\u041b\u041e\u0416\u0418\u0422\u042c \u0417\u0410\u0420\u042f\u0414"
+  },
+  {
+    "english": "BREACH",
+    "russian": "\u0412\u0417\u041b\u041e\u041c"
+  },
+  {
+    "russian": "\u0417\u0410\u041b\u0415\u0417\u0422\u042c"
+  },
+  {
+    "russian": "\u0414\u0418\u0410\u041b\u041e\u0413"
+  },
+  {
+    "russian": "\u0412\u0417\u042f\u0422\u042c"
+  },
+  {
+    "russian": "\u0411\u0420\u041e\u0421\u0418\u0422\u042c \u0411\u041e\u041c\u0411\u0423"
+  },
+  {
+    "russian": "\u0423\u0414\u0415\u0420\u0416\u0418\u0412\u0410\u0422\u042c"
+  },
+  {
+    "russian": "\u041f\u041e\u0414\u041d\u042f\u0422\u042c \u0422\u0415\u041b\u041e"
+  },
+  {
+    "russian": "\u041f\u041e\u041b\u041e\u0416\u0418\u0422\u042c \u0422\u0415\u041b\u041e"
+  },
+  {
+    "russian": "\u0423\u0414\u0410\u0420 \u041d\u041e\u0416\u041e\u041c"
+  },
+  {
+    "russian": "\u0421\u0412\u042f\u0417\u0410\u0422\u042c"
+  },
+  {
+    "russian": "\u0423\u0414\u0410\u0420 \u041f\u0420\u0418\u041a\u041b\u0410\u0414\u041e\u041c"
+  }
+]

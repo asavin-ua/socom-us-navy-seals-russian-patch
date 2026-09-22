@@ -1,0 +1,26 @@
+# User-supplied and generated disc images
+*.iso
+*.ISO
+*.bin.cue
+*.partial
+
+# Generated reports
+/reports/
+
+# Generated reference catalogs
+/sources/compiled/
+
+# Generated reference catalogs
+/sources/compiled/
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+*.pindex.tmp
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

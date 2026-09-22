@@ -1,0 +1,223 @@
+{
+  "resource": "/RUN/SP/M21/READERM.ZAR",
+  "resource_sha256": "1d4356a835b41447cb33aca9778ac73c0caa5a3b1728f913192ab7e8222fcc96",
+  "section": "hudobjectives.rdr",
+  "section_sha256": "57ac94989f565989e42b8b6d56bad4fdf6f6aedd5a197d289b75e3156c21bf35",
+  "tree": [
+    "HUD_OBJECTIVES",
+    [
+      [
+        "NAME",
+        [
+          "B3\u00dbT\u00d9 B\u00c0\u00d2K\u00c8"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00dcCTPAH\u00c8TE CHA\u00cf\u00caEPOB HA B\u00c0\u00d2KAX. HE 3A\u00c1\u00dc\u00c2\u00d9TE \u00caO\u00c8CKAT\u00d9 \u00c2AHH\u00c0E."
+        ],
+        "VALVE",
+        [
+          "SOBJ3"
+        ],
+        "LOCATION",
+        [
+          1042.0,
+          2982.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj4"
+        ],
+        "LINE_IDS",
+        [
+          8
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "AB\u00c8A\u00dc\u00c2AP: \u00c2OT 1"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caO\u00c2CBET\u00c8TE \u00c2OT \u00c9A3EPOM \u00c2\u00c9\u00db AB\u00c8A\u00dc\u00c2APA."
+        ],
+        "VALVE",
+        [
+          "SOBJ4"
+        ],
+        "LOCATION",
+        [
+          783.0,
+          1105.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj5"
+        ],
+        "LINE_IDS",
+        [
+          5
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "AB\u00c8A\u00dc\u00c2AP: \u00c2OT 2"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caO\u00c2CBET\u00c8TE \u00c2OT \u00c9A3EPOM \u00c2\u00c9\u00db AB\u00c8A\u00dc\u00c2APA."
+        ],
+        "VALVE",
+        [
+          "SOBJ5"
+        ],
+        "LOCATION",
+        [
+          1618.0,
+          1003.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj7"
+        ],
+        "LINE_IDS",
+        [
+          6
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "AB\u00c8A\u00dc\u00c2AP: \u00c2OT 3"
+        ],
+        "DESCRIPTION",
+        [
+          "\u00caO\u00c2CBET\u00c8TE \u00c2OT \u00c9A3EPOM \u00c2\u00c9\u00db AB\u00c8A\u00dc\u00c2APA."
+        ],
+        "VALVE",
+        [
+          "SOBJ6"
+        ],
+        "LOCATION",
+        [
+          550.0,
+          545.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj9"
+        ],
+        "LINE_IDS",
+        [
+          7
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "BO\u00cfT\u00c8 B \u00c1\u00dcHKEP"
+        ],
+        "DESCRIPTION",
+        [
+          "HA\u00cf\u00c2\u00c8TE BXO\u00c2 B KOM\u00ca\u00c9EKC \u00c1\u00dcHKEPOB."
+        ],
+        "VALVE",
+        [
+          "POBJ1"
+        ],
+        "LOCATION",
+        [
+          1497.0,
+          151.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj1"
+        ],
+        "LINE_IDS",
+        [
+          1
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "OTK\u00c9\u00d44\u00c8T\u00d9 \u00d3\u00c8TOK"
+        ],
+        "DESCRIPTION",
+        [
+          "OTK\u00c9\u00d44\u00c8TE \u00da\u00c9EKTPO\u00d3\u00c8TOK, 4TO\u00c1\u00c0 O\u00c1ECTO4\u00c8T\u00d9 3AMOK KAMEP\u00c0."
+        ],
+        "VALVE",
+        [
+          "SOBJ9"
+        ],
+        "LOCATION",
+        [
+          836.0,
+          479.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj15"
+        ]
+      ],
+      [
+        "NAME",
+        [
+          "OTK\u00c9\u00d44\u00c8T\u00d9 AK\u00c1"
+        ],
+        "DESCRIPTION",
+        [
+          "OTK\u00c9\u00d44\u00c8TE \u00c1ATAPE\u00d4 PE3EPBHO\u00cbO \u00ca\u00c8TAH\u00c8\u00db."
+        ],
+        "VALVE",
+        [
+          "SOBJ10"
+        ],
+        "LOCATION",
+        [
+          1161.0,
+          583.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj16"
+        ],
+        "ISSECONDARY",
+        [],
+        "ISSUB_OBJECTIVE",
+        []
+      ],
+      [
+        "NAME",
+        [
+          "C\u00caACT\u00c8 \u00c1O\u00cf\u00c7A"
+        ],
+        "DESCRIPTION",
+        [
+          "C\u00caAC\u00c8TE MOP\u00caEXA \u00c2\u00c9\u00db \u00daBAK\u00dcA\u00c7\u00c8\u00c8."
+        ],
+        "VALVE",
+        [
+          "POBJ4"
+        ],
+        "LOCATION",
+        [
+          778.0,
+          723.0
+        ],
+        "ON_CALL_ANIMATION",
+        [
+          "m21obj17"
+        ],
+        "LINE_IDS",
+        [
+          4
+        ]
+      ]
+    ]
+  ]
+}

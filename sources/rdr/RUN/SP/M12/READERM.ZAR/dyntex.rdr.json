@@ -1,0 +1,15 @@
+{
+  "resource": "/RUN/SP/M12/READERM.ZAR",
+  "resource_sha256": "b8f5752423d9c81e7e33666e8748c4b30df25fab17ce6f1a81b8bb585415658e",
+  "section": "dyntex.rdr",
+  "section_sha256": "04d0866c28e8d49daf4d2ae388a84c9d4dab8adf21b54b6252e23c5cf603f921",
+  "tree": [
+    [
+      "boundaries",
+      [
+        0.23999999463558197,
+        0.6000000238418579
+      ]
+    ]
+  ]
+}

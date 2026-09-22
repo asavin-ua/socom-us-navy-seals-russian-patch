@@ -1,0 +1,42 @@
+{
+  "resource": "/RUN/UI/READERC.ZAR",
+  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "section": "dlgReplayCinematic.rdr",
+  "section_sha256": "88ee8239db5521f9010f7321cb38acb7d564b3911fb13aeb33d22aa6087d53e2",
+  "tree": [
+    [
+      "SCREENS",
+      [
+        "LIBRARY",
+        [
+          "ui/assetlib/ui2d"
+        ],
+        "FONT",
+        [
+          "arialblack"
+        ],
+        "SCRIPT_LIBRARY",
+        [
+          "dlgReplayCinematic.rdr"
+        ],
+        "OBJECTS",
+        [],
+        "ANIMATIONS",
+        [
+          [
+            "EVENT",
+            [
+              "ONSTART"
+            ],
+            "ANIMATION",
+            [
+              "ReplayCinematic"
+            ]
+          ]
+        ],
+        0,
+        0
+      ]
+    ]
+  ]
+}
