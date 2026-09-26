@@ -2,13 +2,13 @@
   "repository": "socom-us-navy-seals-russian-patch",
   "game": "SOCOM: U.S. Navy SEALs (PS2, SCUS-97134)",
   "supported_version": "3.00",
-  "current_release": "ru-1.2",
+  "current_release": "ru-1.3",
   "original": {
     "sha256": "b1730e5efe4dc87d033f33c43137e9e7e2114c77f3a28bd1db2d005419a027bd",
     "size": 3493593088
   },
   "current": {
-    "sha256": "fd35ff4193ef254ef8cae18c1b80b49424f1b2ba9e9e6c51bec09973b70e3fba",
+    "sha256": "3035376a8b3557824fc6caf58b8f2ab536d9f1d6bad3a404d117b6eafba0307c",
     "size": 3497168896
   },
   "resources": "resources/files",

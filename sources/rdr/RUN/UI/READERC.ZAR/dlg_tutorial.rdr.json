@@ -1,8 +1,8 @@
 {
   "resource": "/RUN/UI/READERC.ZAR",
-  "resource_sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+  "resource_sha256": "ef71dc29c81c99d628ec82fd79a36e527af1ecd82714d4634a47ecd7fa04868f",
   "section": "dlg_tutorial.rdr",
-  "section_sha256": "5361adff68f7f101932f23384056fb89cc64e21bc7b52ecc6f7b6546a8357cc5",
+  "section_sha256": "323d80db5fd639e9c5781f1a676c9ad67e8ff79b10f9a5927dfa8a8e73a81a36",
   "tree": [
     [
       "SCREENS",
@@ -94,7 +94,7 @@
               ],
               "CAPTION",
               [
-                "TUTORIALS"
+                "O\u00c1\u00dc4EH\u00c8E"
               ],
               "SCALE",
               [
@@ -503,7 +503,7 @@
               ],
               "CAPTION",
               [
-                "CHANGE STANCE"
+                "CMEH\u00c8T\u00d9 CTO\u00cfK\u00dc"
               ],
               "PRESSED",
               [
@@ -635,7 +635,7 @@
               ],
               "CAPTION",
               [
-                "SELECT WEAPON"
+                "B\u00c0\u00c1PAT\u00d9 OP\u00dc\u00c4\u00c8E"
               ],
               "PRESSED",
               [
@@ -767,7 +767,7 @@
               ],
               "CAPTION",
               [
-                "USE NVG/SCOPE"
+                "\u00caHB \u00c8 \u00caP\u00c8\u00c7E\u00c9"
               ],
               "PRESSED",
               [
@@ -899,7 +899,7 @@
               ],
               "CAPTION",
               [
-                "PICK UP OBJECT"
+                "\u00caO\u00c2H\u00dbT\u00d9 \u00caPE\u00c2MET"
               ],
               "PRESSED",
               [
@@ -1031,7 +1031,7 @@
               ],
               "CAPTION",
               [
-                "PICK UP WEAPON"
+                "\u00caO\u00c2H\u00dbT\u00d9 OP\u00dc\u00c4\u00c8E"
               ],
               "PRESSED",
               [
@@ -1163,7 +1163,7 @@
               ],
               "CAPTION",
               [
-                "USE LEVER"
+                "\u00c8C\u00caO\u00c9\u00d93OBAT\u00d9 P\u00c04A\u00cb"
               ],
               "PRESSED",
               [
@@ -1295,7 +1295,7 @@
               ],
               "CAPTION",
               [
-                "KNIFE KILL"
+                "\u00dc\u00c2AP HO\u00c4OM"
               ],
               "PRESSED",
               [
@@ -1427,7 +1427,7 @@
               ],
               "CAPTION",
               [
-                "SWITCH ACTIONS"
+                "CMEH\u00c8T\u00d9 \u00c2E\u00cfCTB\u00c8E"
               ],
               "PRESSED",
               [
@@ -1559,7 +1559,7 @@
               ],
               "CAPTION",
               [
-                "BODY CARRY"
+                "\u00caEPEHOC\u00c8T\u00d9 TE\u00c9O"
               ],
               "PRESSED",
               [
@@ -1691,7 +1691,7 @@
               ],
               "CAPTION",
               [
-                "USING THE TCM"
+                "TAKT\u00c84ECKOE MEH\u00d4"
               ],
               "PRESSED",
               [
@@ -1823,7 +1823,7 @@
               ],
               "CAPTION",
               [
-                "ESCORTEE FOLLOW"
+                "BE\u00c2OM\u00c0\u00cf: C\u00c9E\u00c2\u00dc\u00cf"
               ],
               "PRESSED",
               [
@@ -1955,7 +1955,7 @@
               ],
               "CAPTION",
               [
-                "DEPLOY ITEMS"
+                "\u00caP\u00c8MEH\u00c8T\u00d9 CHAP\u00db\u00c4EH\u00c8E"
               ],
               "PRESSED",
               [

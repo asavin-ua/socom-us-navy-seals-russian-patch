@@ -56,7 +56,7 @@
   {
     "path": "/RUN/READERC.ZAR",
     "base_sha256": "2fc4be419698d806da0c1b3e8388bbc65b774ae7def09e10936b12bf3177a67a",
-    "sha256": "7efc5adfb4684a431569793030105e7de74681db3958acb55fdcc53b780b7c54",
+    "sha256": "bca852ffccd8ae9ea0a7fd76d7935b8f6b3c044854b45e1ab6e94c28a00231b4",
     "old_lba": 1308126,
     "lba": 1308126,
     "old_size": 2218976,
@@ -344,7 +344,7 @@
   {
     "path": "/RUN/UI/READERC.ZAR",
     "base_sha256": "578503ed0f72417b6f2d9aa655e02f4a0bc3f06d2b0ad0f6cf499b375d44156b",
-    "sha256": "aa869b2807372e690dbfe77ec19ed177f434f957311395c1def04e5aa045766e",
+    "sha256": "ef71dc29c81c99d628ec82fd79a36e527af1ecd82714d4634a47ecd7fa04868f",
     "old_lba": 1618726,
     "lba": 1618726,
     "old_size": 1261008,
