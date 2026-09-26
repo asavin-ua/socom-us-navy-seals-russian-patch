@@ -362,11 +362,11 @@
   {
     "path": "/RUN/UIZANIM.ZAR",
     "base_sha256": "862d710c6c19ac998f05dfbcd53a3681a9c953a6115d7e8865f1c6bd868e7149",
-    "sha256": "bd5a1499d636bda93e14bae0434d3513a2a2c01ebf28d6b78779dd3489f047de",
+    "sha256": "73077382ba4bb023d6af9c0e930a57328a0ad9c34fbb0a722bde20c5ac419054",
     "old_lba": 1619829,
     "lba": 1706553,
     "old_size": 2077536,
-    "size": 2142512
+    "size": 2142528
   },
   {
     "path": "/RUN/ZWEAPON.ZAR",

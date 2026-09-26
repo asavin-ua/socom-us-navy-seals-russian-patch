@@ -1,0 +1,12 @@
+{
+  "resource": "/RUN/UIZANIM.ZAR",
+  "context": "POPUP / popupOp.tif / pop_butt.tif",
+  "replacements": [
+    {
+      "old": "CONTINUE",
+      "new": "ДАЛЕЕ",
+      "encoding": "ui",
+      "name_tables": 79
+    }
+  ]
+}
