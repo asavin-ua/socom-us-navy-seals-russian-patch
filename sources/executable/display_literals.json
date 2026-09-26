@@ -565,6 +565,11 @@
     "current_game_bytes_hex": "33415025c2"
   },
   {
+    "offset": 3642352,
+    "english": "FOLLOW!",
+    "current_game_bytes_hex": "432445c2262321"
+  },
+  {
     "offset": 3642360,
     "english": "HOLD POSITION",
     "current_game_bytes_hex": "26c24550c42342415436"
