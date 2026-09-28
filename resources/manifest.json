@@ -56,7 +56,7 @@
   {
     "path": "/RUN/READERC.ZAR",
     "base_sha256": "2fc4be419698d806da0c1b3e8388bbc65b774ae7def09e10936b12bf3177a67a",
-    "sha256": "bca852ffccd8ae9ea0a7fd76d7935b8f6b3c044854b45e1ab6e94c28a00231b4",
+    "sha256": "79958aedd4f9291e8de0d1e4a3738bc6d55d712924c9f1e704d56bf255753dcf",
     "old_lba": 1308126,
     "lba": 1308126,
     "old_size": 2218976,
@@ -83,11 +83,11 @@
   {
     "path": "/RUN/SP/M12/MZANIM.ZAR",
     "base_sha256": "aedd09d724113021f1b234c26d8ce61e77a02edc9834ff72b0da96429396c732",
-    "sha256": "edf6cb58a83926d86a21eb666ff9bc205d2efa18560b8395dd276d7aac22762e",
+    "sha256": "2e8c00e811a4b660d64c76da7612912fbd0a8c7c81a042b1f11370240f211701",
     "old_lba": 1701323,
     "lba": 1701323,
     "old_size": 343200,
-    "size": 343840
+    "size": 343856
   },
   {
     "path": "/RUN/SP/M12/READERM.ZAR",
@@ -119,11 +119,11 @@
   {
     "path": "/RUN/SP/M15/MZANIM.ZAR",
     "base_sha256": "91c4df5e64e664562faa2cba06fb8dd0e559673703c4f4af64fd8b28b32a13b9",
-    "sha256": "fa43798b7dfd349cf642c4f9beb59f57e77deccd7ef8869d6d87a11e90960b7f",
+    "sha256": "24f08421483ea6db0abc0fdc21f0dca5c2ca45c28e4c8d427e0819d1bb791768",
     "old_lba": 1692553,
     "lba": 1692553,
     "old_size": 430384,
-    "size": 430816
+    "size": 430832
   },
   {
     "path": "/RUN/SP/M15/READERM.ZAR",
@@ -155,11 +155,11 @@
   {
     "path": "/RUN/SP/M17/MZANIM.ZAR",
     "base_sha256": "6f4e1c3db8f3ce5dd2e4c80dbf4f75b1a97b052dd55a0320c36af4c185f0171e",
-    "sha256": "617302d1a94b2831a6524506c8a1631728ab61638c1ec3e07a3168167164d784",
+    "sha256": "11ac1894f86289ffa63d00f0751e70f9138dc7a5043ab19ebde8e32ed04ee831",
     "old_lba": 1684993,
     "lba": 1684993,
     "old_size": 230176,
-    "size": 230672
+    "size": 230704
   },
   {
     "path": "/RUN/SP/M17/READERM.ZAR",
@@ -191,11 +191,11 @@
   {
     "path": "/RUN/SP/M21/MZANIM.ZAR",
     "base_sha256": "4292e79e03749491f466acdc5e57bda48dee49a6105f2b65526074a34c8c8801",
-    "sha256": "c36a7af13dd8252344f9875152232475cc7aabd1aa9a7de2f626b6993b061121",
+    "sha256": "a62b0def62823760bd195394cceefdad7b07ca8be7420d414454fcbc76c164d8",
     "old_lba": 1677106,
     "lba": 1677106,
     "old_size": 238096,
-    "size": 238480
+    "size": 238528
   },
   {
     "path": "/RUN/SP/M21/READERM.ZAR",
@@ -263,11 +263,11 @@
   {
     "path": "/RUN/SP/M9/MZANIM.ZAR",
     "base_sha256": "e14dbb34f66496a811bfe1897afe5905b9f138f0776df0b8a6baa25cf7e840cd",
-    "sha256": "1743290d69c056c5197dba7d856adaa4752449fb978a62033521ac681361c383",
+    "sha256": "01ad79cf5870d5f85f766cab598525a06f76530e46719d05c020ca94ad87e30f",
     "old_lba": 1663661,
     "lba": 1706452,
     "old_size": 204640,
-    "size": 205024
+    "size": 205424
   },
   {
     "path": "/RUN/SP/M9/READERM.ZAR",
@@ -344,7 +344,7 @@
   {
     "path": "/RUN/UI/READERC.ZAR",
     "base_sha256": "578503ed0f72417b6f2d9aa655e02f4a0bc3f06d2b0ad0f6cf499b375d44156b",
-    "sha256": "ef71dc29c81c99d628ec82fd79a36e527af1ecd82714d4634a47ecd7fa04868f",
+    "sha256": "5805b70fd8a954f35bd90fd6646ab655772745fa2b075a47edc9199caa245031",
     "old_lba": 1618726,
     "lba": 1618726,
     "old_size": 1261008,
@@ -353,7 +353,7 @@
   {
     "path": "/RUN/UI/READERX.ZAR",
     "base_sha256": "08dcfabbfddd160c67b542ddc1bd98a8b9fb98e66dfa47fe10a1f94756fc4951",
-    "sha256": "a5202d884ea728d6f060ddb0a396939362bc09d1d8fb4a21fc214b0f1b0fdc09",
+    "sha256": "05a5df7412d9f2c790acfdfe6ce78611fd9ca20a66ae3379fd0b3e49c20bb265",
     "old_lba": 1658031,
     "lba": 1658031,
     "old_size": 199984,

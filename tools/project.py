@@ -4,6 +4,7 @@ import argparse, hashlib, json, os, struct
 from socom_formats import records, sections, u32, allrefs
 from rdr_runtime import runtime_roundtrip
 from animation_runtime import inspect
+from font_glyph_audit import verify as verify_font_glyphs
 
 ROOT=Path(__file__).resolve().parents[1]
 CHUNK=8*1024*1024
@@ -57,6 +58,7 @@ def audit(report=None):
                 else:checks.append(dict(section=n,**runtime_roundtrip(b,s,z)))
             row['readers']=checks
         rows.append(row)
+    verify_font_glyphs(ROOT)
     result=dict(status='passed',files=rows,resources=len(rows),animation_tables=tables)
     if report:dump(supplied(report),result)
     print(f'Resources verified: {len(rows)}; animation tables: {tables}',flush=True)

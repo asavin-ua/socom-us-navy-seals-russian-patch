@@ -1,0 +1,39 @@
+{
+  "encoding": "ui",
+  "context": "Visible objective progress and completion popups in mission MZANIM Name_Table",
+  "missions": {
+    "M9": [
+      {"index": 63, "english": "SILENT INSERTION ACHIEVED", "russian": "НЕЗАМЕТНОЕ ПРОНИКНОВЕНИЕ"},
+      {"index": 70, "english": "INTEL COLLECTED FROM HUT", "russian": "ДАННЫЕ ИЗ ХИЖИНЫ ПОЛУЧЕНЫ"},
+      {"index": 76, "english": "ENEMY ESCAPE PREVENTED", "russian": "ПОБЕГ ВРАГА ПРЕСЕЧЁН"},
+      {"index": 78, "english": "SECURE MAIN COMPLEX", "russian": "ЗАЧИСТИТЬ ГЛАВНЫЙ КОМПЛЕКС"},
+      {"index": 82, "english": "BOAT DESTROYED", "russian": "ЛОДКА УНИЧТОЖЕНА"},
+      {"index": 87, "english": "BRAVO COVERING AT JULIET", "russian": "БРАВО ПРИКРЫВАЕТ У ДЖУЛЬЕТ"},
+      {"index": 104, "english": "HUT1 CLEARED", "russian": "ХИЖИНА 1 ЗАЧИЩЕНА"},
+      {"index": 112, "english": "HUT2 CLEARED", "russian": "ХИЖИНА 2 ЗАЧИЩЕНА"},
+      {"index": 119, "english": "MAIN COMPLEX SECURE", "russian": "ГЛАВНЫЙ КОМПЛЕКС ЗАЧИЩЕН"},
+      {"index": 126, "english": "RECLAIM THE BIO-WARFARE DATA", "russian": "ВЕРНУТЬ ДАННЫЕ О БИООРУЖИИ"},
+      {"index": 129, "english": "FINAL HUT CLEARED", "russian": "ПОСЛЕДНЯЯ ХИЖИНА ЗАЧИЩЕНА"},
+      {"index": 134, "english": "INTEL RECOVERED", "russian": "РАЗВЕДДАННЫЕ ПОЛУЧЕНЫ"},
+      {"index": 136, "english": "THE BIOLOGICAL WARFARE DATA IS NOT AMONGST THE DOCUMENTS", "russian": "ДАННЫХ О БИООРУЖИИ В ДОКУМЕНТАХ НЕТ"},
+      {"index": 137, "english": "THEY MUST HAVE MOVED THE DATA UPRIVER", "russian": "ДАННЫЕ УВЕЗЛИ ВВЕРХ ПО РЕКЕ"},
+      {"index": 140, "english": "PROCEED TO EXTRACTION POINT AT ZULU", "russian": "ИДИТЕ К ТОЧКЕ ЭВАКУАЦИИ ЗУЛУ"},
+      {"index": 143, "english": "READY FOR EXTRACTION", "russian": "ГОТОВЫ К ЭВАКУАЦИИ"}
+    ],
+    "M12": [
+      {"index": 79, "english": "OBTAIN INTEL", "russian": "ПОЛУЧИТЬ ДАННЫЕ"}
+    ],
+    "M15": [
+      {"index": 46, "english": "RADIO DISABLED", "russian": "РАЦИЯ ОТКЛЮЧЕНА"}
+    ],
+    "M17": [
+      {"index": 73, "english": "INTEL FOUND", "russian": "ДАННЫЕ НАЙДЕНЫ"},
+      {"index": 98, "english": "AREA SECURED", "russian": "РАЙОН ЗАЧИЩЕН"}
+    ],
+    "M21": [
+      {"index": 107, "english": "CLEAR TOWERS", "russian": "ЗАЧИСТИТЬ ВЫШКИ"},
+      {"index": 171, "english": "SECURE MARINE", "russian": "СПАСТИ БОЙЦА"},
+      {"index": 185, "english": "BUNKER INFILTRATED", "russian": "ПРОНИКЛИ В БУНКЕР"}
+    ]
+  }
+}
